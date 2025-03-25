@@ -161,8 +161,6 @@ public:
 ```
 
 
-
-
 ## References
 - [striver sde sheet link](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - [striver channel yt video (without stack)](https://www.youtube.com/watch?v=COQOU6klsBg&ab_channel=takeUforward)

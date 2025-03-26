@@ -17,14 +17,15 @@
       "key": "PageDown"
     }
   ],
+  "graph:open": [],
+  "markdown:toggle-preview": [],
   "text-snippets-obsidian:text-snippets": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "G"
+      "key": "B"
     }
   ],
-  "graph:open": [],
-  "markdown:toggle-preview": []
+  "editor:toggle-bold": []
 }

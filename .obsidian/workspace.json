@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Traversals/testing.md",
+                "file": "Main Notes/DSA/Binary Trees/Traversals/maximum path sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "testing"
+              "title": "maximum path sum"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Traversals/testing.md",
+                "file": "Main Notes/DSA/Binary Trees/Traversals/maximum path sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for testing"
+              "title": "Backlinks for maximum path sum"
             }
           },
           {
@@ -153,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,8 +170,13 @@
   },
   "active": "5840c3387f4c305f",
   "lastOpenFiles": [
-    "Main Notes/DSA/Binary Trees/Traversals/Preorder.md",
+    "Excalidraw/maximum path sum 2025-03-27 01.13.26.excalidraw.md",
+    "Main Notes/DSA/Binary Trees/Traversals/maximum path sum.md",
+    "Tags/hard.md",
+    "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
     "Main Notes/DSA/Binary Trees/Traversals/testing.md",
+    "Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md",
+    "Main Notes/DSA/Binary Trees/Traversals/Preorder.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Check Height Balanced.md",
     "Tags/revise.md",
@@ -188,15 +194,10 @@
     "Excalidraw",
     "Templates/Note..md",
     "Tags/medium question.md",
-    "Tags/Untitled.md",
-    "Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md",
-    "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
     "Tags/dsa.md",
     "Main Notes/DSA/Binary Trees/Medium Question",
     "Tags/ongoing.md",
     "Tags/traversals.md",
-    "Code/cpp/Travsersal/preorder.md",
-    "Tags/trees.md",
     "Code/cpp/Travsersal",
     "Code/cpp",
     "Untitled",

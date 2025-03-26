@@ -98,7 +98,5 @@ public:
 ## References
 - [striver sde sheet](https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/)
 - [striver channel yt video](https://www.youtube.com/watch?v=Z_NEgBgbRVI&ab_channel=takeUforward)
-
-
 ## Questions
-- [[Main Notes/DSA/Binary Trees/Traversals/Preorder|Preorder]]
+- Check the question section of [[Main Notes/DSA/Binary Trees/Traversals/Preorder|Preorder]]

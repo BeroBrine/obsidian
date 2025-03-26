@@ -1,6 +1,7 @@
 2025-03-24 14:09
 
-Status: [[ongoing]] Tags: [[traversals]] [[dsa]] ## Postorder
+Status: [[ongoing]] Tags: [[traversals]] [[dsa]]
+## Postorder
 - Traversal in the form of Left Right Node
 - The recursion will occur until left subtree , then if it encounters a node which has no left child , it'll go into the right node and check for it's left child , if it has left it'll continue till left.
 - It'll continue until it encounters a node which has no child.
@@ -10,17 +11,6 @@ Status: [[ongoing]] Tags: [[traversals]] [[dsa]] ## Postorder
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
-// @leet start
-
-// struct TreeNode {
-//   int val;
-//   TreeNode *left;
-//   TreeNode *right;
-//   TreeNode() : val(0), left(nullptr), right(nullptr) {}
-//   TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-//   TreeNode(int x, TreeNode *left, TreeNode *right)
-//       : val(x), left(left), right(right) {}
-// };
 class Solution {
 public:
   vector<int> postorderTraversal(TreeNode *root) {
@@ -39,7 +29,6 @@ public:
     vec.push_back(node->val);
   }
 };
-// @leet end
 ```
 
 ## Using 2 stacks
@@ -51,16 +40,6 @@ public:
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
-
-// struct TreeNode {
-//   int val;
-//   TreeNode *left;
-//   TreeNode *right;
-//   TreeNode() : val(0), left(nullptr), right(nullptr) {}
-//   TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-//   TreeNode(int x, TreeNode *left, TreeNode *right)
-//       : val(x), left(left), right(right) {}
-// };
 class Solution {
 public:
   vector<int> postorderTraversal(TreeNode *root) {
@@ -103,7 +82,7 @@ public:
 	- In this we first take two var curr and temp.
 		- when curr is not null. we push it's left child and curr becomes curr->left.
 		- if whenever curr becomes null. we look to stack.
-			- we assign temp as the right child of the top most stack
+			- we assign temp as the right child of the top most node in stack
 				- Now two conditions can occurr, if the temp is not null , curr is assigned as temp
 				- if temp is null. meaning there's no right child at the top of the stack too(remember we already checked for left child in the if statement where curr is being assigned) .
 					- Then what we do is pop the top element in the stack , assign it to temp , and then push it to vec(contains postorder traversal).
@@ -116,6 +95,7 @@ public:
 				 
 
 ```cpp
+
 #include <bits/stdc++.h>
 using namespace std;
 class Solution {

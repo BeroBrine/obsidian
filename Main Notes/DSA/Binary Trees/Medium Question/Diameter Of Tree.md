@@ -3,7 +3,7 @@
 
 *Status*:
 
-*Tags*: [[trees]] [[dsa]]
+*Tags*: [[trees]] [[dsa]] [[revise]] [[medium question]] 
 
 ## Diameter Of Tree
 - *Problem* *Statement*: 
@@ -16,13 +16,49 @@
 	![[Diameter Of Tree 2025-03-26 17.16.24.excalidraw]]
 
 ### Algo
+- For every node we calculate it's diameter.
+	- Diameter is calculated by height(node->left) + height(node->right) + 1. 1 is for the node itself. 
+		- Height is calculated by [[Height Of Binary Tree]]
+	- This diameter gets compared to a value i.e max which is passed from the parent function. i.e it's atomic
+	- after the recurstion completes . the max value contains the value of diameter of the tree.
 
 
+### My Approach
 
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
 
+class Solution {
+public:
+  int diameterOfBinaryTree(TreeNode *root) {
+    int max = INT_MIN;
+    calculate_diameter(root, max);
+    return max;
+  }
 
+  int calculate_diameter(TreeNode *root, int &maxi) {
+    if (root == nullptr) {
+      return 0;
+    }
 
+    int lh = height(root->left);
+    int rh = height(root->right);
 
+    int diam = lh + rh;
+    maxi = max(maxi, diam);
+    return 1 + calculate_diameter(root->left, maxi) +
+           calculate_diameter(root->right, maxi);
+  }
+  int height(TreeNode *node) {
+    if (node == nullptr)
+      return 0;
+
+    return 1 + max(height(node->left), height(node->right));
+  }
+};
+
+```
 
 
 

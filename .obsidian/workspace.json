@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Traversals/Preorder.md",
+                "file": "Main Notes/DSA/Binary Trees/Traversals/testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preorder"
+              "title": "testing"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Traversals/Preorder.md",
+                "file": "Main Notes/DSA/Binary Trees/Traversals/testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Preorder"
+              "title": "Backlinks for testing"
             }
           },
           {
@@ -169,6 +169,8 @@
   },
   "active": "5840c3387f4c305f",
   "lastOpenFiles": [
+    "Main Notes/DSA/Binary Trees/Traversals/Preorder.md",
+    "Main Notes/DSA/Binary Trees/Traversals/testing.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Check Height Balanced.md",
     "Tags/revise.md",
@@ -190,13 +192,11 @@
     "Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md",
     "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
     "Tags/dsa.md",
-    "Main Notes/DSA/Binary Trees/Traversals/Preorder.md",
     "Main Notes/DSA/Binary Trees/Medium Question",
     "Tags/ongoing.md",
     "Tags/traversals.md",
     "Code/cpp/Travsersal/preorder.md",
     "Tags/trees.md",
-    "inorder.md",
     "Code/cpp/Travsersal",
     "Code/cpp",
     "Untitled",

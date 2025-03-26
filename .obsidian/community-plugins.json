@@ -1,5 +1,7 @@
 [
   "text-snippets-obsidian",
   "obsidian-git",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "code-styler",
+  "execute-code"
 ]

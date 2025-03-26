@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "maximum path sum"
             }
+          },
+          {
+            "id": "16074fb9662276f5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/maximum path sum 2025-03-27 02.00.12.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "maximum path sum 2025-03-27 02.00.12.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Traversals/maximum path sum.md",
+                "file": "Excalidraw/maximum path sum 2025-03-27 02.00.12.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for maximum path sum"
+              "title": "Backlinks for maximum path sum 2025-03-27 02.00.12.excalidraw"
             }
           },
           {
@@ -168,10 +181,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5840c3387f4c305f",
+  "active": "16074fb9662276f5",
   "lastOpenFiles": [
-    "Excalidraw/maximum path sum 2025-03-27 01.13.26.excalidraw.md",
+    "Pasted Image 20250327020145_282.png",
     "Main Notes/DSA/Binary Trees/Traversals/maximum path sum.md",
+    "Excalidraw/maximum path sum 2025-03-27 02.00.12.excalidraw.md",
+    "Excalidraw/maximum path sum 2025-03-27 01.13.26.excalidraw.md",
     "Tags/hard.md",
     "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
     "Main Notes/DSA/Binary Trees/Traversals/testing.md",
@@ -196,8 +211,6 @@
     "Tags/medium question.md",
     "Tags/dsa.md",
     "Main Notes/DSA/Binary Trees/Medium Question",
-    "Tags/ongoing.md",
-    "Tags/traversals.md",
     "Code/cpp/Travsersal",
     "Code/cpp",
     "Untitled",

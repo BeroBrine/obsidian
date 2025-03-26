@@ -14,7 +14,7 @@
 	Given the root of a binary tree, return the maximum path sum of any non-empty path.
 	![[maximum path sum 2025-03-27 01.13.26.excalidraw|800x300]]
 
-
+![[maximum path sum 2025-03-27 02.00.12.excalidraw]]
 
 
 

@@ -2,7 +2,7 @@
 
 Status:
 
-Tags:
+Tags: [[traversals]] [[dsa]]
 
 ## All Traversal Combined
 

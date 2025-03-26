@@ -2,8 +2,7 @@
 
 Status:
 
-Tags: [[traversals]]
-
+Tags: [[traversals]] [[dsa]] [[trees]]
 ## Preorder 
 - Traversal in the form of Root Left Right
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/revise.md",
+                "file": "Main Notes/DSA/Binary Trees/Medium Question/Check Height Balanced.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "revise"
+              "title": "Check Height Balanced"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/revise.md",
+                "file": "Main Notes/DSA/Binary Trees/Medium Question/Check Height Balanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for revise"
+              "title": "Backlinks for Check Height Balanced"
             }
           },
           {
@@ -169,11 +169,12 @@
   },
   "active": "5840c3387f4c305f",
   "lastOpenFiles": [
+    "Scarping.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Check Height Balanced.md",
+    "Main Notes/DSA/Binary Trees/Medium Question/Height Of Binary Tree.md",
     "Templates/revise.md",
     "Excalidraw/Check Height Balanced 2025-03-26 15.58.27.excalidraw.md",
     "Excalidraw/Drawing 2025-03-26 15.10.20.excalidraw.md",
-    "Main Notes/DSA/Binary Trees/Medium Question/Height Of Binary Tree.md",
     "README.md",
     "Templates/dsa note.md",
     "Excalidraw/Drawing 2025-03-26 15.10.10.excalidraw.md",
@@ -200,7 +201,6 @@
     "Code/cpp",
     "Untitled",
     "Code",
-    "Youtub.md",
     "Main Notes",
     "Templates",
     "Main Notes/DSA",

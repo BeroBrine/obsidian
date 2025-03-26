@@ -1,9 +1,9 @@
 
 2025-03-26 14:41
 
-*Status*: 
+*Status*: [[revise]]
 
-*Tags*: [[dsa]] [[medium question]] 
+*Tags*: [[dsa]] [[medium question]] [[trees]] 
 
 ## Check Height Balanced
 - *Problem* *Statement*: Given a binary tree, determine if it is height-balanced.

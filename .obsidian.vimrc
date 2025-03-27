@@ -16,8 +16,8 @@ exmap jumpto obcommand mrj-jump-to-link:activate-jump-to-anywhere
 exmap closeTab obcommand workspace:close
 
 nnoremap gd :JumpToLink<CR>
-nnoremap th :BackPane<CR>
-nnoremap tl :FrontPane<CR> 
+nnoremap <Space>h :BackPane<CR>
+nnoremap <Space>l :FrontPane<CR> 
 nnoremap <Space>e :FileExplorer<CR>
 nnoremap <Space>w :w<CR>
 

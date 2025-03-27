@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9fe76ce9376c4649",
+        "id": "93308ecf865c359c",
         "type": "tabs",
         "children": [
           {
-            "id": "67b39f3d2b857db4",
+            "id": "322db6c95a2a3e52",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,47 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
+                "file": "Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level Order Traversal"
-            }
-          }
-        ]
-      },
-      {
-        "id": "48e732c357609239",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "81d6cb12887d6be4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "traversals",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/traversals.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"traversals\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diameter Of Tree"
+              "title": "Check If Same Tree"
             }
           }
         ]
@@ -144,6 +109,43 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "67b39f3d2b857db4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Check If Same Tree",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Check If Same Tree\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Check Height Balanced",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Check Height Balanced.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Check Height Balanced\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Level Order Traversal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Level Order Traversal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":1},\"to\":{\"line\":0,\"ch\":1}},\"scroll\":0.7317073170731707}"
+                }
+              ]
+            },
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -159,7 +161,7 @@
       {
         "id": "cbed4ef832a7d7db",
         "type": "tabs",
-        "dimension": 68.44919786096257,
+        "dimension": 36.33125556544969,
         "children": [
           {
             "id": "8c7b51e71a6a2970",
@@ -176,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
+                "file": "Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Level Order Traversal"
+              "title": "Backlinks for Check If Same Tree"
             }
           },
           {
@@ -261,9 +263,35 @@
         ]
       },
       {
+        "id": "a7f9ed2779996954",
+        "type": "tabs",
+        "dimension": 32.68032056990205,
+        "children": [
+          {
+            "id": "c9ed1d6d13ab4b8e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
         "id": "6b3b2a2d3f8a8582",
         "type": "tabs",
-        "dimension": 31.550802139037437,
+        "dimension": 30.98842386464826,
         "children": [
           {
             "id": "b0ef9787c61e59b6",
@@ -302,10 +330,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "67b39f3d2b857db4",
+  "active": "322db6c95a2a3e52",
   "lastOpenFiles": [
-    "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
+    "Excalidraw/Check If Same Tree 2025-03-27 16.44.22.excalidraw.md",
+    "Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md",
+    "Main Notes/DSA/Binary Trees/Medium Question/Check Height Balanced.md",
     "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
+    "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
     "Tags/traversals.md",
     "Excalidraw/maximum path sum 2025-03-27 02.00.12.excalidraw.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Height Of Binary Tree.md",
@@ -319,7 +350,6 @@
     "Main Notes/DSA/Binary Trees/Traversals/testing.md",
     "Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md",
     "Main Notes/DSA/Binary Trees/Traversals/Preorder.md",
-    "Main Notes/DSA/Binary Trees/Medium Question/Check Height Balanced.md",
     "Tags/revise.md",
     "Main Notes/DSA/Binary Trees/Traversals/postorder.md",
     "Main Notes/DSA/Binary Trees/Traversals/inorder.md",
@@ -332,8 +362,6 @@
     "Excalidraw/Drawing 2025-03-26 15.10.10.excalidraw.md",
     "Excalidraw/Drawing 2025-03-26 15.08.42.excalidraw.md",
     "Excalidraw",
-    "Templates/Note..md",
-    "Tags/medium question.md",
     "Main Notes/DSA/Binary Trees/Medium Question",
     "Code/cpp/Travsersal",
     "Code/cpp",

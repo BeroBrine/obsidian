@@ -59,30 +59,8 @@
               "icon": "lucide-file",
               "title": "Zig Zag Traversal"
             }
-          },
-          {
-            "id": "70b96b576a8adc31",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Zig Zag Traversal 2025-03-27 18.55.35.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Zig Zag Traversal 2025-03-27 18.55.35.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,36 +191,8 @@
       {
         "id": "cbed4ef832a7d7db",
         "type": "tabs",
-        "dimension": 36.33125556544969,
+        "dimension": 32.829181494661924,
         "children": [
-          {
-            "id": "8c7b51e71a6a2970",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Excalidraw/Zig Zag Traversal 2025-03-27 18.55.35.excalidraw.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Zig Zag Traversal 2025-03-27 18.55.35.excalidraw"
-            }
-          },
           {
             "id": "1cf54206a9eaa9c7",
             "type": "leaf",
@@ -258,11 +208,31 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Main Notes/DSA/Binary Trees/Traversals/Zig Zag Traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Zig Zag Traversal"
+            }
+          },
+          {
+            "id": "b0ef9787c61e59b6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -312,12 +282,13 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a7f9ed2779996954",
         "type": "tabs",
-        "dimension": 32.68032056990205,
+        "dimension": 35.76512455516014,
         "children": [
           {
             "id": "c9ed1d6d13ab4b8e",
@@ -341,12 +312,12 @@
         ]
       },
       {
-        "id": "6b3b2a2d3f8a8582",
+        "id": "46377aa4a040ffd8",
         "type": "tabs",
-        "dimension": 30.98842386464826,
+        "dimension": 31.405693950177938,
         "children": [
           {
-            "id": "b0ef9787c61e59b6",
+            "id": "8c7b51e71a6a2970",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -358,10 +329,19 @@
               ]
             },
             "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "type": "backlink",
+              "state": {
+                "file": "Main Notes/DSA/Binary Trees/Traversals/Zig Zag Traversal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Zig Zag Traversal"
             }
           }
         ]
@@ -382,9 +362,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "70b96b576a8adc31",
+  "active": "322db6c95a2a3e52",
   "lastOpenFiles": [
     "Main Notes/DSA/Binary Trees/Traversals/Zig Zag Traversal.md",
+    "Excalidraw/Zig Zag Traversal 2025-03-27 19.08.44.excalidraw.md",
     "Excalidraw/Zig Zag Traversal 2025-03-27 18.55.35.excalidraw.md",
     "Templates/dsa note.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md",
@@ -412,7 +393,6 @@
     "Excalidraw/Diameter Of Tree 2025-03-26 17.16.24.excalidraw.md",
     "Scarping.md",
     "Excalidraw/Check Height Balanced 2025-03-26 15.58.27.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-26 15.10.20.excalidraw.md",
     "Excalidraw",
     "Main Notes/DSA/Binary Trees/Medium Question",
     "Code/cpp/Travsersal",

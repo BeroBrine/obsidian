@@ -1,10 +1,8 @@
 2025-03-26 12:55
-
-Status:
+ 
+Status: [[revise]]
 
 Tags: [[medium question]] [[dsa]] [[trees]]
-
-
 ## Height Of Binary Tree
 - Two approaches. 
 	- Recursive (Generally used)

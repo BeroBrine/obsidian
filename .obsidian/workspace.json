@@ -10,20 +10,50 @@
           {
             "id": "5840c3387f4c305f",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Height Of Binary Tree",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Height Of Binary Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Height Of Binary Tree\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":15},\"to\":{\"line\":4,\"ch\":15}},\"scroll\":0.7317073170731707}"
+                },
+                {
+                  "title": "Pasted Image 20250327020145_282",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Images/Pasted Image 20250327020145_282.png\"},\"icon\":\"lucide-image\",\"title\":\"Pasted Image 20250327020145_282\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Traversals/maximum path sum.md",
+                "file": "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "maximum path sum"
+              "title": "Level Order Traversal"
             }
           },
           {
             "id": "16074fb9662276f5",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "excalidraw",
               "state": {
@@ -49,6 +79,15 @@
           {
             "id": "6449d8c70046fbe3",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -62,6 +101,15 @@
           {
             "id": "3b1d6958970d2ae4",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
@@ -79,6 +127,15 @@
           {
             "id": "6781179852e10587",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "bookmarks",
               "state": {},
@@ -90,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6beec99a0cb1b954",
@@ -103,6 +161,15 @@
           {
             "id": "8c7b51e71a6a2970",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "backlink",
               "state": {
@@ -122,6 +189,15 @@
           {
             "id": "1cf54206a9eaa9c7",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
@@ -135,6 +211,15 @@
           {
             "id": "f1b268a55f5bd9ac",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -150,6 +235,15 @@
           {
             "id": "02b124b4fea35516",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
               "state": {
@@ -182,23 +276,26 @@
   },
   "active": "5840c3387f4c305f",
   "lastOpenFiles": [
+    "Main Notes/DSA/Binary Trees/Medium Question/Height Of Binary Tree.md",
     "Excalidraw/maximum path sum 2025-03-27 02.00.12.excalidraw.md",
-    "Pasted Image 20250327020145_282.png",
-    "Main Notes/DSA/Binary Trees/Traversals/maximum path sum.md",
+    "Images/Pasted Image 20250327020145_282.png",
+    "Images",
+    "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
+    "Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md",
+    "Main Notes/DSA/Binary Trees/Hard Question",
+    "Main Notes/DSA/Binary Trees/Traversals/Trees Identical Or Not.md",
     "Excalidraw/maximum path sum 2025-03-27 01.13.26.excalidraw.md",
     "Tags/hard.md",
     "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
     "Main Notes/DSA/Binary Trees/Traversals/testing.md",
     "Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md",
     "Main Notes/DSA/Binary Trees/Traversals/Preorder.md",
-    "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Check Height Balanced.md",
     "Tags/revise.md",
     "Main Notes/DSA/Binary Trees/Traversals/postorder.md",
     "Main Notes/DSA/Binary Trees/Traversals/inorder.md",
     "Excalidraw/Diameter Of Tree 2025-03-26 17.16.24.excalidraw.md",
     "Scarping.md",
-    "Main Notes/DSA/Binary Trees/Medium Question/Height Of Binary Tree.md",
     "Excalidraw/Check Height Balanced 2025-03-26 15.58.27.excalidraw.md",
     "Excalidraw/Drawing 2025-03-26 15.10.20.excalidraw.md",
     "README.md",
@@ -208,15 +305,12 @@
     "Excalidraw",
     "Templates/Note..md",
     "Tags/medium question.md",
-    "Tags/dsa.md",
     "Main Notes/DSA/Binary Trees/Medium Question",
     "Code/cpp/Travsersal",
     "Code/cpp",
-    "Untitled",
     "Code",
     "Main Notes",
     "Templates",
-    "Main Notes/DSA",
-    "Tags"
+    "Main Notes/DSA"
   ]
 }

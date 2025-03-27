@@ -43,5 +43,31 @@
       ],
       "key": "G"
     }
+  ],
+  "pane-relief:go-next": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ","
+    }
+  ],
+  "app:open-settings": [],
+  "pane-relief:go-prev": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ],
+  "markdown:add-metadata-property": [],
+  "quick-explorer:browse-vault": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
   ]
 }

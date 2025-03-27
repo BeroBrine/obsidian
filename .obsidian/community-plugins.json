@@ -4,5 +4,10 @@
   "obsidian-style-settings",
   "code-styler",
   "execute-code",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-vimrc-support",
+  "pane-relief",
+  "obsidian-relative-line-numbers",
+  "mrj-jump-to-link",
+  "quick-explorer"
 ]

@@ -157,6 +157,7 @@
       {
         "id": "cbed4ef832a7d7db",
         "type": "tabs",
+        "dimension": 68.44919786096256,
         "children": [
           {
             "id": "8c7b51e71a6a2970",
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Traversals/maximum path sum.md",
+                "file": "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for maximum path sum"
+              "title": "Backlinks for Level Order Traversal"
             }
           },
           {
@@ -256,11 +257,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "6b3b2a2d3f8a8582",
+        "type": "tabs",
+        "dimension": 31.550802139037433,
+        "children": [
+          {
+            "id": "b0ef9787c61e59b6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,8 +293,9 @@
   },
   "active": "5840c3387f4c305f",
   "lastOpenFiles": [
-    "Main Notes/DSA/Binary Trees/Medium Question/Height Of Binary Tree.md",
     "Excalidraw/maximum path sum 2025-03-27 02.00.12.excalidraw.md",
+    "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
+    "Main Notes/DSA/Binary Trees/Medium Question/Height Of Binary Tree.md",
     "Images/Pasted Image 20250327020145_282.png",
     "Images",
     "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
@@ -286,7 +304,6 @@
     "Main Notes/DSA/Binary Trees/Traversals/Trees Identical Or Not.md",
     "Excalidraw/maximum path sum 2025-03-27 01.13.26.excalidraw.md",
     "Tags/hard.md",
-    "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
     "Main Notes/DSA/Binary Trees/Traversals/testing.md",
     "Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md",
     "Main Notes/DSA/Binary Trees/Traversals/Preorder.md",

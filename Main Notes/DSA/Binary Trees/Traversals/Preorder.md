@@ -1,8 +1,8 @@
-2025-03-22 21:01
+*2025-03-22 21:01*
 
-Status:
+*Status:*
 
-Tags: [[traversals]] [[dsa]] [[trees]]
+*Tags*: [[traversals]] [[dsa]] [[trees]]
 ## Preorder 
 - Traversal in the form of Root Left Right
 

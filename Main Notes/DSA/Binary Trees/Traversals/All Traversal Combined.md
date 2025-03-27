@@ -68,3 +68,15 @@ class Solution{
 ## References
 - [striver sde sheet link](https://takeuforward.org/data-structure/preorder-inorder-postorder-traversals-in-one-traversal/)
 - [yt link](https://www.youtube.com/watch?v=ySp2epYvgTE&feature=youtu.be)
+
+## FootNotes
+- Do not use if statements. because they need to be mutually exclusive.
+
+    After the first if condition (top_pair.second == 1) is true, top_pair.second++ increments the value to 2.
+
+    Then the second if condition (top_pair.second == 2) will also evaluate as true, since it is now 2.
+
+    Finally, the third if (top_pair.second != 1 && top_pair.second != 2) might also run if top_pair.second has been incremented further.
+	
+- If using if statements add continue after every if statement so that the conditions beneath do not get evaluated.
+

@@ -1,8 +1,8 @@
-2025-03-24 14:16
+*2025-03-24 14:16*
 
-Status:
+*Status:*
 
-Tags: [[traversals]] [[dsa]] [[trees]]
+*Tags*: [[traversals]] [[dsa]] [[trees]]
  
 ## Inorder
 - In this traversal , it goes L N R. meaning it prints the current node after traversing till no left child is found.

@@ -1,31 +1,33 @@
-
 *27-03-2025 20:26*
 
-*Status*:
+*Status*: [[revise]] [[pending]]
 
 *Tags*: [[dsa]]
-
 ## Boundary Traversal
 - Boundary traversal depicted below. 
 	![[Boundary Traversal 2025-03-27 20.33.55.excalidraw]]
 
 ### O(n) approach
 - In this , we push the left boundary node until we encounter a leaf node. 
-	
+	- One question i had is why we are not doing (node->left != nullptr) node = node ->left; (node->right != nullptr) node = node -> right;
+	- Because we are pushing the left boundary , but if there's a node in left which has no left child but has a right child. We will have to move to that node to still track boundary.
+
+  #### Right Boundary Function
 ```cpp
 
-    void leftBoundary(Node* node , vector<int> &vec) {
+void leftBoundary(Node* node , vector<int> &vec) {
 
-        while(node != nullptr) {
-            if(!isLeaf(node)) vec.push_back(node->data);
-            if (node -> left != nullptr) node = node->left;
-            else node = node->right;
-        }
+	while(node != nullptr) {
+		if(!isLeaf(node)) vec.push_back(node->data);
+		if (node -> left != nullptr) node = node->left;
+		else node = node->right;
+	}
 
-    }
+}
 ```
  
- - Then we , push all of the leave nodes. 
+ - Then we , push all of the leave nodes , using [[inorder]] traversal.
+#### Leaf Node Function
  ```cpp
 void leafNode(Node* node , vector<int> &vec) {
 	if(node == nullptr) {
@@ -44,7 +46,7 @@ void leafNode(Node* node , vector<int> &vec) {
 
 - Then we push the right boundary nodes till we encounter leaf node.
 	- But before pushing the node to ans vec , we need to reverse the array.
-	
+#### Right Boundary Function
 ```cpp
 
 void rightBoundary(Node* node , vector<int> &vec) {
@@ -60,11 +62,12 @@ void rightBoundary(Node* node , vector<int> &vec) {
 ```
 
 
+##### Edge Case 
+- If the root node itself is a leaf node.
+	- There was a quirk here , because of inorder traversal the root node , if a leaf node , will be pushed to leaf_node array , and in the main func i am also pushing the root node. 
+	- So , to handle this case , check if the root node itself is a leaf node , if it is then return the vec right there.
 
-
-
-
-### Code
+### Complete Code
 ```cpp
 class Solution {
   public:
@@ -129,19 +132,6 @@ class Solution {
         }
         reverse(vec.begin() , vec.end());
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 };
 ```
 
@@ -152,4 +142,6 @@ class Solution {
 - [yt video link](https://www.youtube.com/watch?v=0ca1nvR0be4&ab_channel=takeUforward)
 - [gfg question link](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
 
-- Check about Morris Order Traversal for this question too.
+
+## Footnote
+- Check about the morris order traversal for this question.

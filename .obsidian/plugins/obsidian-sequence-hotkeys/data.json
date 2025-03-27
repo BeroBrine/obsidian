@@ -1,0 +1,18 @@
+{
+  "hotkeys": [
+    {
+      "command": "editor:open-link-in-new-split",
+      "chords": [
+        "KeyG",
+        "KeyD"
+      ]
+    },
+    {
+      "command": "workspace:close-window",
+      "chords": [
+        "KeyQ",
+        "KeyQ"
+      ]
+    }
+  ]
+}

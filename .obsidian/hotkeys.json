@@ -62,12 +62,23 @@
     }
   ],
   "markdown:add-metadata-property": [],
+  "pane-relief:go-1st": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "mrj-jump-to-link:activate-jump-to-link": [],
   "quick-explorer:browse-vault": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "E"
+      "key": "R"
     }
-  ]
+  ],
+  "editor:follow-link": [],
+  "editor:open-link-in-new-split": []
 }

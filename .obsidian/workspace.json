@@ -41,27 +41,6 @@
               "icon": "lucide-file",
               "title": "Level Order Traversal"
             }
-          },
-          {
-            "id": "16074fb9662276f5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/maximum path sum 2025-03-27 02.00.12.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "maximum path sum 2025-03-27 02.00.12.excalidraw"
-            }
           }
         ]
       }
@@ -157,7 +136,7 @@
       {
         "id": "cbed4ef832a7d7db",
         "type": "tabs",
-        "dimension": 68.44919786096256,
+        "dimension": 68.44919786096257,
         "children": [
           {
             "id": "8c7b51e71a6a2970",
@@ -202,11 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Level Order Traversal"
             }
           },
           {
@@ -248,12 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Level Order Traversal"
             }
           }
         ]
@@ -261,11 +242,20 @@
       {
         "id": "6b3b2a2d3f8a8582",
         "type": "tabs",
-        "dimension": 31.550802139037433,
+        "dimension": 31.550802139037437,
         "children": [
           {
             "id": "b0ef9787c61e59b6",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "calendar",
               "state": {},
@@ -277,7 +267,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,8 +283,9 @@
   },
   "active": "5840c3387f4c305f",
   "lastOpenFiles": [
-    "Excalidraw/maximum path sum 2025-03-27 02.00.12.excalidraw.md",
+    "Tags/traversals.md",
     "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
+    "Excalidraw/maximum path sum 2025-03-27 02.00.12.excalidraw.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Height Of Binary Tree.md",
     "Images/Pasted Image 20250327020145_282.png",
     "Images",

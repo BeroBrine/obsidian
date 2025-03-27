@@ -9,12 +9,141 @@
 - Boundary traversal depicted below. 
 	![[Boundary Traversal 2025-03-27 20.33.55.excalidraw]]
 
+### O(n) approach
+- In this , we push the left boundary node until we encounter a leaf node. 
+	
+```cpp
+
+    void leftBoundary(Node* node , vector<int> &vec) {
+
+        while(node != nullptr) {
+            if(!isLeaf(node)) vec.push_back(node->data);
+            if (node -> left != nullptr) node = node->left;
+            else node = node->right;
+        }
+
+    }
+```
+ 
+ - Then we , push all of the leave nodes. 
+ ```cpp
+void leafNode(Node* node , vector<int> &vec) {
+	if(node == nullptr) {
+		return;
+	}
+	
+	leafNode(node->left , vec);
+	
+	if(isLeaf(node)) {
+		vec.push_back(node->data);
+	}
+	
+	leafNode(node->right , vec);
+}
+```
+
+- Then we push the right boundary nodes till we encounter leaf node.
+	- But before pushing the node to ans vec , we need to reverse the array.
+	
+```cpp
+
+void rightBoundary(Node* node , vector<int> &vec) {
+	while(node != nullptr) {
+		if(!isLeaf(node)) vec.push_back(node->data);
+		if(node->right != nullptr) node = node -> right;
+		else node = node -> left;
+	}
+	reverse(vec.begin() , vec.end());
+}
+
+	
+```
 
 
 
 
 
 
+### Code
+```cpp
+class Solution {
+  public:
+    vector<int> boundaryTraversal(Node *root) {
+        // code here
+        vector<int> left , leaf , right;
+        vector<int> ans;
+        ans.push_back(root->data);
+        if(isLeaf(root)) {
+            return ans;
+        }
+        leftBoundary(root->left , left);
+        leafNode(root , leaf);
+        rightBoundary(root->right , right);
+        for (int i : left) {
+            ans.push_back(i);
+        }
+        for(int i : leaf) {
+            ans.push_back(i);
+        }
+        for(int i : right) {
+            ans.push_back(i);
+        }
+        return ans;
+        
+    }
+    
+    bool isLeaf(Node* node) {
+        if(node -> left == nullptr && node->right == nullptr) {
+            return true;
+        }
+        return false;
+    }
+    
+    void leftBoundary(Node* node , vector<int> &vec) {
+
+        while(node != nullptr) {
+            if(!isLeaf(node)) vec.push_back(node->data);
+            if (node -> left != nullptr) node = node->left;
+            else node = node->right;
+        }
+
+    }
+    void leafNode(Node* node , vector<int> &vec) {
+        if(node == nullptr) {
+            return;
+        }
+        
+        leafNode(node->left , vec);
+        
+        if(isLeaf(node)) {
+            vec.push_back(node->data);
+        }
+        
+        leafNode(node->right , vec);
+    }
+    void rightBoundary(Node* node , vector<int> &vec) {
+        while(node != nullptr) {
+            if(!isLeaf(node)) vec.push_back(node->data);
+            if(node->right != nullptr) node = node -> right;
+            else node = node -> left;
+        }
+        reverse(vec.begin() , vec.end());
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+};
+```
 
 
 

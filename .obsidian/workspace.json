@@ -33,11 +33,11 @@
         ]
       },
       {
-        "id": "3aac98383472bf65",
+        "id": "48e732c357609239",
         "type": "tabs",
         "children": [
           {
-            "id": "3316b7284b241d64",
+            "id": "81d6cb12887d6be4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -45,18 +45,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "traversals",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/traversals.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"traversals\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/traversals.md",
+                "file": "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "traversals"
+              "title": "Diameter Of Tree"
             }
           }
         ]
@@ -170,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/traversals.md",
+                "file": "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +186,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for traversals"
+              "title": "Backlinks for Diameter Of Tree"
             }
           },
           {
@@ -296,15 +302,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3316b7284b241d64",
+  "active": "81d6cb12887d6be4",
   "lastOpenFiles": [
     "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
+    "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
     "Tags/traversals.md",
     "Excalidraw/maximum path sum 2025-03-27 02.00.12.excalidraw.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Height Of Binary Tree.md",
     "Images/Pasted Image 20250327020145_282.png",
     "Images",
-    "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
     "Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md",
     "Main Notes/DSA/Binary Trees/Hard Question",
     "Main Notes/DSA/Binary Trees/Traversals/Trees Identical Or Not.md",

@@ -62,8 +62,6 @@ public:
 
 
 
-
-
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/calculate-the-diameter-of-a-binary-tree/)
 - [yt video link](https://www.youtube.com/watch?v=Rezetez59Nk&feature=youtu.be)

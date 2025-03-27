@@ -10,8 +10,8 @@
   "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-full-rainbow-color-toggle",
   "anuppuccin-theme-settings@@anp-status-bar-select": "anp-fixed-status-bar",
   "anuppuccin-theme-settings@@anp-translucency-opacity": 0.15,
-  "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout",
-  "anuppuccin-theme-settings@@anp-hide-borders": false,
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
+  "anuppuccin-theme-settings@@anp-hide-borders": true,
   "anuppuccin-theme-settings@@anp-bg-fix": true,
   "anuppuccin-theme-settings@@anp-card-shadows": false,
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
@@ -113,5 +113,7 @@
   "anuppuccin-theme-settings@@callout-title-opacity": 0.1,
   "anuppuccin-theme-settings@@anp-callout-fold-position": "1",
   "anuppuccin-theme-settings@@ctp-custom-subtext0@@light": "#453866",
-  "anuppuccin-theme-settings@@ctp-custom-subtext0@@dark": "#9F88C9"
+  "anuppuccin-theme-settings@@ctp-custom-subtext0@@dark": "#9F88C9",
+  "anuppuccin-theme-settings@@anp-card-radius": 20,
+  "anuppuccin-theme-settings@@anp-card-layout-padding": 5
 }

@@ -4,7 +4,7 @@
 
 *Tags*: [[dsa]] [[trees]] [[traversals]]
 ## Zig Zag Traversal
-
+![[Zig Zag Traversal 2025-03-27 18.55.35.excalidraw]]
 
 
 

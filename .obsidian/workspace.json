@@ -59,8 +59,30 @@
               "icon": "lucide-file",
               "title": "Zig Zag Traversal"
             }
+          },
+          {
+            "id": "70b96b576a8adc31",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Zig Zag Traversal 2025-03-27 18.55.35.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Zig Zag Traversal 2025-03-27 18.55.35.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Traversals/Zig Zag Traversal.md",
+                "file": "Excalidraw/Zig Zag Traversal 2025-03-27 18.55.35.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +240,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Zig Zag Traversal"
+              "title": "Backlinks for Zig Zag Traversal 2025-03-27 18.55.35.excalidraw"
             }
           },
           {
@@ -360,10 +382,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "322db6c95a2a3e52",
+  "active": "70b96b576a8adc31",
   "lastOpenFiles": [
-    "Templates/dsa note.md",
     "Main Notes/DSA/Binary Trees/Traversals/Zig Zag Traversal.md",
+    "Excalidraw/Zig Zag Traversal 2025-03-27 18.55.35.excalidraw.md",
+    "Templates/dsa note.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md",
     "Tags/complete.md",
     "Excalidraw/Check If Same Tree 2025-03-27 16.44.22.excalidraw.md",
@@ -390,7 +413,6 @@
     "Scarping.md",
     "Excalidraw/Check Height Balanced 2025-03-26 15.58.27.excalidraw.md",
     "Excalidraw/Drawing 2025-03-26 15.10.20.excalidraw.md",
-    "README.md",
     "Excalidraw",
     "Main Notes/DSA/Binary Trees/Medium Question",
     "Code/cpp/Travsersal",

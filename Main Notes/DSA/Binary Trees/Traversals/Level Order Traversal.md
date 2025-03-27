@@ -3,7 +3,6 @@
 Status:
 
 Tags: [[traversals]] [[dsa]] [[trees]]
-
 ## Level Order Traversal
 
 - Uses Queue data structure (FIFO)

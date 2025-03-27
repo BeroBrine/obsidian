@@ -1,84 +1,67 @@
 {
-  "workspace:close": [],
-  "insert-template": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
-  "workspace:new-tab": [],
-  "workspace:next-tab": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "PageDown"
-    }
-  ],
-  "graph:open": [],
-  "markdown:toggle-preview": [],
-  "text-snippets-obsidian:text-snippets": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "B"
-    }
-  ],
-  "editor:toggle-bold": [],
-  "switcher:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "'"
-    }
-  ],
-  "obsidian-git:push": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "G"
-    }
-  ],
-  "pane-relief:go-next": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": ","
-    }
-  ],
-  "app:open-settings": [],
-  "pane-relief:go-prev": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "."
-    }
-  ],
-  "markdown:add-metadata-property": [],
-  "pane-relief:go-1st": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "1"
-    }
-  ],
-  "mrj-jump-to-link:activate-jump-to-link": [],
-  "quick-explorer:browse-vault": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
-  "editor:follow-link": [],
-  "editor:open-link-in-new-split": []
+	"workspace:close": [],
+	"insert-template": [
+		{
+			"modifiers": ["Mod"],
+			"key": "T"
+		}
+	],
+	"workspace:new-tab": [],
+	"workspace:next-tab": [],
+	"graph:open": [],
+	"markdown:toggle-preview": [],
+	"text-snippets-obsidian:text-snippets": [
+		{
+			"modifiers": ["Mod"],
+			"key": "B"
+		}
+	],
+	"editor:toggle-bold": [],
+	"switcher:open": [
+		{
+			"modifiers": ["Mod"],
+			"key": "'"
+		}
+	],
+	"obsidian-git:push": [
+		{
+			"modifiers": ["Mod"],
+			"key": "G"
+		}
+	],
+	"pane-relief:go-next": [
+		{
+			"modifiers": ["Mod"],
+			"key": ","
+		}
+	],
+	"app:open-settings": [],
+	"pane-relief:go-prev": [
+		{
+			"modifiers": ["Mod"],
+			"key": "."
+		}
+	],
+	"markdown:add-metadata-property": [],
+	"pane-relief:go-1st": [
+		{
+			"modifiers": ["Alt"],
+			"key": "1"
+		}
+	],
+	"mrj-jump-to-link:activate-jump-to-link": [],
+	"quick-explorer:browse-vault": [
+		{
+			"modifiers": ["Mod"],
+			"key": "R"
+		}
+	],
+	"editor:follow-link": [],
+	"editor:open-link-in-new-split": [
+		{
+			"modifiers": ["Mod"],
+			"key": "0"
+		}
+	],
+	"workspace:previous-tab": []
 }

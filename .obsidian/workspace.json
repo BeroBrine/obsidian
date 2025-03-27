@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
+                "file": "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Diameter Of Tree"
+              "title": "Backlinks for Level Order Traversal"
             }
           },
           {
@@ -302,10 +302,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "81d6cb12887d6be4",
+  "active": "67b39f3d2b857db4",
   "lastOpenFiles": [
-    "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
+    "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
     "Tags/traversals.md",
     "Excalidraw/maximum path sum 2025-03-27 02.00.12.excalidraw.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Height Of Binary Tree.md",

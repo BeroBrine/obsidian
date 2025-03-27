@@ -14,6 +14,7 @@
 	The length of a path between two nodes is represented by the number of edges between them.
 
 	![[Diameter Of Tree 2025-03-26 17.16.24.excalidraw]]
+	
 
 ### Algo
 - For every node we calculate it's diameter.

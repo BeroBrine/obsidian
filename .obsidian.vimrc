@@ -14,12 +14,13 @@ exmap FrontPane obcommand  pane-relief:go-next
 exmap FileExplorer obcommand  quick-explorer:browse-current
 exmap jumpto obcommand mrj-jump-to-link:activate-jump-to-anywhere
 exmap closeTab obcommand workspace:close
-
+exmap OpenExcalidraw obcommand obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed
 nnoremap gd :JumpToLink<CR>
 nnoremap <Space>h :BackPane<CR>
 nnoremap <Space>l :FrontPane<CR> 
 nnoremap <Space>e :FileExplorer<CR>
 nnoremap <Space>w :w<CR>
+nnoremap <Space>d :OpenExcalidraw<CR>
 
 nmap s :jumpto<CR>
 

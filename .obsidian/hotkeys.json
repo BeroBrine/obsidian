@@ -65,14 +65,7 @@
   ],
   "mrj-jump-to-link:activate-jump-to-link": [],
   "editor:follow-link": [],
-  "editor:open-link-in-new-split": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "0"
-    }
-  ],
+  "editor:open-link-in-new-split": [],
   "workspace:previous-tab": [],
   "quick-explorer:browse-current": [
     {
@@ -80,6 +73,14 @@
         "Mod"
       ],
       "key": "R"
+    }
+  ],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "0"
     }
   ]
 }

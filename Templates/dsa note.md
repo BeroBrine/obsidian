@@ -1,9 +1,9 @@
 
-{{date}} {{time}}
+*{{date}} {{time}}*
 
 *Status*:
 
-*Tags*:
+*Tags*: [[dsa]]
 
 ## {{Title}}
 - *Problem* *Statement*: 

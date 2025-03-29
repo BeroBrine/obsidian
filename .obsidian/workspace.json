@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "All Traversal Combined",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"All Traversal Combined\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0.7317073170731707}"
+                },
+                {
                   "title": "README",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"README\"}",
@@ -118,12 +124,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md",
+                "file": "Tags/done.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All Traversal Combined"
+              "title": "done"
             }
           }
         ]
@@ -397,7 +403,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md",
+                "file": "Tags/done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -407,7 +413,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for All Traversal Combined"
+              "title": "Backlinks for done"
             }
           }
         ]
@@ -430,10 +436,11 @@
   },
   "active": "322db6c95a2a3e52",
   "lastOpenFiles": [
+    "Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md",
+    "Tags/done.md",
     "README.md",
     "Main Notes/DSA/Binary Trees/Traversals/inorder.md",
     "Main Notes/DSA/Binary Trees/Traversals/Preorder.md",
-    "Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md",
     "Tags/traversals.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Height Of Binary Tree.md",
     "Main Notes/DSA/Binary Trees/Traversals/Boundary Traversal.md",
@@ -458,7 +465,6 @@
     "Main Notes/DSA/Binary Trees/Hard Question",
     "Main Notes/DSA/Binary Trees/Traversals/Trees Identical Or Not.md",
     "Excalidraw/maximum path sum 2025-03-27 01.13.26.excalidraw.md",
-    "Tags/hard.md",
     "Excalidraw",
     "Main Notes/DSA/Binary Trees/Medium Question",
     "Code/cpp/Travsersal",

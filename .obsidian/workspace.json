@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "inorder",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/inorder.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"inorder\"}",
@@ -112,12 +118,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "All Traversal Combined"
             }
           }
         ]
@@ -391,7 +397,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -401,7 +407,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for All Traversal Combined"
             }
           }
         ]
@@ -424,6 +430,7 @@
   },
   "active": "322db6c95a2a3e52",
   "lastOpenFiles": [
+    "README.md",
     "Main Notes/DSA/Binary Trees/Traversals/inorder.md",
     "Main Notes/DSA/Binary Trees/Traversals/Preorder.md",
     "Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md",
@@ -452,7 +459,6 @@
     "Main Notes/DSA/Binary Trees/Traversals/Trees Identical Or Not.md",
     "Excalidraw/maximum path sum 2025-03-27 01.13.26.excalidraw.md",
     "Tags/hard.md",
-    "Main Notes/DSA/Binary Trees/Traversals/testing.md",
     "Excalidraw",
     "Main Notes/DSA/Binary Trees/Medium Question",
     "Code/cpp/Travsersal",

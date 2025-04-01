@@ -205,33 +205,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "f75cb29aec70e90b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "381f1b50fce3155d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bottom View 2025-04-01 18.30.26.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Bottom View 2025-04-01 18.30.26.excalidraw"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -502,7 +475,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Bottom View 2025-04-01 18.30.26.excalidraw.md",
+                "file": "Main Notes/DSA/Binary Trees/Views/Bottom View.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -512,7 +485,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bottom View 2025-04-01 18.30.26.excalidraw"
+              "title": "Backlinks for Bottom View"
             }
           }
         ]
@@ -533,13 +506,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "381f1b50fce3155d",
+  "active": "322db6c95a2a3e52",
   "lastOpenFiles": [
+    "Excalidraw/Bottom View 2025-04-01 18.30.26.excalidraw.md",
     "Main Notes/DSA/Binary Trees/Views/Bottom View.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
     "Main Notes/DSA/Binary Trees/Views/Top View.md",
     "Excalidraw/Top View 2025-04-01 18.18.49.excalidraw.md",
-    "Excalidraw/Bottom View 2025-04-01 18.30.26.excalidraw.md",
     "Main Notes/DSA/Binary Trees/Traversals/Vertical Traversal.md",
     "Tags/views.md",
     "Main Notes/DSA/Binary Trees/Views",

@@ -1,11 +1,11 @@
 
-*{{date}} {{time}}*
+*01-04-2025 21:29*
 
 *Status*:
 
 *Tags*: [[dsa]]
 
-# {{Title}}
+# Mirrored Tree
 - *Problem* *Statement*: 
 
 

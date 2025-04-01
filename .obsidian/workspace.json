@@ -506,6 +506,51 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "d6f985b3ad8c9fc5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4804870654137724,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       },
@@ -529,7 +574,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Hard Question/Root To Node Path In Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -539,7 +583,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Root To Node Path In Binary Tree"
+              "title": "Backlinks"
             }
           }
         ]
@@ -560,11 +604,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "322db6c95a2a3e52",
+  "active": "c9ed1d6d13ab4b8e",
   "lastOpenFiles": [
+    "Main Notes/DSA/Binary Trees/Hard Question/Root To Node Path In Binary Tree.md",
     "Images/Pasted image 20250401214417.png",
     "Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md",
-    "Main Notes/DSA/Binary Trees/Hard Question/Root To Node Path In Binary Tree.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Mirrored Tree.md",
     "Tags/follow up.md",
     "Images/Pasted image 20250401213209.png",

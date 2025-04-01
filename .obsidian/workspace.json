@@ -157,33 +157,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "96bdf1695bcec845",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "62664a2dc7492cb3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Vertical Traversal 2025-04-01 15.09.53.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Vertical Traversal 2025-04-01 15.09.53.excalidraw"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -454,7 +427,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Vertical Traversal 2025-04-01 15.09.53.excalidraw.md",
+                "file": "Main Notes/DSA/Binary Trees/Traversals/Vertical Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -464,7 +437,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vertical Traversal 2025-04-01 15.09.53.excalidraw"
+              "title": "Backlinks for Vertical Traversal"
             }
           }
         ]
@@ -485,10 +458,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "62664a2dc7492cb3",
+  "active": "322db6c95a2a3e52",
   "lastOpenFiles": [
-    "Main Notes/DSA/Binary Trees/Traversals/Vertical Traversal.md",
     "Excalidraw/Vertical Traversal 2025-04-01 15.09.53.excalidraw.md",
+    "Main Notes/DSA/Binary Trees/Traversals/Vertical Traversal.md",
     "Excalidraw/Vertical Traversal 2025-04-01 15.09.33.excalidraw.md",
     "Tags/dsa.md",
     "Main Notes/DSA/Binary Trees/Traversals/Postorder.md",

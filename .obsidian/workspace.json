@@ -157,6 +157,33 @@
             }
           }
         ]
+      },
+      {
+        "id": "96bdf1695bcec845",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62664a2dc7492cb3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Vertical Traversal 2025-04-01 15.09.53.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Vertical Traversal 2025-04-01 15.09.53.excalidraw"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -427,7 +454,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Traversals/Vertical Traversal.md",
+                "file": "Excalidraw/Vertical Traversal 2025-04-01 15.09.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -437,7 +464,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vertical Traversal"
+              "title": "Backlinks for Vertical Traversal 2025-04-01 15.09.53.excalidraw"
             }
           }
         ]
@@ -458,10 +485,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "322db6c95a2a3e52",
+  "active": "62664a2dc7492cb3",
   "lastOpenFiles": [
-    "Tags/dsa.md",
     "Main Notes/DSA/Binary Trees/Traversals/Vertical Traversal.md",
+    "Excalidraw/Vertical Traversal 2025-04-01 15.09.53.excalidraw.md",
+    "Excalidraw/Vertical Traversal 2025-04-01 15.09.33.excalidraw.md",
+    "Tags/dsa.md",
     "Main Notes/DSA/Binary Trees/Traversals/Postorder.md",
     "Tags/traversals.md",
     "Main Notes/DSA/Binary Trees/Traversals/Preorder.md",
@@ -484,8 +513,6 @@
     "Excalidraw/Check If Same Tree 2025-03-27 16.44.22.excalidraw.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Check Height Balanced.md",
     "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
-    "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
-    "Excalidraw/maximum path sum 2025-03-27 02.00.12.excalidraw.md",
     "Images/Pasted Image 20250327020145_282.png",
     "Images",
     "Main Notes/DSA/Binary Trees/Hard Question",

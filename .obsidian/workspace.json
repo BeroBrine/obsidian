@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Root To Node Path In Binary Tree",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Root To Node Path In Binary Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Root To Node Path In Binary Tree\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":57,\"ch\":0},\"to\":{\"line\":57,\"ch\":0}},\"scroll\":32.20357142857143}"
+                },
+                {
                   "title": "maximum path sum",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"maximum path sum\"}",
@@ -250,12 +256,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Hard Question/Root To Node Path In Binary Tree.md",
+                "file": "Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Root To Node Path In Binary Tree"
+              "title": "Lowest Common Ancestor"
             }
           }
         ]
@@ -522,6 +528,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -549,7 +556,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Lowest Common Ancestor"
             }
           }
         ]
@@ -574,6 +581,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -583,7 +591,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Lowest Common Ancestor"
             }
           }
         ]
@@ -604,9 +612,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c9ed1d6d13ab4b8e",
+  "active": "322db6c95a2a3e52",
   "lastOpenFiles": [
     "Main Notes/DSA/Binary Trees/Hard Question/Root To Node Path In Binary Tree.md",
+    "Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md",
+    "Tags/trees.md",
     "Images/Pasted image 20250401214417.png",
     "Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Mirrored Tree.md",
@@ -635,7 +645,6 @@
     "Main Notes/DSA/Binary Trees/Traversals/Zig Zag Traversal.md",
     "Tags/done.md",
     "Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md",
-    "README.md",
     "Images/Pasted Image 20250327020145_282.png",
     "Images",
     "Main Notes/DSA/Binary Trees/Hard Question",

@@ -1,6 +1,6 @@
 *01-04-2025 13:49*
 
-*Status*:
+*Status*: [[revise]]
 
 *Tags*: [[dsa]] [[trees]] [[traversals]]
 

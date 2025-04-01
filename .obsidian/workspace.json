@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Preorder",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Preorder.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Preorder\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7317073170731707}"
+                },
+                {
+                  "title": "Zig Zag Traversal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Zig Zag Traversal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Zig Zag Traversal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "done",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/done.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"done\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "All Traversal Combined",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"All Traversal Combined\"}",
@@ -124,12 +142,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/done.md",
+                "file": "Main Notes/DSA/Binary Trees/Traversals/postorder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "done"
+              "title": "postorder"
             }
           }
         ]
@@ -403,7 +421,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/done.md",
+                "file": "Main Notes/DSA/Binary Trees/Traversals/postorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -413,7 +431,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for done"
+              "title": "Backlinks for postorder"
             }
           }
         ]
@@ -436,19 +454,20 @@
   },
   "active": "322db6c95a2a3e52",
   "lastOpenFiles": [
-    "Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md",
+    "Tags/traversals.md",
+    "Main Notes/DSA/Binary Trees/Traversals/postorder.md",
+    "Main Notes/DSA/Binary Trees/Traversals/Preorder.md",
+    "Main Notes/DSA/Binary Trees/Traversals/Zig Zag Traversal.md",
     "Tags/done.md",
+    "Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md",
     "README.md",
     "Main Notes/DSA/Binary Trees/Traversals/inorder.md",
-    "Main Notes/DSA/Binary Trees/Traversals/Preorder.md",
-    "Tags/traversals.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Height Of Binary Tree.md",
     "Main Notes/DSA/Binary Trees/Traversals/Boundary Traversal.md",
     "Tags/pending.md",
     "Excalidraw/Boundary Traversal 2025-03-27 20.33.55.excalidraw.md",
     "Excalidraw/Boundary Traversal 2025-03-27 20.32.09.excalidraw.md",
     "Excalidraw/Boundary Traversal 2025-03-27 20.31.21.excalidraw.md",
-    "Main Notes/DSA/Binary Trees/Traversals/Zig Zag Traversal.md",
     "Excalidraw/Zig Zag Traversal 2025-03-27 19.08.44.excalidraw.md",
     "Excalidraw/Zig Zag Traversal 2025-03-27 18.55.35.excalidraw.md",
     "Templates/dsa note.md",
@@ -464,7 +483,6 @@
     "Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md",
     "Main Notes/DSA/Binary Trees/Hard Question",
     "Main Notes/DSA/Binary Trees/Traversals/Trees Identical Or Not.md",
-    "Excalidraw/maximum path sum 2025-03-27 01.13.26.excalidraw.md",
     "Excalidraw",
     "Main Notes/DSA/Binary Trees/Medium Question",
     "Code/cpp/Travsersal",

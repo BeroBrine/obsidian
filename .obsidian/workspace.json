@@ -18,7 +18,43 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Views",
+                  "title": "Diameter Of Tree",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Diameter Of Tree\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Top View",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Views/Top View.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Top View\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":9},\"to\":{\"line\":8,\"ch\":9}}}"
+                },
+                {
+                  "title": "Bottom View",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Views/Bottom View.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bottom View\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Top View",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Views/Top View.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Top View\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bottom View",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Views/Bottom View.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bottom View\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":1},\"to\":{\"line\":8,\"ch\":1}},\"scroll\":0}"
+                },
+                {
+                  "title": "Top View",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Views/Top View.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Top View\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":99},\"to\":{\"line\":11,\"ch\":99}},\"scroll\":8.351080641412967}"
+                },
+                {
+                  "title": "views",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/views.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Views\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
@@ -160,12 +196,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Views/Top View.md",
+                "file": "Main Notes/DSA/Binary Trees/Views/Bottom View.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Top View"
+              "title": "Bottom View"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f75cb29aec70e90b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "381f1b50fce3155d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bottom View 2025-04-01 18.30.26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Bottom View 2025-04-01 18.30.26.excalidraw"
             }
           }
         ]
@@ -439,7 +502,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Views/Top View.md",
+                "file": "Excalidraw/Bottom View 2025-04-01 18.30.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -449,7 +512,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Top View"
+              "title": "Backlinks for Bottom View 2025-04-01 18.30.26.excalidraw"
             }
           }
         ]
@@ -470,11 +533,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "322db6c95a2a3e52",
+  "active": "381f1b50fce3155d",
   "lastOpenFiles": [
-    "Tags/views.md",
+    "Main Notes/DSA/Binary Trees/Views/Bottom View.md",
+    "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
     "Main Notes/DSA/Binary Trees/Views/Top View.md",
+    "Excalidraw/Top View 2025-04-01 18.18.49.excalidraw.md",
+    "Excalidraw/Bottom View 2025-04-01 18.30.26.excalidraw.md",
     "Main Notes/DSA/Binary Trees/Traversals/Vertical Traversal.md",
+    "Tags/views.md",
     "Main Notes/DSA/Binary Trees/Views",
     "Main Notes/DSA/Binary Trees/Traversals/Views",
     "Excalidraw/Vertical Traversal 2025-04-01 15.09.53.excalidraw.md",
@@ -496,10 +563,6 @@
     "Excalidraw/Boundary Traversal 2025-03-27 20.31.21.excalidraw.md",
     "Excalidraw/Zig Zag Traversal 2025-03-27 19.08.44.excalidraw.md",
     "Excalidraw/Zig Zag Traversal 2025-03-27 18.55.35.excalidraw.md",
-    "Templates/dsa note.md",
-    "Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md",
-    "Tags/complete.md",
-    "Excalidraw/Check If Same Tree 2025-03-27 16.44.22.excalidraw.md",
     "Images/Pasted Image 20250327020145_282.png",
     "Images",
     "Main Notes/DSA/Binary Trees/Hard Question",

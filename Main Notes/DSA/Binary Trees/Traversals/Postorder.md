@@ -2,7 +2,7 @@
 
 *Status*: [[ongoing]]
 
-*Tags*: [[trversals]] [[dsa]] [[trees]]
+*Tags*: [[traversals]] [[dsa]] [[trees]]
 ## Postorder
 - Traversal in the form of Left Right Node
 - The recursion will occur until left subtree , then if it encounters a node which has no left child , it'll go into the right node and check for it's left child , if it has left it'll continue till left.

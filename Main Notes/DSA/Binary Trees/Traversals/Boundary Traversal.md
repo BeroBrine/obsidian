@@ -26,7 +26,7 @@ void leftBoundary(Node* node , vector<int> &vec) {
 }
 ```
  
- - Then we , push all of the leave nodes , using [[inorder]] traversal.
+ - Then we , push all of the leave nodes , using [[Inorder]] traversal.
 #### Leaf Node Function
  ```cpp
 void leafNode(Node* node , vector<int> &vec) {

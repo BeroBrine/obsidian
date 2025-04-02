@@ -23,6 +23,17 @@
 
 
 
+
+
+
+##### Very Important
+![[Pasted image 20250402223448.png]]
+
+
+
+
+
+
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/maximum-width-of-a-binary-tree/)
 - [yt video link](https://www.youtube.com/watch?v=ZbybYvcVLks&feature=youtu.be)

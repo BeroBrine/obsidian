@@ -6,8 +6,9 @@ sudo nohup .venv/bin/python3 -m uvicorn main:app --host 0.0.0.0 --port 5400 --wo
 - #### Issues
 	- nohup command does not activate the complete venv required by the application to function. It just refers to the python3 bin present.
 	- The uvicorn command spawns 2 workers with the --workers 2 flag. But the 2 workers are unaware of context of each other.
-		- If start-chat api calls is received by the worker 1 , worker 2 has no idea about the chat created and vice-versa.
-		- If worker 2 recieved the continue-chat api call. It'll throw an Session Not Found error which was the issue all along , because it has no context of the chat created by the worker
+		- If start-chat api callsis recieved by the worker 1 , worker 2 has no idea about the chat created and vice-versa.
+		- If worker 2 recieved the continue-chat api call. It'll throw an Session Not Found error which was the issue all along , because it has no context of the chat created by the worker 1.
+		- Thus sending the message multiple times worked sometimes because one of those calls was recieved by the worker 1 which created the chat and thus responded correctly.
 
 ## FastApi Backend Deployment
 - In the project directory which is to be deployed

@@ -28,6 +28,19 @@
 		- if the right is null return left.
 		- if none of them are null , that means this node is the ancestor as from the left it recieved a node and from the right it recieved a node. We return this node.
 
+#### The quirky thing to remember is 
+```cpp
+if (l == nullptr) {
+  return r; 
+} else if (r == nullptr) {
+  return l;
+} else {
+  return root;
+}
+```
+
+
+## Code
 ```cpp
 class Solution {
 public:

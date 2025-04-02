@@ -11,8 +11,14 @@
             "id": "322db6c95a2a3e52",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -626,10 +632,10 @@
   },
   "active": "322db6c95a2a3e52",
   "lastOpenFiles": [
-    "Tags/quirky.md",
     "Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md",
-    "Images/Pasted image 20250401232459.png",
     "Main Notes/DSA/Binary Trees/Hard Question/Root To Node Path In Binary Tree.md",
+    "Tags/quirky.md",
+    "Images/Pasted image 20250401232459.png",
     "Tags/trees.md",
     "Images/Pasted image 20250401214417.png",
     "Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md",

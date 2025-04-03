@@ -15,7 +15,7 @@
 		![[Maximum Width Of Binary Tree 2025-04-02 22.00.04.excalidraw]]
 		-
 		![[Pasted image 20250402220730.png]]
-	- The widht of the above tree is 8.
+	- The width of the above tree is 8.
 
 
 

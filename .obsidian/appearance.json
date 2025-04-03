@@ -2,5 +2,8 @@
   "baseFontSize": 20,
   "interfaceFontFamily": "JetBrainsMonoExtraBold Nerd Font Mono",
   "cssTheme": "AnuPpuccin",
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "custom-margin"
+  ]
 }

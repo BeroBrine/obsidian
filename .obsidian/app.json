@@ -4,5 +4,6 @@
   "spellcheck": false,
   "newFileLocation": "current",
   "showLineNumber": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false
 }

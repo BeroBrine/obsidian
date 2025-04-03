@@ -1,5 +1,5 @@
 /* Add margin to the left of the editor */
 .markdown-source-view,
 .markdown-preview-view {
-    padding-left: 160px; /* Adjust value as needed */
+    padding-left: 300px; /* Adjust value as needed */
 }

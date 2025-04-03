@@ -3,7 +3,5 @@
   "interfaceFontFamily": "JetBrainsMonoExtraBold Nerd Font Mono",
   "cssTheme": "AnuPpuccin",
   "accentColor": "",
-  "enabledCssSnippets": [
-    "custom-margin"
-  ]
+  "enabledCssSnippets": []
 }

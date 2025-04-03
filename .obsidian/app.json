@@ -5,5 +5,5 @@
   "newFileLocation": "current",
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "readableLineLength": false
+  "readableLineLength": true
 }

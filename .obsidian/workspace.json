@@ -623,7 +623,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Hard Question/Node At A Distance K.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -633,7 +632,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Node At A Distance K"
+              "title": "Backlinks"
             }
           }
         ]
@@ -654,11 +653,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "322db6c95a2a3e52",
+  "active": "c9ed1d6d13ab4b8e",
   "lastOpenFiles": [
-    "Tags/quirky.md",
     "Main Notes/DSA/Binary Trees/Hard Question/Node At A Distance K.md",
-    "Pasted image 20250403213001.png",
+    "Tags/quirky.md",
+    "Images/Pasted image 20250403213001.png",
     "Main Notes/DSA/Binary Trees/Hard Question/Check For Children Sum Property.md",
     "Excalidraw/Check For Children Sum Property 2025-04-03 20.59.20.excalidraw.md",
     "Main Notes/DSA/Binary Trees/Hard Question/Maximum Width Of Binary Tree.md",

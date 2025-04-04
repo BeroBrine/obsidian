@@ -4,336 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "93308ecf865c359c",
+        "id": "e585dcf4eff226d0",
         "type": "tabs",
         "children": [
           {
-            "id": "322db6c95a2a3e52",
+            "id": "1cca735f5cca2e96",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Minimum Time To Burn A Tree",
+                  "title": "Total Number Of Nodes In Complete Binary Tree",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Minimum Time To Burn A Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Minimum Time To Burn A Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":2},\"to\":{\"line\":6,\"ch\":2}},\"scroll\":0.7317073170731707}"
-                },
-                {
-                  "title": "revisit",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/revisit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"revisit\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Minimum Time To Burn A Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Minimum Time To Burn A Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Minimum Time To Burn A Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":25},\"to\":{\"line\":21,\"ch\":25}},\"scroll\":16.979910714285715}"
-                },
-                {
-                  "title": "Node At A Distance K",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Node At A Distance K.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Node At A Distance K\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7317073170731707}"
-                },
-                {
-                  "title": "Check For Children Sum Property",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Check For Children Sum Property.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Check For Children Sum Property\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":107,\"ch\":4},\"to\":{\"line\":107,\"ch\":4}},\"scroll\":85.62797619047619}"
-                },
-                {
-                  "title": "Maximum Width Of Binary Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Maximum Width Of Binary Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Maximum Width Of Binary Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":50},\"to\":{\"line\":10,\"ch\":50}},\"scroll\":4.9}"
-                },
-                {
-                  "title": "Lowest Common Ancestor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Lowest Common Ancestor\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Backend",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Office/Documentation/Backend.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Backend\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0.7317073170731707}"
-                },
-                {
-                  "title": "Lowest Common Ancestor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Lowest Common Ancestor\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":18},\"to\":{\"line\":18,\"ch\":18}},\"scroll\":14.602025856324136}"
-                },
-                {
-                  "title": "quirky",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/quirky.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"quirky\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Lowest Common Ancestor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Lowest Common Ancestor\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":33},\"to\":{\"line\":4,\"ch\":33}},\"scroll\":0.7317073170731707}"
-                },
-                {
-                  "title": "Root To Node Path In Binary Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Root To Node Path In Binary Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Root To Node Path In Binary Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":57,\"ch\":0},\"to\":{\"line\":57,\"ch\":0}},\"scroll\":32.20357142857143}"
-                },
-                {
-                  "title": "maximum path sum",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"maximum path sum\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":3.9}"
-                },
-                {
-                  "title": "Mirrored Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Mirrored Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mirrored Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":47},\"to\":{\"line\":14,\"ch\":47}},\"scroll\":10.788645690834473}"
-                },
-                {
-                  "title": "follow up",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/follow up.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"follow up\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Mirrored Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Mirrored Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mirrored Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":0},\"to\":{\"line\":46,\"ch\":0}},\"scroll\":16.726934523809526}"
-                },
-                {
-                  "title": "Check Height Balanced",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Check Height Balanced.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Check Height Balanced\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Right View",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Views/Right View.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Right View\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":1},\"to\":{\"line\":51,\"ch\":1}},\"scroll\":31.073214285714286}"
-                },
-                {
-                  "title": "dsa note",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/dsa note.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"dsa note\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Right View",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Views/Right View.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Right View\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":1},\"to\":{\"line\":7,\"ch\":1}},\"scroll\":0}"
-                },
-                {
-                  "title": "Bottom View",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Views/Bottom View.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bottom View\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":0},\"to\":{\"line\":37,\"ch\":0}},\"scroll\":13.033266129032258}"
-                },
-                {
-                  "title": "Diameter Of Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Diameter Of Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Top View",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Views/Top View.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Top View\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":9},\"to\":{\"line\":8,\"ch\":9}}}"
-                },
-                {
-                  "title": "Bottom View",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Views/Bottom View.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bottom View\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Top View",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Views/Top View.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Top View\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Bottom View",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Views/Bottom View.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bottom View\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":1},\"to\":{\"line\":8,\"ch\":1}},\"scroll\":0}"
-                },
-                {
-                  "title": "Top View",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Views/Top View.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Top View\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":99},\"to\":{\"line\":11,\"ch\":99}},\"scroll\":8.351080641412967}"
-                },
-                {
-                  "title": "views",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/views.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Views\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Vertical Traversal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Vertical Traversal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vertical Traversal\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0.7317073170731707}"
-                },
-                {
-                  "title": "Postorder",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Postorder.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"postorder\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":106},\"to\":{\"line\":7,\"ch\":106}},\"scroll\":1.9}"
-                },
-                {
-                  "title": "Preorder",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Preorder.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Preorder\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7317073170731707}"
-                },
-                {
-                  "title": "Zig Zag Traversal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Zig Zag Traversal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Zig Zag Traversal\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "done",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/done.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"done\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "All Traversal Combined",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"All Traversal Combined\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0.7317073170731707}"
-                },
-                {
-                  "title": "README",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"README\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Inorder",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Inorder.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"inorder\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":4},\"to\":{\"line\":44,\"ch\":4}},\"scroll\":39.98781838316722}"
-                },
-                {
-                  "title": "Preorder",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Preorder.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Preorder\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":103,\"ch\":100},\"to\":{\"line\":103,\"ch\":100}},\"scroll\":78.27142857142857}"
-                },
-                {
-                  "title": "All Traversal Combined",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"All Traversal Combined\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":79,\"ch\":0},\"to\":{\"line\":79,\"ch\":0}},\"scroll\":57.3297619047619}"
-                },
-                {
-                  "title": "Inorder",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Inorder.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"inorder\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "traversals",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/traversals.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"traversals\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Height Of Binary Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Height Of Binary Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Height Of Binary Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":93},\"to\":{\"line\":15,\"ch\":93}},\"scroll\":13.464358660130719}"
-                },
-                {
-                  "title": "Boundary Traversal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Boundary Traversal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Boundary Traversal\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":23},\"to\":{\"line\":2,\"ch\":23}}}"
-                },
-                {
-                  "title": "pending",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/pending.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"pending\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Boundary Traversal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Boundary Traversal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Boundary Traversal\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":32},\"to\":{\"line\":2,\"ch\":32}},\"scroll\":0.7317073170731707}"
-                },
-                {
-                  "title": "Zig Zag Traversal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Zig Zag Traversal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Zig Zag Traversal\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":43},\"to\":{\"line\":24,\"ch\":43}},\"scroll\":19.697585071350165}"
-                },
-                {
-                  "title": "dsa note",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/dsa note.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"dsa note\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Zig Zag Traversal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Zig Zag Traversal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Zig Zag Traversal\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Check If Same Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Check If Same Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":13.027621195039458}"
-                },
-                {
-                  "title": "complete",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/complete.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"complete\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Check If Same Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Check If Same Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}},\"scroll\":0.7317073170731707}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Total Number Of Nodes In Complete Binary Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Total Number Of Nodes In Complete Binary Tree\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":37},\"to\":{\"line\":4,\"ch\":37}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Hard Question/Total Number Of Nodes In Complete Binary Tree.md",
+                "file": "Main Notes/DSA/Binary Trees/Medium Question/Height Of Binary Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Total Number Of Nodes In Complete Binary Tree"
+              "title": "Height Of Binary Tree"
             }
           }
         ]
@@ -467,7 +167,7 @@
       {
         "id": "cbed4ef832a7d7db",
         "type": "tabs",
-        "dimension": 32.829181494661924,
+        "dimension": 37.15139442231076,
         "children": [
           {
             "id": "1cf54206a9eaa9c7",
@@ -564,7 +264,7 @@
       {
         "id": "a7f9ed2779996954",
         "type": "tabs",
-        "dimension": 35.76512455516014,
+        "dimension": 31.47410358565737,
         "children": [
           {
             "id": "c9ed1d6d13ab4b8e",
@@ -636,7 +336,7 @@
       {
         "id": "46377aa4a040ffd8",
         "type": "tabs",
-        "dimension": 31.405693950177938,
+        "dimension": 31.374501992031874,
         "children": [
           {
             "id": "8c7b51e71a6a2970",
@@ -653,7 +353,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Hard Question/Total Number Of Nodes In Complete Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -663,14 +362,14 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Total Number Of Nodes In Complete Binary Tree"
+              "title": "Backlinks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 318
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -684,13 +383,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "322db6c95a2a3e52",
+  "active": "c9ed1d6d13ab4b8e",
   "lastOpenFiles": [
-    "Main Notes/DSA/Binary Trees/Hard Question/Minimum Time To Burn A Tree.md",
+    "Main Notes/DSA/Binary Trees/Medium Question/Height Of Binary Tree.md",
     "Main Notes/DSA/Binary Trees/Hard Question/Total Number Of Nodes In Complete Binary Tree.md",
+    "Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md",
+    "Main Notes/DSA/Binary Trees/Hard Question/Root To Node Path In Binary Tree.md",
+    "Main Notes/DSA/Binary Trees/Hard Question/Minimum Time To Burn A Tree.md",
     "Tags/revisit.md",
     "Main Notes/DSA/Binary Trees/Hard Question/Node At A Distance K.md",
-    "Pasted image 20250404022637.png",
+    "Images/Pasted image 20250404022637.png",
     "Tags/quirky.md",
     "Images/Pasted image 20250403213001.png",
     "Main Notes/DSA/Binary Trees/Hard Question/Check For Children Sum Property.md",
@@ -699,13 +401,11 @@
     "Images/Pasted image 20250402223448.png",
     "Images/Pasted image 20250402220730.png",
     "Excalidraw/Maximum Width Of Binary Tree 2025-04-02 22.00.04.excalidraw.md",
-    "Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md",
     "Office/Documentation/Backend.md",
     "Office/Documentation/Backend.pdf",
     "Office/Documentation/Backend_tmp.html",
     "Office/Documentation",
     "Office",
-    "Main Notes/DSA/Binary Trees/Hard Question/Root To Node Path In Binary Tree.md",
     "Images/Pasted image 20250401232459.png",
     "Tags/trees.md",
     "Images/Pasted image 20250401214417.png",
@@ -723,7 +423,6 @@
     "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
     "Main Notes/DSA/Binary Trees/Views/Top View.md",
     "Excalidraw/Top View 2025-04-01 18.18.49.excalidraw.md",
-    "Main Notes/DSA/Binary Trees/Traversals/Vertical Traversal.md",
     "Main Notes/DSA/Binary Trees/Views",
     "Main Notes/DSA/Binary Trees/Traversals/Views",
     "Images/Pasted Image 20250327020145_282.png",

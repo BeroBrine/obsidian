@@ -1,4 +1,3 @@
-
 *04-04-2025 02:42*
 
 *Status*: [[revise]]
@@ -9,6 +8,7 @@
 - *Problem* *Statement*: 
 	Given the root of a complete binary tree, return the number of the nodes in the tree *in less than O(n) of time*
 
+- Complete binary tree is a tree in which all levels are fully filled , except possibly the last level , which is filled from left to right.
 
 
 

@@ -13,7 +13,6 @@
 - The ancestor of two nodes , is a node which lies in the path of both of the two nodes and is at the deepest level
 
 	![[Pasted image 20250401232459.png]]
-
 	
 - The bruteforce approach for this will be to get the path to the node through [[Root To Node Path In Binary Tree]] for both the given nodes.  
 - This is unoptimal because the time complexity will be O(n) + O(n). We can eliminate additional time complexity.

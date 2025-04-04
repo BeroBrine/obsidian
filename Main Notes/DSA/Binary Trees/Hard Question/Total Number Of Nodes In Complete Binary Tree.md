@@ -14,26 +14,9 @@
 - In this question , from starting node , we will check if it is a complete binary tree.
 	- If the height of left nodes is equal to the height of right nodes from a node. It is a complete binary tree.
 	- Code to compute the height of left and right tree.
-```cpp
-
-int heightOfLeft(TreeNode *root) {
-if (root == nullptr) {
-  return 1;
-}
-return 1 + heightOfLeft(root->left);
-}
-
-int heightOfRight(TreeNode *root) {
-if (root == nullptr) {
-  return 1;
-}
-return 1 + heightOfRight(root->right);
-}
-};
-
-```
-
-
+	- If left_height == right_height -> then the tree is a complete binary tree and we can use the formula 2^h - 1 to directly compute the number of nodes for the subtree.
+	- If the left_height != right_height -> then we need to recurse further and check for it's subchilds that if they form a complete binary tree.
+		- We return + 1 to accomodate for the height of the current node we are standing upon.
 
 
 #### Complete Code
@@ -46,12 +29,10 @@ public:
     }
     int lh = heightOfLeft(root->left);
     int rh = heightOfRight(root->right);
-    cout << "for the node " << root->val << " the left height is " << lh
-         << "the right heigh is " << rh << endl;
     if (lh == rh) {
-      return (1 << lh) - 1;
+      return (1 << lh) - 1; // complete tree
     } else {
-      return 1 + countNodes(root->left) + countNodes(root->right);
+      return 1 + countNodes(root->left) + countNodes(root->right); // check for the childs.
     }
   }
 

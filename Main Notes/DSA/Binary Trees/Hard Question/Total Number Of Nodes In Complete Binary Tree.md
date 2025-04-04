@@ -9,8 +9,68 @@
 	Given the root of a complete binary tree, return the number of the nodes in the tree *in less than O(n) of time*
 
 - Complete binary tree is a tree in which all levels are fully filled , except possibly the last level , which is filled from left to right.
+- The number of nodes in complete binary tree , is 2^h - 1. Where h is the height of the complete binary tree. 
+## Solution
+- In this question , from starting node , we will check if it is a complete binary tree.
+	- If the height of left nodes is equal to the height of right nodes from a node. It is a complete binary tree.
+	- Code to compute the height of left and right tree.
+```cpp
+
+int heightOfLeft(TreeNode *root) {
+if (root == nullptr) {
+  return 1;
+}
+return 1 + heightOfLeft(root->left);
+}
+
+int heightOfRight(TreeNode *root) {
+if (root == nullptr) {
+  return 1;
+}
+return 1 + heightOfRight(root->right);
+}
+};
+
+```
 
 
+
+
+#### Complete Code
+```cpp
+class Solution {
+public:
+  int countNodes(TreeNode *root) {
+    if (root == nullptr) {
+      return 0;
+    }
+    int lh = heightOfLeft(root->left);
+    int rh = heightOfRight(root->right);
+    cout << "for the node " << root->val << " the left height is " << lh
+         << "the right heigh is " << rh << endl;
+    if (lh == rh) {
+      return (1 << lh) - 1;
+    } else {
+      return 1 + countNodes(root->left) + countNodes(root->right);
+    }
+  }
+
+  int heightOfLeft(TreeNode *root) {
+    if (root == nullptr) {
+      return 1;
+    }
+    return 1 + heightOfLeft(root->left);
+  }
+
+  int heightOfRight(TreeNode *root) {
+    if (root == nullptr) {
+      return 1;
+    }
+    return 1 + heightOfRight(root->right);
+  }
+};
+
+```
 
 
 

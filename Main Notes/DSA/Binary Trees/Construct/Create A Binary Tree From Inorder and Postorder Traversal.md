@@ -2,7 +2,7 @@
 
 *Status*: [[revise]]
 
-*Tags*: [[dsa]] [[hard]] [[trees]] 
+*Tags*: [[dsa]] [[hard]] [[trees]] [[Construct Binary Tree]] 
 
 # Create A Binary Tree From Inorder and Postorder Traversal
 - *Problem* *Statement*: 
@@ -23,15 +23,19 @@
 - Keep 2 pointers for the end and start of both the arrays.
 - Pick the last element in the postorder array
 	- This will be the root node.
-	- Find it's  
+	- Find it's index in the inorder using the hashmap created earlier. 
+	- Now , we know that the elements on the left of the node in the inorder array are it's left child , and on the right are it's right child
+	- And the number of left child -> N , in postorder , the first N child are it's left child too![[Create A Binary Tree From Inorder and Postorder Traversal 2025-04-05 12.38.31.excalidraw]].
+- For the right , the childs in post array are ps + numChilds(left).
 
+- Repeat this until is < ie or ps < pe.
+#### REMEMBER THE POINTERS
+- When giving inorder to left -> is , rootIndex - 1;
+- When giving postorder to left -> ps , i_postorder + numChilds - 1;
+- When giving inorder to right -> rootChild+1 , ie 
+- When giving postorder to right -> ps + numChilds , pe.
 
-
-
-
-
-
-
+### Full Code
 ```cpp
 class Solution {
 public:
@@ -70,6 +74,7 @@ public:
 
 ```
 ## References
+
 - [striver sheet link](https://takeuforward.org/data-structure/construct-binary-tree-from-inorder-and-postorder-traversal/)
 - [yt video link](https://www.youtube.com/watch?v=LgLRTaEMRVc&feature=youtu.be)
 - [leetcode question link](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)

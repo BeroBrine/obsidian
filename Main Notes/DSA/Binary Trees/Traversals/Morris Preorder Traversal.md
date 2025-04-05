@@ -6,17 +6,7 @@
 
 # Morris Preorder Traversal
 - Better version of [[Preorder]] traversal. 
-
-
-
-
-
-
-
-
-
-
-
+- This is same as that of [[Morris Inorder Traversal]] just one line changes and that is instead of pushing the node while cutting the thread , we push the node when creating the thread -> i.e when we travel to the left of the node. 
 
 
 ## References

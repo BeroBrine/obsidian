@@ -351,25 +351,6 @@
         "dimension": 31.47410358565737,
         "children": [
           {
-            "id": "c9ed1d6d13ab4b8e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "d6f985b3ad8c9fc5",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -384,7 +365,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md",
+                "file": "Main Notes/DSA/Binary Trees/Hard Question/Serialize And Deseriliaze A Binary Tree.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -412,7 +393,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lowest Common Ancestor"
+              "title": "Graph of Serialize And Deseriliaze A Binary Tree"
             }
           }
         ]
@@ -468,10 +449,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1cca735f5cca2e96",
+  "active": "d6f985b3ad8c9fc5",
   "lastOpenFiles": [
-    "Main Notes/DSA/Binary Trees/Construct/Construct A Binary Tree From Preorder And Inorder Traversal.md",
     "Main Notes/DSA/Binary Trees/Hard Question/Serialize And Deseriliaze A Binary Tree.md",
+    "Main Notes/DSA/Binary Trees/Construct/Construct A Binary Tree From Preorder And Inorder Traversal.md",
     "Main Notes/DSA/Binary Trees/Construct/Create A Binary Tree From Inorder and Postorder Traversal.md",
     "Excalidraw/Create A Binary Tree From Inorder and Postorder Traversal 2025-04-05 12.38.31.excalidraw.md",
     "Tags/Construct Binary Tree.md",

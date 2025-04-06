@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: jcmuh-bepfv
+created: 2025-04-06T18:46:32+05:30

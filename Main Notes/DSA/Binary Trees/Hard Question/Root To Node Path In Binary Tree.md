@@ -52,7 +52,7 @@ class Solution {
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/)
 - [yt video link](https://www.youtube.com/watch?v=fmflMqVOC7k&ab_channel=takeUforward)
-- [leetcode question link](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=root-to-leaf-paths)
+- [GFG question link](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=root-to-leaf-paths)
 
 ## Follow up
 - Check out the question of path to a specific node. (it's in the striver yt video)

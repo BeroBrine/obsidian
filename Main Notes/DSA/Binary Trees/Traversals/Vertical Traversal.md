@@ -17,7 +17,7 @@
 		- Multiset is used to achieve this , it sorts the values as well as allows duplicates in it. 
 		
 - There is a queue which tracks the node , and it's vertical and horizontal level as well.
-- In this , we modify the level traversal a bit. We don't use the legacy one because the queue is already tracking the level in the pair.
+- In this , we modify the level traversal a bit. We don't use the legacy one because we do not need to track the nodes in each level. we just want them to be pushed in the queue in level order. 
 - When pushing the left child , we decrease the vertical level by 1 and increase the horizontal level by 1.
 - When pushing the right child , we increase the vertical level by 1 and increase the horizontal level by 1.
 - When the queue ends , meaning there are no more nodes.
@@ -72,4 +72,4 @@ public:
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/vertical-order-traversal-of-binary-tree/)
 - [yt video link](https://www.youtube.com/watch?v=q_a6lpbKJdw&feature=youtu.be)
-- [leetcode question link](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
+- [GFG question link](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)

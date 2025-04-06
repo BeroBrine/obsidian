@@ -58,8 +58,8 @@ public:
 ## Edge Cases 
 - *Cases*
 	- Skewed Binary Tree -> Solved by using absolute difference.
-				![[Check Height Balanced 2025-03-26 15.58.27.excalidraw]]
 	- This tree -> solved by converting check function to visit every node. before it was checking for just the root node.
+		![[Check Height Balanced 2025-03-26 15.58.27.excalidraw]]
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/check-if-the-binary-tree-is-balanced-binary-tree/)
 - [yt video link](https://www.youtube.com/watch?v=Yt50Jfbd8Po&feature=youtu.be)

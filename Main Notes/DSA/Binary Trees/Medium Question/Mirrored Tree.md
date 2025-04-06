@@ -41,7 +41,7 @@ public:
 ## References
 - [striver sheet link]()
 - [yt video link]()
-- [leetcode question link]()
+- [leetcode question link](https://leetcode.com/problems/symmetric-tree/)
 
 ## Follow Ups
 - Convert to Iterative Version

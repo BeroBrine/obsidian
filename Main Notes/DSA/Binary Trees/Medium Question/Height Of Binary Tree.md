@@ -35,4 +35,4 @@ public:
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/maximum-depth-of-a-binary-tree/)
 - [yt video link](https://www.youtube.com/watch?v=eD3tmO66aBA&ab_channel=takeUforward)
-- [leetcode question link](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [leetcode question link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)

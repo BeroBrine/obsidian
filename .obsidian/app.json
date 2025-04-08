@@ -1,0 +1,9 @@
+{
+  "vimMode": true,
+  "promptDelete": false,
+  "spellcheck": false,
+  "newFileLocation": "current",
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true
+}

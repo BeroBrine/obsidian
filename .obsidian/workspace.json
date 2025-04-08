@@ -18,6 +18,48 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Search In BST",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Theory/Search In BST.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Search In BST\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":149},\"to\":{\"line\":8,\"ch\":149}},\"scroll\":0.23577235772357724}"
+                },
+                {
+                  "title": "Binary Search Tree",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Theory/Binary Search Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Binary Search Tree\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":13.485262008733624}"
+                },
+                {
+                  "title": "Search In BST",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Theory/Search In BST.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Search In BST\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":44},\"to\":{\"line\":4,\"ch\":44}},\"scroll\":0}"
+                },
+                {
+                  "title": "Binary Search Tree",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Theory/Binary Search Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Binary Search Tree\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":41},\"to\":{\"line\":24,\"ch\":41}},\"scroll\":13.310589519650655}"
+                },
+                {
+                  "title": "bst",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/bst.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"bst\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Binary Search Tree",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Theory/Binary Search Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Binary Search Tree\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+                },
+                {
+                  "title": "Node At A Distance K",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Node At A Distance K.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Node At A Distance K\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Root To Node Path In Binary Tree",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Root To Node Path In Binary Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Root To Node Path In Binary Tree\"}",
@@ -112,12 +154,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Hard Question/Node At A Distance K.md",
+                "file": "Main Notes/DSA/Binary Search Tree/Problems/Easy/Ceil in a BST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Node At A Distance K"
+              "title": "Ceil in a BST"
             }
           }
         ]
@@ -237,8 +279,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -366,7 +407,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Hard Question/Node At A Distance K.md",
+                "file": "Main Notes/DSA/Binary Search Tree/Problems/Easy/Ceil in a BST.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -394,7 +435,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Node At A Distance K"
+              "title": "Graph of Ceil in a BST"
             }
           }
         ]
@@ -419,7 +460,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Hard Question/Node At A Distance K.md",
+                "file": "Main Notes/DSA/Binary Search Tree/Problems/Easy/Ceil in a BST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -429,7 +470,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Node At A Distance K"
+              "title": "Backlinks for Ceil in a BST"
             }
           }
         ]
@@ -452,6 +493,18 @@
   },
   "active": "11196b37df893f8e",
   "lastOpenFiles": [
+    "Main Notes/DSA/Binary Search Tree/Theory/Search In BST.md",
+    "Main Notes/DSA/Binary Search Tree/Problems/Easy/Ceil in a BST.md",
+    "Main Notes/DSA/Binary Search Tree/Problems/Medium",
+    "Main Notes/DSA/Binary Search Tree/Problems/Easy",
+    "Main Notes/DSA/Binary Search Tree/Problems/Hard",
+    "Main Notes/DSA/Binary Search Tree/Problems",
+    "Main Notes/DSA/Binary Search Tree/Theory/Binary Search Tree.md",
+    "Images/Pasted image 20250407215822.png",
+    "Tags/bst.md",
+    "Main Notes/DSA/Binary Trees/Hard Question/Node At A Distance K.md",
+    "Main Notes/DSA/Binary Search Tree/Theory",
+    "Main Notes/DSA/Binary Search Tree",
     "Main Notes/DSA/Binary Trees/Hard Question/Root To Node Path In Binary Tree.md",
     "Main Notes/DSA/Binary Trees/Hard Question/Maximum Width Of Binary Tree.md",
     "Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md",
@@ -473,12 +526,7 @@
     "Main Notes/DSA/Binary Trees/Traversals/Boundary Traversal.md",
     "Main Notes/DSA/Binary Trees/Traversals/Postorder.md",
     "Main Notes/DSA/Binary Trees/Traversals/Inorder.md",
-    "Main Notes/DSA/Binary Trees/Traversals/Preorder.md",
-    "Tags/follow up.md",
     "Images/Pasted image 20250405200806.png",
-    "Main Notes/DSA/Binary Trees/Hard Question/Serialize And Deseriliaze A Binary Tree.md",
-    "Main Notes/DSA/Binary Trees/Construct/Construct A Binary Tree From Preorder And Inorder Traversal.md",
-    "Main Notes/DSA/Binary Trees/Construct/Create A Binary Tree From Inorder and Postorder Traversal.md",
     "Main Notes/DSA/Binary Trees/Construct",
     "Images/Pasted image 20250405004301.png",
     "Images/Pasted image 20250405003819.png",
@@ -490,13 +538,6 @@
     "Images/Pasted image 20250402220730.png",
     "Office/Documentation/Backend.pdf",
     "Office/Documentation/Backend_tmp.html",
-    "Office/Documentation",
-    "Office",
-    "Images/Pasted image 20250401232459.png",
-    "Images/Pasted image 20250401214417.png",
-    "Main Notes/DSA/Binary Trees/Views",
-    "Main Notes/DSA/Binary Trees/Traversals/Views",
-    "Images",
-    "Main Notes/DSA/Binary Trees/Hard Question"
+    "Images/Pasted image 20250401232459.png"
   ]
 }

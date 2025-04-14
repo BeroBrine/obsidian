@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "LCA In Binary Search Tree",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Medium/LCA In Binary Search Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"LCA In Binary Search Tree\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0.7317073170731707}"
+                },
+                {
+                  "title": "Lowest Common Ancestor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Lowest Common Ancestor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":0},\"to\":{\"line\":49,\"ch\":0}},\"scroll\":34.371428571428574}"
+                },
+                {
+                  "title": "LCA In Binary Search Tree",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Medium/LCA In Binary Search Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"LCA In Binary Search Tree\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
                   "title": "Valid BST Or Not",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Medium/Valid BST Or Not.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Valid BST Or Not\"}",
@@ -196,12 +214,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Binary Search Tree/Problems/Medium/LCA In Binary Search Tree.md",
+                "file": "Main Notes/DSA/Binary Search Tree/Problems/Medium/Inorder Predecessor Or Successor In BST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LCA In Binary Search Tree"
+              "title": "Inorder Predecessor Or Successor In BST"
             }
           }
         ]
@@ -449,7 +467,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Main Notes/DSA/Binary Search Tree/Problems/Medium/LCA In Binary Search Tree.md",
+                "file": "Main Notes/DSA/Binary Search Tree/Problems/Medium/Inorder Predecessor Or Successor In BST.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -477,7 +495,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of LCA In Binary Search Tree"
+              "title": "Graph of Inorder Predecessor Or Successor In BST"
             }
           }
         ]
@@ -502,7 +520,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Search Tree/Problems/Medium/LCA In Binary Search Tree.md",
+                "file": "Main Notes/DSA/Binary Search Tree/Problems/Medium/Inorder Predecessor Or Successor In BST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -512,7 +530,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for LCA In Binary Search Tree"
+              "title": "Backlinks for Inorder Predecessor Or Successor In BST"
             }
           }
         ]
@@ -535,8 +553,12 @@
   },
   "active": "11196b37df893f8e",
   "lastOpenFiles": [
-    "Main Notes/DSA/Binary Search Tree/Problems/Medium/Valid BST Or Not.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Medium/LCA In Binary Search Tree.md",
+    "Main Notes/DSA/Binary Search Tree/Problems/Medium/Inorder Predecessor Or Successor In BST.md",
+    "Inorder Successor/Predecessor in BST.md",
+    "Inorder Successor",
+    "Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md",
+    "Main Notes/DSA/Binary Search Tree/Problems/Medium/Valid BST Or Not.md",
     "Main Notes/DSA/Binary Trees/Construct/Construct A Binary Tree From Preorder And Inorder Traversal.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Medium/Find K-th Smallest Or Largest Node in BST.md",
     "Main Notes/DSA/Binary Trees/Traversals/Inorder.md",
@@ -558,7 +580,6 @@
     "Main Notes/DSA/Binary Trees/Hard Question/Root To Node Path In Binary Tree.md",
     "Main Notes/DSA/Binary Trees/Hard Question/Maximum Width Of Binary Tree.md",
     "Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md",
-    "Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md",
     "Main Notes/DSA/Binary Trees/Hard Question/Check For Children Sum Property.md",
     "Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md",
     "Main Notes/DSA/Binary Trees/Views/Right View.md",
@@ -566,8 +587,6 @@
     "Main Notes/DSA/Binary Trees/Views/Top View.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Mirrored Tree.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md",
-    "Main Notes/DSA/Binary Trees/Medium Question/Check Height Balanced.md",
-    "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
     "Images/Pasted image 20250405200806.png",
     "Main Notes/DSA/Binary Trees/Construct",
     "Images/Pasted image 20250405004301.png",
@@ -579,7 +598,6 @@
     "Images/Pasted image 20250402223448.png",
     "Images/Pasted image 20250402220730.png",
     "Office/Documentation/Backend.pdf",
-    "Office/Documentation/Backend_tmp.html",
     "Images/Pasted image 20250401232459.png"
   ]
 }

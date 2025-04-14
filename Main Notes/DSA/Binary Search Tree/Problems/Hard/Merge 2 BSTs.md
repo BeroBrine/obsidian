@@ -81,7 +81,7 @@ vector<int> mergeBST(TreeNode *root1, TreeNode *root2)
 ```
 
 
-### Approach 2 (O)
+### Approach 2 Optimal
 
 
 

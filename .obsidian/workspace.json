@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Merge 2 BSTs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Hard/Merge 2 BSTs.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Merge 2 BSTs\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":21},\"to\":{\"line\":83,\"ch\":21}},\"scroll\":68.9327380952381}"
+                },
+                {
                   "title": "Inorder Predecessor Or Successor In BST",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Medium/Inorder Predecessor Or Successor In BST.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Inorder Predecessor Or Successor In BST\"}",
@@ -232,12 +238,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Binary Search Tree/Problems/Hard/Merge 2 BSTs.md",
+                "file": "Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merge 2 BSTs"
+              "title": "Flattern Binary Tree To Linked List"
             }
           }
         ]
@@ -485,7 +491,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Main Notes/DSA/Binary Search Tree/Problems/Hard/Merge 2 BSTs.md",
+                "file": "Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -513,7 +519,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Merge 2 BSTs"
+              "title": "Graph of Flattern Binary Tree To Linked List"
             }
           }
         ]
@@ -538,7 +544,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Search Tree/Problems/Hard/Merge 2 BSTs.md",
+                "file": "Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -548,7 +554,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Merge 2 BSTs"
+              "title": "Backlinks for Flattern Binary Tree To Linked List"
             }
           }
         ]
@@ -571,8 +577,8 @@
   },
   "active": "11196b37df893f8e",
   "lastOpenFiles": [
-    "Main Notes/DSA/Binary Search Tree/Problems/Medium/Inorder Predecessor Or Successor In BST.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Hard/Merge 2 BSTs.md",
+    "Main Notes/DSA/Binary Search Tree/Problems/Medium/Inorder Predecessor Or Successor In BST.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Medium/LCA In Binary Search Tree.md",
     "Inorder Successor/Predecessor in BST.md",
     "Inorder Successor",

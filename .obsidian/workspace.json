@@ -18,6 +18,42 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Flattern Binary Tree To Linked List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Flattern Binary Tree To Linked List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":49},\"to\":{\"line\":4,\"ch\":49}}}"
+                },
+                {
+                  "title": "Convert BST To Doubly Linked List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Convert BST To Doubly Linked List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "linked list",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/linked list.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"linked list\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Convert BST To Doubly Linked List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Convert BST To Doubly Linked List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":49},\"to\":{\"line\":4,\"ch\":49}},\"scroll\":0}"
+                },
+                {
+                  "title": "Merge 2 BSTs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Hard/Merge 2 BSTs.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Merge 2 BSTs\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":86,\"ch\":0},\"to\":{\"line\":86,\"ch\":0}},\"scroll\":58.089285714285715}"
+                },
+                {
+                  "title": "Flattern Binary Tree To Linked List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Flattern Binary Tree To Linked List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":92,\"ch\":0},\"to\":{\"line\":92,\"ch\":0}},\"scroll\":61.955357142857146}"
+                },
+                {
                   "title": "Merge 2 BSTs",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Hard/Merge 2 BSTs.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Merge 2 BSTs\"}",
@@ -238,12 +274,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md",
+                "file": "Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flattern Binary Tree To Linked List"
+              "title": "Convert BST To Doubly Linked List"
             }
           }
         ]
@@ -491,7 +527,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md",
+                "file": "Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -519,7 +555,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Flattern Binary Tree To Linked List"
+              "title": "Graph of Convert BST To Doubly Linked List"
             }
           }
         ]
@@ -544,7 +580,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md",
+                "file": "Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -554,7 +590,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Flattern Binary Tree To Linked List"
+              "title": "Backlinks for Convert BST To Doubly Linked List"
             }
           }
         ]
@@ -577,6 +613,9 @@
   },
   "active": "11196b37df893f8e",
   "lastOpenFiles": [
+    "Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md",
+    "Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md",
+    "Tags/linked list.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Hard/Merge 2 BSTs.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Medium/Inorder Predecessor Or Successor In BST.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Medium/LCA In Binary Search Tree.md",
@@ -606,11 +645,8 @@
     "Main Notes/DSA/Binary Trees/Hard Question/Maximum Width Of Binary Tree.md",
     "Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md",
     "Main Notes/DSA/Binary Trees/Hard Question/Check For Children Sum Property.md",
-    "Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md",
     "Main Notes/DSA/Binary Trees/Views/Right View.md",
     "Main Notes/DSA/Binary Trees/Views/Bottom View.md",
-    "Main Notes/DSA/Binary Trees/Views/Top View.md",
-    "Main Notes/DSA/Binary Trees/Medium Question/Mirrored Tree.md",
     "Images/Pasted image 20250405200806.png",
     "Main Notes/DSA/Binary Trees/Construct",
     "Images/Pasted image 20250405004301.png",

@@ -2,7 +2,7 @@
 
 *Status*: 
 
-*Tags*: [[dsa]] [[hard]] [[trees]]
+*Tags*: [[dsa]] [[hard]] [[trees]] [[linked list]]
 
 # Flattern Binary Tree To Linked List
 - *Problem* *Statement*: 
@@ -70,7 +70,31 @@ public:
   }
 ```
 
-#### Approach 3 -> Optimal 
+#### Approach 3 
+- Similar to [[Morris Inorder Traversal]]
+```cpp
+class Solution {
+public:
+  void flatten(TreeNode *root) {
+    TreeNode *curr = root;
+    while (curr) {
+      if (curr->left) {
+        TreeNode *prev = curr->left;
+        while (!prev->right) {
+          prev = prev->right;
+        }
+        prev->right = curr->right;
+        curr->right = curr->left;
+      }
+      curr = curr->right;
+    }
+  }
+};
+
+```
+
+
+
 
 
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5389ce9fc98fe114",
+        "id": "eae20338c7d0a03f",
         "type": "tabs",
         "children": [
           {
-            "id": "5e8eaa836ea27279",
+            "id": "797594366acdc424",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,46 +18,22 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Morris Inorder Traversal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Morris Inorder Traversal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Morris Inorder Traversal\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":72,\"ch\":0},\"to\":{\"line\":72,\"ch\":0}},\"scroll\":48.1859375}"
-                },
-                {
                   "title": "Recover BST. Correct BST with two nodes swapped",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Hard/Recover BST. Correct BST with two nodes swapped.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Recover BST. Correct BST with two nodes swapped\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":0},\"to\":{\"line\":52,\"ch\":0}},\"scroll\":28.309226190476192}"
-                },
-                {
-                  "title": "Two Sum For BST",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Easy/Two Sum For BST.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Two Sum For BST\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":32},\"to\":{\"line\":28,\"ch\":32}},\"scroll\":26.7875}"
-                },
-                {
-                  "title": "Merge 2 BSTs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Hard/Merge 2 BSTs.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Merge 2 BSTs\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":87,\"ch\":0},\"to\":{\"line\":87,\"ch\":0}},\"scroll\":76.00178571428572}"
-                },
-                {
-                  "title": "Convert Sorted Linked List to BST",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Convert Sorted Linked List to BST.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Convert Sorted Linked List to BST\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":12.438770325203253}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":94,\"ch\":0},\"to\":{\"line\":94,\"ch\":0}},\"scroll\":89.07559523809523}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Binary Search Tree/Problems/Hard/Recover BST. Correct BST with two nodes swapped.md",
+                "file": "Main Notes/DSA/Binary Search Tree/Problems/Hard/Largest BST In Binary Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recover BST. Correct BST with two nodes swapped"
+              "title": "Largest BST In Binary Tree"
             }
           }
         ]
@@ -191,7 +167,7 @@
       {
         "id": "cbed4ef832a7d7db",
         "type": "tabs",
-        "dimension": 37.15139442231076,
+        "dimension": 35.85657370517929,
         "children": [
           {
             "id": "1cf54206a9eaa9c7",
@@ -286,12 +262,12 @@
         "currentTab": 1
       },
       {
-        "id": "a7f9ed2779996954",
+        "id": "eb4047ec2ec47fa8",
         "type": "tabs",
-        "dimension": 26.593625498007967,
+        "dimension": 41.53386454183267,
         "children": [
           {
-            "id": "d6f985b3ad8c9fc5",
+            "id": "7e2e27841ab3fbf8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -299,112 +275,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Main Notes/DSA/Linked List/Medium/Convert Sorted Linked List to BST.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.4804870654137724,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Convert Sorted Linked List to BST"
-            }
-          },
-          {
-            "id": "f100b59efc41bb5b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Convert Sorted Linked List to BST",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Convert Sorted Linked List to BST.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Convert Sorted Linked List to BST\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":38},\"to\":{\"line\":15,\"ch\":38}},\"scroll\":0}"
-                },
-                {
-                  "title": "Find The Middle Of The Linked List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Traversal/Find The Middle Of The Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Find The Middle Of The Linked List\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":8.591397849462366}"
-                },
-                {
-                  "title": "Convert Sorted Linked List to BST",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Convert Sorted Linked List to BST.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Convert Sorted Linked List to BST\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Create BST From Inorder Traversal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Construct/Create BST From Inorder Traversal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Create BST From Inorder Traversal\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":11.563244047619047}"
-                },
-                {
-                  "title": "Merge 2 BSTs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Hard/Merge 2 BSTs.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Merge 2 BSTs\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":0},\"to\":{\"line\":58,\"ch\":0}},\"scroll\":36.06071428571428}"
-                },
-                {
-                  "title": "Convert Sorted Linked List to BST",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Convert Sorted Linked List to BST.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Convert Sorted Linked List to BST\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":1.2666666666666666}"
-                },
-                {
-                  "title": "Merge 2 BSTs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Hard/Merge 2 BSTs.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Merge 2 BSTs\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":0},\"to\":{\"line\":83,\"ch\":0}},\"scroll\":63.022619047619045}"
-                },
-                {
-                  "title": "Convert BST To Doubly Linked List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Convert BST To Doubly Linked List\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":30},\"to\":{\"line\":36,\"ch\":30}},\"scroll\":14.628864247311828}"
-                },
-                {
-                  "title": "Merge 2 Sorted Linked List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Easy/Merge 2 Sorted Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Merge 2 Sorted Linked List\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":78,\"ch\":0},\"to\":{\"line\":78,\"ch\":0}},\"scroll\":58.39345238095238}"
-                },
-                {
-                  "title": "Convert BST To Doubly Linked List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Convert BST To Doubly Linked List\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
@@ -415,13 +285,12 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "46377aa4a040ffd8",
         "type": "tabs",
-        "dimension": 36.254980079681275,
+        "dimension": 22.609561752988046,
         "children": [
           {
             "id": "8c7b51e71a6a2970",
@@ -438,7 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Search Tree/Problems/Hard/Recover BST. Correct BST with two nodes swapped.md",
+                "file": "Main Notes/DSA/Binary Search Tree/Problems/Hard/Largest BST In Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -448,7 +317,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Recover BST. Correct BST with two nodes swapped"
+              "title": "Backlinks for Largest BST In Binary Tree"
             }
           }
         ]
@@ -469,10 +338,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e8eaa836ea27279",
+  "active": "797594366acdc424",
   "lastOpenFiles": [
-    "Main Notes/DSA/Binary Trees/Traversals/Morris Inorder Traversal.md",
+    "Tags/hard.md",
+    "Main Notes/DSA/Binary Search Tree/Problems/Hard/Largest BST In Binary Tree.md",
+    "Main Notes/DSA/Binary Search Tree/Problems/Hard/().md",
     "Main Notes/DSA/Binary Search Tree/Problems/Hard/Recover BST. Correct BST with two nodes swapped.md",
+    "Main Notes/DSA/Binary Trees/Traversals/Morris Inorder Traversal.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Easy/Two Sum For BST.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Hard/Merge 2 BSTs.md",
     "Main Notes/DSA/Linked List/Medium/Convert Sorted Linked List to BST.md",
@@ -500,13 +372,10 @@
     "Main Notes/DSA/Binary Search Tree/Problems/Medium/Delete A Node In Binary Search Tree.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Medium/Untitled.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Easy/Insert A Node In BST.md",
-    "Main Notes/DSA/Binary Search Tree/Problems/Easy/Ceil in a BST.md",
-    "Main Notes/DSA/Binary Search Tree/Theory/Search In BST.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Medium",
     "Main Notes/DSA/Binary Search Tree/Problems/Easy",
     "Main Notes/DSA/Binary Search Tree/Problems/Hard",
     "Main Notes/DSA/Binary Search Tree/Problems",
-    "Main Notes/DSA/Binary Search Tree/Theory/Binary Search Tree.md",
     "Images/Pasted image 20250407215822.png",
     "Images/Pasted image 20250405200806.png",
     "Images/Pasted image 20250405004301.png",

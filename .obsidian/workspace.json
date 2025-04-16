@@ -307,6 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Main Notes/DSA/Binary Search Tree/Problems/Hard/Largest BST In Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +317,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Largest BST In Binary Tree"
             }
           }
         ]
@@ -337,8 +338,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7e2e27841ab3fbf8",
+  "active": "797594366acdc424",
   "lastOpenFiles": [
+    "imgae",
+    "Images/Pasted image 20250417002819.png",
     "Main Notes/DSA/Binary Search Tree/Problems/Hard/Largest BST In Binary Tree.md",
     "Tags/hard.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Hard/().md",
@@ -370,7 +373,6 @@
     "Main Notes/DSA/Binary Trees/Traversals/Inorder.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Medium/Delete A Node In Binary Search Tree.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Medium/Untitled.md",
-    "Main Notes/DSA/Binary Search Tree/Problems/Easy/Insert A Node In BST.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Medium",
     "Main Notes/DSA/Binary Search Tree/Problems/Easy",
     "Main Notes/DSA/Binary Search Tree/Problems/Hard",
@@ -383,7 +385,6 @@
     "Images/Pasted image 20250404022637.png",
     "Images/Pasted image 20250403213001.png",
     "Images/Pasted image 20250402223448.png",
-    "Images/Pasted image 20250402220730.png",
-    "Images/Pasted image 20250401232459.png"
+    "Images/Pasted image 20250402220730.png"
   ]
 }

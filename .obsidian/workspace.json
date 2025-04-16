@@ -307,7 +307,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Search Tree/Problems/Hard/Largest BST In Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,7 +316,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Largest BST In Binary Tree"
+              "title": "Backlinks"
             }
           }
         ]
@@ -338,11 +337,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "797594366acdc424",
+  "active": "7e2e27841ab3fbf8",
   "lastOpenFiles": [
+    "Main Notes/DSA/Binary Search Tree/Problems/Hard/Largest BST In Binary Tree.md",
     "imgae",
     "Images/Pasted image 20250417002819.png",
-    "Main Notes/DSA/Binary Search Tree/Problems/Hard/Largest BST In Binary Tree.md",
     "Tags/hard.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Hard/().md",
     "Main Notes/DSA/Binary Search Tree/Problems/Hard/Recover BST. Correct BST with two nodes swapped.md",
@@ -376,7 +375,6 @@
     "Main Notes/DSA/Binary Search Tree/Problems/Medium",
     "Main Notes/DSA/Binary Search Tree/Problems/Easy",
     "Main Notes/DSA/Binary Search Tree/Problems/Hard",
-    "Main Notes/DSA/Binary Search Tree/Problems",
     "Images/Pasted image 20250407215822.png",
     "Images/Pasted image 20250405200806.png",
     "Images/Pasted image 20250405004301.png",

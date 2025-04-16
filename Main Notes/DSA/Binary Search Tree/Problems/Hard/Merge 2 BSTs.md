@@ -1,6 +1,6 @@
 *14-04-2025 19:25*
 
-*Status*:
+*Status*: [[revise]] [[quirky]]
 
 *Tags*: [[dsa]] [[trees]] [[bst]] [[hard]]
 
@@ -82,10 +82,145 @@ vector<int> mergeBST(TreeNode *root1, TreeNode *root2)
 
 
 ### Approach 2 Optimal
+- Step 1 - [[Convert BST To Doubly Linked List]]
+- Step 2 - [[Merge 2 Sorted Linked List]]
+- Step 3 - [[Convert Sorted Linked List to BST]] (Approach 2) 
+
+#### Complete Code
+```cpp
+void flattenToLinkedList(TreeNode* root , TreeNode* &node){
+    if(root == nullptr) {
+        return;
+    }
+    flattenToLinkedList(root->right , node);
+    root->right = node;
+    if(node) {
+        node->left = root;
+    }
+    node = root;
+    flattenToLinkedList(root->left , node);
+}
+
+TreeNode* mergeLinkedList(TreeNode* list1 , TreeNode* list2) {
+    TreeNode* head = nullptr;
+    TreeNode* tail = nullptr;
+    while(list1 && list2) {
+        if(list1->data < list2->data) {
+            if(!head) {
+                head = list1;
+                tail = list1;
+                list1= list1->right;
+            } else {
+                tail -> right = list1;
+                tail = list1;
+                list1 = list1 -> right;
+            }
+        }   
+        else {
+            if(!head) {
+                head = list2;
+                tail = list2;
+                list2 = list2->right;
+            }
+            else {
+                tail -> right = list2;
+                tail = list2;
+                list2= list2->right;
+            }
+        }
+    }
+    while(list1) {
+        tail->right = list1;
+        tail = list1;
+        list1 = list1->right;
+    }
+    while(list2) {
+        tail->right = list2;
+        tail = list2;
+        list2 = list2->right;
+    }
+    return head;
+}
+int count_nodes(TreeNode* head) {
+    int n = 0;
+    while(head) {
+        n++;
+        head = head ->right;
+    }
+    return n;
+}
+
+TreeNode* merge(TreeNode* &head , int n) {
+    if(head == nullptr || n <= 0 ) {
+        return nullptr;
+    }
+    TreeNode* left = merge(head , n / 2);
+    TreeNode* root = head;
+
+    root->left = left;
+    head = head->right;
+    root->right = merge(head , n - n / 2  - 1);
+    return root;
+}
+
+vector<int> inorder(TreeNode* root) {
+    vector<int> vec;
+    while(root) {
+        if(root->left == nullptr) {
+            vec.push_back(root->data);
+            root = root->right;
+
+        } else {
+            TreeNode* prev = root->left;
+            while(prev->right && prev->right != root) {
+                prev = prev->right;
+            }
+            if(!prev->right) {
+                prev ->right = root;
+                root = root->left;
+            }
+            else {
+                vec.push_back(root->data);
+                prev->right = nullptr;
+                root = root->right;
+            }
+        }
+    }
+    return vec;
+} 
+
+void inorder2(TreeNode* root , vector<int> &vec) {
+    if(root == nullptr) {
+        return;
+    }
+    inorder(root->left);
+    vec.push_back(root->data);
+    inorder(root->right);
+}
+
+vector<int> mergeBST(TreeNode *root1, TreeNode *root2)
+{
+    TreeNode* h1 = nullptr;
+    flattenToLinkedList(root1 , h1);
+    h1->left=  nullptr;
+    TreeNode* h2 = nullptr;
+    flattenToLinkedList(root2 , h2);
+    h2->left=  nullptr;
+
+    TreeNode* head = mergeLinkedList(h1 , h2);
+    auto itr = head;
+
+    int n = count_nodes(head);
+
+    TreeNode* root = merge(head , n);
+
+    vector<int> vec = inorder(root);
+
+    return vec;
 
 
-
-
+}
+```
 ## References
 - striver sheet link N/A
 - [yt video link](https://www.youtube.com/watch?v=18w8VduomfI&ab_channel=CodeHelp-byBabbar)

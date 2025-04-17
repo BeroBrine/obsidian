@@ -16,7 +16,7 @@
 	
 	* Both the left and right subtrees must also be binary search trees.
 	![[Pasted image 20250417002819.png]]
-
+	
 ### Solution
 - In this , we are essentially doing [[Postorder]] traversal , because for each node we need it's left subtree and then right subtree processed first. 
 	- On each node , we will have to validate that if including this node , is it a BST?
@@ -26,8 +26,6 @@
 		- Same is done for the right subtree , we are telling the parent that the max value from your subtree is the max of mine and the max value i received from my right subtree.
 		- The condition of isBst eliminates the need to set the min and max value to such numbers so that for the parent node the condition is not evaluated. 
 			- This ensures that only valid bsts are included in the calculation of the sum.
-
-
 
 
 #### Code

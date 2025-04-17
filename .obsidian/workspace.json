@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "DFS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Traversals/DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"DFS\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":0},\"to\":{\"line\":44,\"ch\":0}},\"scroll\":16.356547619047618}"
+                },
+                {
                   "title": "BFS",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Traversals/BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"BFS\"}",
@@ -82,12 +88,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Traversals/DFS.md",
+                "file": "Main Notes/DSA/Graphs/Medium/Number Of Provinces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DFS"
+              "title": "Number Of Provinces"
             }
           }
         ]
@@ -361,7 +367,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Traversals/DFS.md",
+                "file": "Main Notes/DSA/Graphs/Medium/Number Of Provinces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +377,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DFS"
+              "title": "Backlinks for Number Of Provinces"
             }
           }
         ]
@@ -394,8 +400,10 @@
   },
   "active": "797594366acdc424",
   "lastOpenFiles": [
-    "Main Notes/DSA/Graphs/Traversals/BFS.md",
     "Main Notes/DSA/Graphs/Traversals/DFS.md",
+    "Main Notes/DSA/Graphs/Medium/Number Of Provinces.md",
+    "Main Notes/DSA/Graphs/Medium",
+    "Main Notes/DSA/Graphs/Traversals/BFS.md",
     "Main Notes/DSA/Graphs/Theory/Connected Components.md",
     "Main Notes/DSA/Graphs/Traversals",
     "Pasted image 20250417221410.png",
@@ -430,13 +438,11 @@
     "Main Notes/DSA/Linked List/Easy/Merge 2 Sorted Linked List.md",
     "Main Notes/DSA/Linked List/Easy",
     "Main Notes/Linked List/Untitled.md",
-    "Main Notes/DSA/Linked List",
     "Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md",
     "Tags/linked list.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Medium/Inorder Predecessor Or Successor In BST.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Medium/LCA In Binary Search Tree.md",
     "Inorder Successor/Predecessor in BST.md",
-    "Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md",
     "Images/Pasted image 20250407215822.png",
     "Images/Pasted image 20250405200806.png",
     "Images/Pasted image 20250405004301.png"

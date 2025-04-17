@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "BFS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Traversals/BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"BFS\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":21},\"to\":{\"line\":7,\"ch\":21}},\"scroll\":0}"
+                },
+                {
+                  "title": "DFS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Traversals/DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"DFS\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":19},\"to\":{\"line\":7,\"ch\":19}},\"scroll\":0.21951219512195122}"
+                },
+                {
+                  "title": "BFS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Traversals/BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"BFS\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":0},\"to\":{\"line\":49,\"ch\":0}},\"scroll\":19.498912255257434}"
+                },
+                {
                   "title": "Connected Components",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Theory/Connected Components.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Connected Components\"}",
@@ -64,12 +82,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Traversals/BFS.md",
+                "file": "Main Notes/DSA/Graphs/Traversals/DFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BFS"
+              "title": "DFS"
             }
           }
         ]
@@ -343,7 +361,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Traversals/BFS.md",
+                "file": "Main Notes/DSA/Graphs/Traversals/DFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +371,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for BFS"
+              "title": "Backlinks for DFS"
             }
           }
         ]
@@ -376,8 +394,9 @@
   },
   "active": "797594366acdc424",
   "lastOpenFiles": [
-    "Main Notes/DSA/Graphs/Theory/Connected Components.md",
     "Main Notes/DSA/Graphs/Traversals/BFS.md",
+    "Main Notes/DSA/Graphs/Traversals/DFS.md",
+    "Main Notes/DSA/Graphs/Theory/Connected Components.md",
     "Main Notes/DSA/Graphs/Traversals",
     "Pasted image 20250417221410.png",
     "Main Notes/DSA/Graphs/Theory/Graph Representation.md",
@@ -418,7 +437,6 @@
     "Main Notes/DSA/Binary Search Tree/Problems/Medium/LCA In Binary Search Tree.md",
     "Inorder Successor/Predecessor in BST.md",
     "Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md",
-    "Main Notes/DSA/Binary Search Tree/Problems/Medium/Valid BST Or Not.md",
     "Images/Pasted image 20250407215822.png",
     "Images/Pasted image 20250405200806.png",
     "Images/Pasted image 20250405004301.png"

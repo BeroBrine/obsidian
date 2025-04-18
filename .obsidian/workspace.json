@@ -18,6 +18,48 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "sys design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/sys design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"sys design\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scalability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/System Design/Key Concepts/Scalability.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scalability\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
+                },
+                {
+                  "title": "sys design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/sys design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"sys design\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":21},\"to\":{\"line\":19,\"ch\":21}}}"
+                },
+                {
+                  "title": "system design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/system design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"system design\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "sys design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/sys design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"system design\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":9},\"to\":{\"line\":4,\"ch\":9}}}"
+                },
+                {
+                  "title": "Scalability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/System Design/Key Concepts/Scalability.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scalability\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Cycle Detection In Undirected Graph Using DFS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using DFS\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":25},\"to\":{\"line\":22,\"ch\":25}},\"scroll\":6.882629107981221}"
+                },
+                {
                   "title": "Cycle Detection In Undirected Graph Using BFS",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using BFS\"}",
@@ -136,12 +178,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using DFS.md",
+                "file": "Main Notes/System Design/Key Concepts/Scalability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cycle Detection In Undirected Graph Using DFS"
+              "title": "Scalability"
             }
           }
         ]
@@ -265,7 +307,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6beec99a0cb1b954",
@@ -414,7 +457,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using DFS.md",
+                "file": "Main Notes/System Design/Key Concepts/Scalability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -424,14 +467,14 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cycle Detection In Undirected Graph Using DFS"
+              "title": "Backlinks for Scalability"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 293
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -445,11 +488,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6449d8c70046fbe3",
+  "active": "797594366acdc424",
   "lastOpenFiles": [
+    "Templates/sys design.md",
+    "Main Notes/System Design/Key Concepts/Scalability.md",
+    "Templates/dsa note.md",
+    "Tags/system design.md",
+    "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using DFS.md",
+    "Main Notes/System Design/Key Concepts",
     "Main Notes/System Design",
     "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using BFS.md",
-    "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using DFS.md",
     "Main Notes/DSA/Graphs/Hard/Flood Fill.md",
     "Images/Pasted image 20250417174224.png",
     "Images/Pasted image 20250417173205.png",
@@ -485,11 +533,6 @@
     "Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md",
     "Main Notes/DSA/Linked List/Traversal/Find The Middle Of The Linked List.md",
     "Main Notes/DSA/Linked List/Traversal",
-    "Main Notes/DSA/Binary Search Tree/Problems/Construct/Create BST From Inorder Traversal.md",
-    "Main Notes/DSA/Binary Search Tree/Problems/Construct",
-    "Main Notes/DSA/Linked List/Medium",
-    "Main Notes/DSA/Linked List/Easy/Merge 2 Sorted Linked List.md",
-    "Main Notes/Linked List/Untitled.md",
     "Images/Pasted image 20250407215822.png",
     "Images/Pasted image 20250405200806.png",
     "Images/Pasted image 20250405004301.png"

@@ -20,4 +20,4 @@
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-dfs/)
 - [yt video link](https://www.youtube.com/watch?v=zQ3zgFypzX4&feature=youtu.be)
-- [leetcode question link]()
+- [GFG question link](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/0)

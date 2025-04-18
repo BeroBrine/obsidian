@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Flood Fill",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Flood Fill.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Flood Fill\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":113,\"ch\":0},\"to\":{\"line\":113,\"ch\":0}},\"scroll\":84.27738095238095}"
+                },
+                {
                   "title": "Rotten Oranges",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/Rotten Oranges.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rotten Oranges\"}",
@@ -112,12 +118,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Hard/Flood Fill.md",
+                "file": "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using BFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flood Fill"
+              "title": "Cycle Detection In Undirected Graph Using BFS"
             }
           }
         ]
@@ -391,7 +397,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Hard/Flood Fill.md",
+                "file": "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using BFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -401,7 +407,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Flood Fill"
+              "title": "Backlinks for Cycle Detection In Undirected Graph Using BFS"
             }
           }
         ]
@@ -424,9 +430,10 @@
   },
   "active": "797594366acdc424",
   "lastOpenFiles": [
+    "Main Notes/DSA/Graphs/Hard/Flood Fill.md",
+    "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using BFS.md",
     "Images/Pasted image 20250417174224.png",
     "Images/Pasted image 20250417173205.png",
-    "Main Notes/DSA/Graphs/Hard/Flood Fill.md",
     "Main Notes/DSA/Graphs/Hard",
     "Main Notes/DSA/Graphs/Medium/Rotten Oranges.md",
     "Main Notes/DSA/Graphs/Medium/Number Of Provinces.md",

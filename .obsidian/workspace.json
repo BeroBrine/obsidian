@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Rotten Oranges",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/Rotten Oranges.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rotten Oranges\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":186,\"ch\":111},\"to\":{\"line\":186,\"ch\":111}},\"scroll\":161.92380952380952}"
+                },
+                {
                   "title": "Number Of Provinces",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/Number Of Provinces.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Number Of Provinces\"}",
@@ -94,12 +100,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Medium/Rotten Oranges.md",
+                "file": "Main Notes/DSA/Graphs/Medium/Flood Fill.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rotten Oranges"
+              "title": "Flood Fill"
             }
           }
         ]
@@ -373,6 +379,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Main Notes/DSA/Graphs/Medium/Flood Fill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -382,7 +389,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Flood Fill"
             }
           }
         ]
@@ -403,9 +410,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7e2e27841ab3fbf8",
+  "active": "797594366acdc424",
   "lastOpenFiles": [
     "Main Notes/DSA/Graphs/Medium/Rotten Oranges.md",
+    "Main Notes/DSA/Graphs/Medium/Flood Fill.md",
     "Main Notes/DSA/Graphs/Medium/Number Of Provinces.md",
     "Main Notes/DSA/Graphs/Traversals/DFS.md",
     "Main Notes/DSA/Graphs/Medium",
@@ -447,7 +455,6 @@
     "Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md",
     "Tags/linked list.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Medium/Inorder Predecessor Or Successor In BST.md",
-    "Main Notes/DSA/Binary Search Tree/Problems/Medium/LCA In Binary Search Tree.md",
     "Images/Pasted image 20250407215822.png",
     "Images/Pasted image 20250405200806.png",
     "Images/Pasted image 20250405004301.png"

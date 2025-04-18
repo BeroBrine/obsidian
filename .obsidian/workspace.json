@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Number Of Provinces",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/Number Of Provinces.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Number Of Provinces\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
                   "title": "DFS",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Traversals/DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"DFS\"}",
@@ -88,12 +94,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Medium/Number Of Provinces.md",
+                "file": "Main Notes/DSA/Graphs/Medium/Rotten Oranges.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Number Of Provinces"
+              "title": "Rotten Oranges"
             }
           }
         ]
@@ -367,7 +373,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Medium/Number Of Provinces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -377,7 +382,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Number Of Provinces"
+              "title": "Backlinks"
             }
           }
         ]
@@ -398,10 +403,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "797594366acdc424",
+  "active": "7e2e27841ab3fbf8",
   "lastOpenFiles": [
-    "Main Notes/DSA/Graphs/Traversals/DFS.md",
+    "Main Notes/DSA/Graphs/Medium/Rotten Oranges.md",
     "Main Notes/DSA/Graphs/Medium/Number Of Provinces.md",
+    "Main Notes/DSA/Graphs/Traversals/DFS.md",
     "Main Notes/DSA/Graphs/Medium",
     "Main Notes/DSA/Graphs/Traversals/BFS.md",
     "Main Notes/DSA/Graphs/Theory/Connected Components.md",
@@ -442,7 +448,6 @@
     "Tags/linked list.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Medium/Inorder Predecessor Or Successor In BST.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Medium/LCA In Binary Search Tree.md",
-    "Inorder Successor/Predecessor in BST.md",
     "Images/Pasted image 20250407215822.png",
     "Images/Pasted image 20250405200806.png",
     "Images/Pasted image 20250405004301.png"

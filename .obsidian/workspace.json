@@ -265,8 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6beec99a0cb1b954",
@@ -446,8 +445,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "797594366acdc424",
+  "active": "6449d8c70046fbe3",
   "lastOpenFiles": [
+    "Main Notes/System Design",
     "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using BFS.md",
     "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using DFS.md",
     "Main Notes/DSA/Graphs/Hard/Flood Fill.md",
@@ -490,7 +490,6 @@
     "Main Notes/DSA/Linked List/Medium",
     "Main Notes/DSA/Linked List/Easy/Merge 2 Sorted Linked List.md",
     "Main Notes/Linked List/Untitled.md",
-    "Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md",
     "Images/Pasted image 20250407215822.png",
     "Images/Pasted image 20250405200806.png",
     "Images/Pasted image 20250405004301.png"

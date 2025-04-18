@@ -13,6 +13,7 @@
 - Perform [[BFS]] starting from a node. One of the path will surely visit the node and when the other path comes to visit the node and if it sees it's already visited , then it indicates there is a cycle..   
 - The data structure used will be a struct which will contain the node and it's parent node.
 - For the GFG question , the given input is the edge array denoting an edge between u and v. Convert this into the adj list using below function
+- **Just make sure that you assign the space as V.**
 ```cpp
 
 void convert(vector<vector<int>> &edges , vector<vector<int>> &adj){
@@ -87,7 +88,7 @@ class Solution {
   public:
     bool isCycle(int V, vector<vector<int>>& edges) {
         int n = edges.size();
-        vector<vector<int>> adj(V);
+        vector<vector<int>> adj(V); // USE V 
         int vis[V] = {0};
         convert(edges , adj);
         for(int i = 0 ; i < V ; i++) {

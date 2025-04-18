@@ -67,14 +67,6 @@
   "editor:follow-link": [],
   "editor:open-link-in-new-split": [],
   "workspace:previous-tab": [],
-  "quick-explorer:browse-current": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
   "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed": [
     {
       "modifiers": [

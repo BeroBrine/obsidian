@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Scalability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/System Design/Key Concepts/Scalability.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scalability\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":55,\"ch\":0},\"to\":{\"line\":55,\"ch\":0}},\"scroll\":36.9979674796748}"
+                },
+                {
                   "title": "sys design",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/sys design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"sys design\"}",
@@ -178,12 +184,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/System Design/Key Concepts/Scalability.md",
+                "file": "Main Notes/System Design/Key Concepts/Availability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scalability"
+              "title": "Availability"
             }
           }
         ]
@@ -457,7 +463,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/System Design/Key Concepts/Scalability.md",
+                "file": "Main Notes/System Design/Key Concepts/Availability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -467,7 +473,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Scalability"
+              "title": "Backlinks for Availability"
             }
           }
         ]
@@ -490,8 +496,9 @@
   },
   "active": "797594366acdc424",
   "lastOpenFiles": [
-    "Templates/sys design.md",
     "Main Notes/System Design/Key Concepts/Scalability.md",
+    "Main Notes/System Design/Key Concepts/Availability.md",
+    "Templates/sys design.md",
     "Templates/dsa note.md",
     "Tags/system design.md",
     "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using DFS.md",
@@ -531,7 +538,6 @@
     "Main Notes/DSA/Binary Search Tree/Problems/Hard/Merge 2 BSTs.md",
     "Main Notes/DSA/Linked List/Medium/Convert Sorted Linked List to BST.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md",
-    "Main Notes/DSA/Linked List/Traversal/Find The Middle Of The Linked List.md",
     "Main Notes/DSA/Linked List/Traversal",
     "Images/Pasted image 20250407215822.png",
     "Images/Pasted image 20250405200806.png",

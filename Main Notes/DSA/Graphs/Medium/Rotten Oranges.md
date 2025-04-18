@@ -184,6 +184,6 @@ public:
 
 
 ## References
-- [striver sheet link]()
-- [yt video link]()
-- [leetcode question link]()
+- [striver sheet link](https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/)
+- [yt video link](https://www.youtube.com/watch?v=yf3oUhkvqA0&ab_channel=takeUforward)
+- [leetcode question link](https://leetcode.com/problems/rotting-oranges/)

@@ -1,6 +1,6 @@
 *18-04-2025 12:19*
 
-*Status*:
+*Status*: [[revise]] [[quirky]]
 
 *Tags*: [[dsa]] [[medium question]] [[graph]]
 

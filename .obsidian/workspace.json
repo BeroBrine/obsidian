@@ -415,7 +415,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using DFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -425,7 +424,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cycle Detection In Undirected Graph Using DFS"
+              "title": "Backlinks"
             }
           }
         ]
@@ -446,10 +445,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "797594366acdc424",
+  "active": "7e2e27841ab3fbf8",
   "lastOpenFiles": [
-    "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using BFS.md",
     "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using DFS.md",
+    "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using BFS.md",
     "Main Notes/DSA/Graphs/Hard/Flood Fill.md",
     "Images/Pasted image 20250417174224.png",
     "Images/Pasted image 20250417173205.png",

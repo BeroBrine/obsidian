@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "CAP Theorem",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/System Design/Key Concepts/CAP Theorem.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"CAP Theorem\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":2},\"to\":{\"line\":5,\"ch\":2}},\"scroll\":0}"
+                },
+                {
+                  "title": "Availability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/System Design/Key Concepts/Availability.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Availability\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":0},\"to\":{\"line\":45,\"ch\":0}},\"scroll\":32.78293010752688}"
+                },
+                {
                   "title": "Scalability",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/System Design/Key Concepts/Scalability.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scalability\"}",
@@ -184,12 +196,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/System Design/Key Concepts/Availability.md",
+                "file": "Main Notes/DSA/Graphs/Medium/01 Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Availability"
+              "title": "01 Matrix"
             }
           }
         ]
@@ -323,7 +335,7 @@
       {
         "id": "cbed4ef832a7d7db",
         "type": "tabs",
-        "dimension": 35.85657370517929,
+        "dimension": 24.18300653594771,
         "children": [
           {
             "id": "1cf54206a9eaa9c7",
@@ -340,31 +352,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Traversals/Boundary Traversal.md",
+                "file": "Main Notes/DSA/Graphs/Medium/01 Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Boundary Traversal"
-            }
-          },
-          {
-            "id": "b0ef9787c61e59b6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "Outgoing links from 01 Matrix"
             }
           },
           {
@@ -414,39 +407,12 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "eb4047ec2ec47fa8",
-        "type": "tabs",
-        "dimension": 41.53386454183267,
-        "children": [
-          {
-            "id": "7e2e27841ab3fbf8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
         ]
       },
       {
         "id": "46377aa4a040ffd8",
         "type": "tabs",
-        "dimension": 22.609561752988046,
+        "dimension": 36.9281045751634,
         "children": [
           {
             "id": "8c7b51e71a6a2970",
@@ -463,7 +429,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/System Design/Key Concepts/Availability.md",
+                "file": "Main Notes/DSA/Graphs/Medium/01 Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -473,7 +439,33 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Availability"
+              "title": "Backlinks for 01 Matrix"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1e0ffa0b4e892020",
+        "type": "tabs",
+        "dimension": 38.88888888888889,
+        "children": [
+          {
+            "id": "b0ef9787c61e59b6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -496,8 +488,11 @@
   },
   "active": "797594366acdc424",
   "lastOpenFiles": [
-    "Main Notes/System Design/Key Concepts/Scalability.md",
+    "Main Notes/System Design/Key Concepts/CAP Theorem.md",
+    "Main Notes/DSA/Graphs/Medium/01 Matrix.md",
+    "Tags/dsa.md",
     "Main Notes/System Design/Key Concepts/Availability.md",
+    "Main Notes/System Design/Key Concepts/Scalability.md",
     "Templates/sys design.md",
     "Templates/dsa note.md",
     "Tags/system design.md",
@@ -535,9 +530,6 @@
     "Main Notes/DSA/Binary Search Tree/Problems/Hard/Recover BST. Correct BST with two nodes swapped.md",
     "Main Notes/DSA/Binary Trees/Traversals/Morris Inorder Traversal.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Easy/Two Sum For BST.md",
-    "Main Notes/DSA/Binary Search Tree/Problems/Hard/Merge 2 BSTs.md",
-    "Main Notes/DSA/Linked List/Medium/Convert Sorted Linked List to BST.md",
-    "Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md",
     "Main Notes/DSA/Linked List/Traversal",
     "Images/Pasted image 20250407215822.png",
     "Images/Pasted image 20250405200806.png",

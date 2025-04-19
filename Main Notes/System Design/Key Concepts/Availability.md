@@ -35,8 +35,16 @@
 
 - Fallover mechanism
 	- Set of devices or implementations over which a service fall backs to on failure.
-		- Active-Active -> All components are active and  
+		- Active-Active -> All components are active and share the load. 
+		- Active-Passive -> Set of backups attached to each component which become active on failure.
 
+- Data Replication 
+	- Replicating data across multiple backups 
+		- Synchronous -> Data is replicated in real time.
+		- Asynchronous -> Data is replicated after a delay. Causes data inconsistency issues.
+
+
+- Health Monitoring and Alerts
 
 
 

@@ -74,5 +74,30 @@
       ],
       "key": "0"
     }
+  ],
+  "obsidian-statusbar-pomo:start-satusbar-pomo": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ";"
+    }
+  ],
+  "mrj-jump-to-link:activate-jump-to-anywhere": [],
+  "obsidian-statusbar-pomo:pause-satusbar-pomo": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": ";"
+    }
+  ],
+  "obsidian-statusbar-pomo:quit-satusbar-pomo": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "["
+    }
   ]
 }

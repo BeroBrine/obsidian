@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Lowest Common Ancestor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Lowest Common Ancestor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":1},\"to\":{\"line\":24,\"ch\":1}},\"scroll\":18.249480241048936}"
+                },
+                {
+                  "title": "Flattern Binary Tree To Linked List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Flattern Binary Tree To Linked List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":103,\"ch\":55},\"to\":{\"line\":103,\"ch\":55}},\"scroll\":78.32911431407854}"
+                },
+                {
+                  "title": "Check For Children Sum Property",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Check For Children Sum Property.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Check For Children Sum Property\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":18},\"to\":{\"line\":53,\"ch\":18}},\"scroll\":52.89347406953137}"
+                },
+                {
                   "title": "Diameter Of Tree",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Diameter Of Tree\"}",
@@ -286,12 +304,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Hard Question/Check For Children Sum Property.md",
+                "file": "Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Check For Children Sum Property"
+              "title": "maximum path sum"
             }
           }
         ]
@@ -442,12 +460,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Hard Question/Check For Children Sum Property.md",
+                "file": "Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Check For Children Sum Property"
+              "title": "Outgoing links from maximum path sum"
             }
           },
           {
@@ -519,7 +537,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Hard Question/Check For Children Sum Property.md",
+                "file": "Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -529,7 +547,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Check For Children Sum Property"
+              "title": "Backlinks for maximum path sum"
             }
           }
         ]
@@ -579,6 +597,9 @@
   },
   "active": "797594366acdc424",
   "lastOpenFiles": [
+    "Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md",
+    "Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md",
+    "Main Notes/DSA/Binary Trees/Hard Question/Check For Children Sum Property.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Check Height Balanced.md",
@@ -609,10 +630,7 @@
     "Images/Pasted image 20250417173205.png",
     "Main Notes/DSA/Graphs/Hard",
     "Main Notes/DSA/Graphs/Medium/Rotten Oranges.md",
-    "Main Notes/DSA/Graphs/Medium/Number Of Provinces.md",
-    "Main Notes/DSA/Graphs/Traversals/DFS.md",
     "Main Notes/DSA/Graphs/Medium",
-    "Main Notes/DSA/Graphs/Traversals/BFS.md",
     "Main Notes/DSA/Graphs/Traversals",
     "Images/Pasted image 20250417221410.png",
     "Images/Pasted image 20250417165441.png",

@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Root To Node Path In Binary Tree",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Root To Node Path In Binary Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Root To Node Path In Binary Tree\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":0},\"to\":{\"line\":45,\"ch\":0}},\"scroll\":24.70259653140327}"
+                },
+                {
+                  "title": "Maximum Width Of Binary Tree",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Maximum Width Of Binary Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Maximum Width Of Binary Tree\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":0},\"to\":{\"line\":47,\"ch\":0}},\"scroll\":46.88603924442951}"
+                },
+                {
                   "title": "maximum path sum",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"maximum path sum\"}",
@@ -310,12 +322,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Hard Question/Maximum Width Of Binary Tree.md",
+                "file": "Main Notes/DSA/Binary Trees/Hard Question/Node At A Distance K.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maximum Width Of Binary Tree"
+              "title": "Node At A Distance K"
             }
           }
         ]
@@ -466,12 +478,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Hard Question/Maximum Width Of Binary Tree.md",
+                "file": "Main Notes/DSA/Binary Trees/Hard Question/Node At A Distance K.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Maximum Width Of Binary Tree"
+              "title": "Outgoing links from Node At A Distance K"
             }
           },
           {
@@ -543,7 +555,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Hard Question/Maximum Width Of Binary Tree.md",
+                "file": "Main Notes/DSA/Binary Trees/Hard Question/Node At A Distance K.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -553,7 +565,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Maximum Width Of Binary Tree"
+              "title": "Backlinks for Node At A Distance K"
             }
           }
         ]
@@ -603,6 +615,8 @@
   },
   "active": "797594366acdc424",
   "lastOpenFiles": [
+    "Main Notes/DSA/Binary Trees/Hard Question/Root To Node Path In Binary Tree.md",
+    "Main Notes/DSA/Binary Trees/Hard Question/Maximum Width Of Binary Tree.md",
     "Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md",
     "Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md",
     "Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md",
@@ -631,8 +645,6 @@
     "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using DFS.md",
     "Main Notes/System Design/Key Concepts",
     "Main Notes/System Design",
-    "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using BFS.md",
-    "Main Notes/DSA/Graphs/Hard/Flood Fill.md",
     "Images/Pasted image 20250417174224.png",
     "Images/Pasted image 20250417173205.png",
     "Main Notes/DSA/Graphs/Hard",

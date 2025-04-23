@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Word Ladder - 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Word Ladder - 1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Word Ladder - 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":12},\"to\":{\"line\":61,\"ch\":12}},\"scroll\":40.825}"
+                },
+                {
                   "title": "Cycle Detection In Undirected Graph Using DFS",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using DFS\"}",
@@ -388,12 +394,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Hard/Word Ladder - 1.md",
+                "file": "Main Notes/DSA/Graphs/Hard/Word Ladder - 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Word Ladder - 1"
+              "title": "Word Ladder - 2"
             }
           }
         ]
@@ -544,12 +550,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Hard/Word Ladder - 1.md",
+                "file": "Main Notes/DSA/Graphs/Hard/Word Ladder - 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Word Ladder - 1"
+              "title": "Outgoing links from Word Ladder - 2"
             }
           },
           {
@@ -621,7 +627,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Hard/Word Ladder - 1.md",
+                "file": "Main Notes/DSA/Graphs/Hard/Word Ladder - 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -631,7 +637,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Word Ladder - 1"
+              "title": "Backlinks for Word Ladder - 2"
             }
           }
         ]
@@ -681,8 +687,9 @@
   },
   "active": "797594366acdc424",
   "lastOpenFiles": [
-    "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using DFS.md",
     "Main Notes/DSA/Graphs/Hard/Word Ladder - 1.md",
+    "Main Notes/DSA/Graphs/Hard/Word Ladder - 2.md",
+    "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using DFS.md",
     "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using BFS.md",
     "Main Notes/DSA/Graphs/Medium/Number Of Provinces.md",
     "Main Notes/DSA/Graphs/Medium/Rotten Oranges.md",
@@ -706,7 +713,6 @@
     "Main Notes/DSA/Binary Trees/Medium Question/Height Of Binary Tree.md",
     "Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md",
     "Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md",
-    "Main Notes/DSA/Binary Trees/Traversals/Postorder.md",
     "Images/Pasted image 20250419193152.png",
     "Images/Pasted image 20250419183747.png",
     "Main Notes/System Design/Key Concepts",

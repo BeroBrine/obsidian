@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Number Of Provinces",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/Number Of Provinces.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Number Of Provinces\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0.7312840981610192}"
+                },
+                {
                   "title": "Rotten Oranges",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/Rotten Oranges.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rotten Oranges\"}",
@@ -370,12 +376,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Medium/Number Of Provinces.md",
+                "file": "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using BFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Number Of Provinces"
+              "title": "Cycle Detection In Undirected Graph Using BFS"
             }
           }
         ]
@@ -526,12 +532,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Medium/Number Of Provinces.md",
+                "file": "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using BFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Number Of Provinces"
+              "title": "Outgoing links from Cycle Detection In Undirected Graph Using BFS"
             }
           },
           {
@@ -603,7 +609,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Medium/Number Of Provinces.md",
+                "file": "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using BFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -613,7 +619,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Number Of Provinces"
+              "title": "Backlinks for Cycle Detection In Undirected Graph Using BFS"
             }
           }
         ]
@@ -663,6 +669,7 @@
   },
   "active": "797594366acdc424",
   "lastOpenFiles": [
+    "Main Notes/DSA/Graphs/Medium/Number Of Provinces.md",
     "Main Notes/DSA/Graphs/Medium/Rotten Oranges.md",
     "Tags/revise.md",
     "Main Notes/DSA/Graphs/Medium/01 Matrix.md",
@@ -689,7 +696,6 @@
     "Main Notes/DSA/questions.md",
     "Main Notes/DSA/Graphs/Hard/Number Of Enclaves.md",
     "Images/Pasted image 20250419193152.png",
-    "Main Notes/DSA/Graphs/Hard/Surrounded Regions.md",
     "Images/Pasted image 20250419183747.png",
     "Main Notes/System Design/Key Concepts",
     "Main Notes/System Design",

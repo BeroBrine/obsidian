@@ -109,7 +109,6 @@ class Solution {
             Info front = q.front(); q.pop();
             int node = front.node;
             int parent = front.parent;
-    
             for (int neighbor : adj[node]) {
                 if (neighbor != parent) {
                     if (!vis[neighbor]) {

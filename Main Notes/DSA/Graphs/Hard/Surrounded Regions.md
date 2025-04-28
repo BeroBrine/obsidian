@@ -15,6 +15,7 @@
 	* Surround: The region is surrounded with 'X' cells if you can connect the region with 'X' cells and none of the region cells are on the edge of the board.
 	To capture a surrounded region, replace all 'O's with 'X's in-place within the original board. You do not need to return anything.
 	![[Pasted image 20250419183747.png]]
+	
 
 #### Solution
 - The intituion is that any 'O' that is at the boundary can never be surrounded. Any O connected with the boundary O can also be never surrounded.

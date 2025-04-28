@@ -14,7 +14,6 @@
 - This problem is same as that of the one in [[Number Of Provinces]] but for matrix.
 	- Perform BFS or DFS for each of the 1 found. All connected ones will be marked as visited. The number of times the bfs or dfs is done from the parent function is the number of island.
 	- Keep in mind the directions
-
 ```cpp
 vector<pair<int, int>> directions = {
 	{-1, 0}, // up

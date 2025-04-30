@@ -19,7 +19,7 @@
 
 ### Algo
 - For every node we calculate it's diameter.
-	- Diameter is calculated by height(node->left) + height(node->right) + 1. 1 is for the node itself. 
+	- Diameter is calculated by height(node->left) + height(node->right). We are not adding 1 for the current node as the diameter is counted in edges , not in nodes. 
 		- Height is calculated by [[Height Of Binary Tree]]
 	- This diameter gets compared to a value i.e max which is passed from the parent function. i.e it's atomic
 	- after the recurstion completes . the max value contains the value of diameter of the tree.

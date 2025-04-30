@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Cycle Detection In Undirected Graph Using DFS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using DFS\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cycle Detection In Undirected Graph Using BFS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using BFS\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Bipartite Graph",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/Bipartite Graph.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bipartite Graph\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":94,\"ch\":2},\"to\":{\"line\":94,\"ch\":2}},\"scroll\":67.14583333333333}"
+                },
+                {
                   "title": "Bipartite Graph Theory",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Theory/Bipartite Graph Theory.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bipartite Graph Theory\"}",
@@ -110,13 +128,13 @@
                 {
                   "title": "Cycle Detection In Undirected Graph Using DFS",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using DFS\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using DFS\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Cycle Detection In Undirected Graph Using BFS",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using BFS\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using BFS\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":64,\"ch\":0},\"to\":{\"line\":64,\"ch\":0}},\"scroll\":106.77730181157595}"
                 },
                 {
@@ -356,13 +374,13 @@
                 {
                   "title": "Cycle Detection In Undirected Graph Using DFS",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using DFS\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using DFS\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":25},\"to\":{\"line\":22,\"ch\":25}},\"scroll\":6.882629107981221}"
                 },
                 {
                   "title": "Cycle Detection In Undirected Graph Using BFS",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using BFS\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using BFS\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":125},\"to\":{\"line\":45,\"ch\":125}},\"scroll\":39.05833333333333}"
                 },
                 {
@@ -374,7 +392,7 @@
                 {
                   "title": "Cycle Detection In Undirected Graph Using BFS",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using BFS\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using BFS\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0.49101796407185627}"
                 },
                 {
@@ -478,12 +496,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Medium/Bipartite Graph.md",
+                "file": "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using BFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bipartite Graph"
+              "title": "Cycle Detection In Directed Graph Using BFS"
             }
           }
         ]
@@ -634,12 +652,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Medium/Bipartite Graph.md",
+                "file": "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using BFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bipartite Graph"
+              "title": "Outgoing links from Cycle Detection In Directed Graph Using BFS"
             }
           },
           {
@@ -711,7 +729,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Medium/Bipartite Graph.md",
+                "file": "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using BFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -721,7 +739,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bipartite Graph"
+              "title": "Backlinks for Cycle Detection In Directed Graph Using BFS"
             }
           }
         ]
@@ -771,9 +789,13 @@
   },
   "active": "797594366acdc424",
   "lastOpenFiles": [
+    "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using DFS.md",
+    "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using BFS.md",
+    "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using BFS.md",
+    "Main Notes/DSA/Graphs/Cycle Detection",
+    "Main Notes/DSA/Graphs/Medium/Bipartite Graph.md",
     "Main Notes/DSA/Graphs/Theory/Bipartite Graph Theory.md",
     "Main Notes/DSA/Graphs/Theory/Connected Components.md",
-    "Main Notes/DSA/Graphs/Medium/Bipartite Graph.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
     "Main Notes/DSA/Graphs/Medium/01 Matrix.md",
     "Main Notes/DSA/Graphs/Hard/Number Of Distinct Islands.md",
@@ -783,8 +805,6 @@
     "Main Notes/DSA/Graphs/Hard/Word Ladder - 2.md",
     "Pasted image 20250425020851.png",
     "Main Notes/DSA/Graphs/Hard/Word Ladder - 1.md",
-    "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using DFS.md",
-    "Main Notes/DSA/Graphs/Hard/Cycle Detection In Undirected Graph Using BFS.md",
     "Main Notes/DSA/Graphs/Medium/Rotten Oranges.md",
     "Tags/revise.md",
     "Main Notes/DSA/Graphs/Traversals/DFS.md",
@@ -797,7 +817,6 @@
     "Main Notes/DSA/Binary Trees/Hard Question/Maximum Width Of Binary Tree.md",
     "Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md",
     "Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md",
-    "Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md",
     "Images/Pasted image 20250419193152.png",
     "Images/Pasted image 20250419183747.png",
     "Main Notes/System Design/Key Concepts",
@@ -815,7 +834,6 @@
     "Main Notes/DSA/Graphs/Theory",
     "Main Notes/DSA/Graphs",
     "imgae",
-    "Images/Pasted image 20250417002819.png",
-    "Main Notes/DSA/Linked List/Traversal"
+    "Images/Pasted image 20250417002819.png"
   ]
 }

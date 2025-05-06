@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "797594366acdc424",
+            "id": "4b14943822848562",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,490 +18,58 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Cycle Detection In Undirected Graph Using DFS",
+                  "title": "Course Schedule - 1 , 2",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using DFS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Course Schedule - 1 , 2.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Course Schedule - 1 , 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":120,\"ch\":1},\"to\":{\"line\":120,\"ch\":1}},\"scroll\":89.05833333333334}"
                 },
                 {
-                  "title": "Cycle Detection In Undirected Graph Using BFS",
+                  "title": "Cycle Detection In Directed Graph Using BFS",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using BFS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Directed Graph Using BFS\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":96},\"to\":{\"line\":58,\"ch\":96}},\"scroll\":45.983333333333334}"
                 },
                 {
-                  "title": "Bipartite Graph",
+                  "title": "Cycle Detection In Directed Graph Using DFS",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/Bipartite Graph.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bipartite Graph\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":94,\"ch\":2},\"to\":{\"line\":94,\"ch\":2}},\"scroll\":67.14583333333333}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Directed Graph Using DFS\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Bipartite Graph Theory",
+                  "title": "Cycle Detection In Directed Graph Using BFS",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Theory/Bipartite Graph Theory.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bipartite Graph Theory\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Directed Graph Using BFS\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":0.6706586826347305}"
                 },
                 {
-                  "title": "Connected Components",
+                  "title": "Cycle Detection In Directed Graph Using DFS",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Theory/Connected Components.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Connected Components\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Directed Graph Using DFS\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":0},\"to\":{\"line\":84,\"ch\":0}},\"scroll\":54.676785714285714}"
+                },
+                {
+                  "title": "Cycle Detection In Directed Graph Using BFS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Directed Graph Using BFS\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":1.1666666666666667}"
+                },
+                {
+                  "title": "Cycle Detection In Directed Graph Using DFS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Directed Graph Using DFS\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Bipartite Graph",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/Bipartite Graph.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bipartite Graph\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Diameter Of Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Diameter Of Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":31},\"to\":{\"line\":22,\"ch\":31}},\"scroll\":15.991989372836326}"
-                },
-                {
-                  "title": "Bipartite Graph",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/Bipartite Graph.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bipartite Graph\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":84},\"to\":{\"line\":21,\"ch\":84}}}"
-                },
-                {
-                  "title": "01 Matrix",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/01 Matrix.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 Matrix\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Number Of Distinct Islands",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Number Of Distinct Islands.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Number Of Distinct Islands\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":106,\"ch\":0},\"to\":{\"line\":106,\"ch\":0}},\"scroll\":77.41607142857143}"
-                },
-                {
-                  "title": "Number Of Provinces",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/Number Of Provinces.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Number Of Provinces\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":49},\"to\":{\"line\":12,\"ch\":49}},\"scroll\":10.568204402426137}"
-                },
-                {
-                  "title": "Number Of Enclaves",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Number Of Enclaves.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Number Of Enclaves\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":15.43064584665291}"
-                },
-                {
-                  "title": "Surrounded Regions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Surrounded Regions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Surrounded Regions\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7312840981610192}"
-                },
-                {
-                  "title": "Number Of Enclaves",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Number Of Enclaves.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Number Of Enclaves\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":45},\"to\":{\"line\":12,\"ch\":45}},\"scroll\":4.895936519435276}"
-                },
-                {
-                  "title": "Number Of Distinct Islands",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Number Of Distinct Islands.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Number Of Distinct Islands\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":58},\"to\":{\"line\":13,\"ch\":58}},\"scroll\":4.174027218747074}"
-                },
-                {
-                  "title": "01 Matrix",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/01 Matrix.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 Matrix\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":18},\"to\":{\"line\":66,\"ch\":18}},\"scroll\":36.155743558450645}"
-                },
-                {
-                  "title": "Word Ladder - 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Word Ladder - 2.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Word Ladder - 2\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "Word Ladder - 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Word Ladder - 1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Word Ladder - 1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":12},\"to\":{\"line\":61,\"ch\":12}},\"scroll\":40.825}"
-                },
-                {
-                  "title": "Cycle Detection In Undirected Graph Using DFS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using DFS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Cycle Detection In Undirected Graph Using BFS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using BFS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":64,\"ch\":0},\"to\":{\"line\":64,\"ch\":0}},\"scroll\":106.77730181157595}"
-                },
-                {
-                  "title": "Number Of Provinces",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/Number Of Provinces.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Number Of Provinces\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0.7312840981610192}"
-                },
-                {
-                  "title": "Rotten Oranges",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/Rotten Oranges.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rotten Oranges\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":162,\"ch\":0},\"to\":{\"line\":162,\"ch\":0}},\"scroll\":134.13838262523035}"
-                },
-                {
-                  "title": "01 Matrix",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/01 Matrix.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 Matrix\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":72,\"ch\":15},\"to\":{\"line\":72,\"ch\":15}},\"scroll\":43.142357326956954}"
-                },
-                {
-                  "title": "DFS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Traversals/DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"DFS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":22},\"to\":{\"line\":45,\"ch\":22}},\"scroll\":18.512211915878904}"
-                },
-                {
-                  "title": "BFS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Traversals/BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"BFS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":22},\"to\":{\"line\":61,\"ch\":22}},\"scroll\":36.935612811511206}"
-                },
-                {
-                  "title": "Serialize And Deseriliaze A Binary Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Serialize And Deseriliaze A Binary Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Serialize And Deseriliaze A Binary Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":74,\"ch\":0},\"to\":{\"line\":74,\"ch\":0}},\"scroll\":48.94092281950894}"
-                },
-                {
-                  "title": "Total Number Of Nodes In Complete Binary Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Total Number Of Nodes In Complete Binary Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Total Number Of Nodes In Complete Binary Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":0},\"to\":{\"line\":49,\"ch\":0}},\"scroll\":21.332587309740244}"
-                },
-                {
-                  "title": "Minimum Time To Burn A Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Minimum Time To Burn A Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Minimum Time To Burn A Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":86.65004152017244}"
-                },
-                {
-                  "title": "Node At A Distance K",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Node At A Distance K.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Node At A Distance K\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":0},\"to\":{\"line\":56,\"ch\":0}},\"scroll\":55.886527225453264}"
-                },
-                {
-                  "title": "Root To Node Path In Binary Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Root To Node Path In Binary Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Root To Node Path In Binary Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":0},\"to\":{\"line\":45,\"ch\":0}},\"scroll\":24.70259653140327}"
-                },
-                {
-                  "title": "Maximum Width Of Binary Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Maximum Width Of Binary Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Maximum Width Of Binary Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":0},\"to\":{\"line\":47,\"ch\":0}},\"scroll\":46.88603924442951}"
-                },
-                {
-                  "title": "maximum path sum",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"maximum path sum\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":0},\"to\":{\"line\":62,\"ch\":0}},\"scroll\":62.39087500495468}"
-                },
-                {
-                  "title": "Lowest Common Ancestor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Lowest Common Ancestor\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":1},\"to\":{\"line\":24,\"ch\":1}},\"scroll\":18.249480241048936}"
-                },
-                {
-                  "title": "Flattern Binary Tree To Linked List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Flattern Binary Tree To Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Flattern Binary Tree To Linked List\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":103,\"ch\":55},\"to\":{\"line\":103,\"ch\":55}},\"scroll\":78.32911431407854}"
-                },
-                {
-                  "title": "Check For Children Sum Property",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Hard Question/Check For Children Sum Property.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Check For Children Sum Property\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":18},\"to\":{\"line\":53,\"ch\":18}},\"scroll\":52.89347406953137}"
-                },
-                {
-                  "title": "Diameter Of Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Diameter Of Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":55,\"ch\":0},\"to\":{\"line\":55,\"ch\":0}},\"scroll\":36.42941508915809}"
-                },
-                {
-                  "title": "Check If Same Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Check If Same Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":67},\"to\":{\"line\":51,\"ch\":67}},\"scroll\":27.457687517393563}"
-                },
-                {
-                  "title": "Check Height Balanced",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Check Height Balanced.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Check Height Balanced\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0.7312840981610192}"
-                },
-                {
-                  "title": "Height Of Binary Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Height Of Binary Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Height Of Binary Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":93},\"to\":{\"line\":15,\"ch\":93}},\"scroll\":15.480225829387415}"
-                },
-                {
-                  "title": "All Traversal Combined",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/All Traversal Combined.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"All Traversal Combined\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Level Order Traversal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Level Order Traversal\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Postorder",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Postorder.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Postorder\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":121,\"ch\":3},\"to\":{\"line\":121,\"ch\":3}},\"scroll\":111.17607256448598}"
-                },
-                {
-                  "title": "Inorder",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Inorder.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Inorder\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":71,\"ch\":0},\"to\":{\"line\":71,\"ch\":0}},\"scroll\":65.48147318091902}"
-                },
-                {
-                  "title": "questions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/questions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"questions\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":5},\"to\":{\"line\":0,\"ch\":5}}}"
-                },
-                {
-                  "title": "Inorder",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Inorder.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Inorder\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
-                },
-                {
-                  "title": "Number Of Enclaves",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Number Of Enclaves.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Number Of Enclaves\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":87,\"ch\":0},\"to\":{\"line\":87,\"ch\":0}},\"scroll\":62.269642857142856}"
-                },
-                {
-                  "title": "Surrounded Regions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Surrounded Regions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Surrounded Regions\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
-                },
-                {
-                  "title": "Number Of Enclaves",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Number Of Enclaves.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Number Of Enclaves\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Surrounded Regions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Surrounded Regions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Surrounded Regions\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}},\"scroll\":19.710776748971192}"
-                },
-                {
-                  "title": "01 Matrix",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/01 Matrix.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 Matrix\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7317073170731707}"
-                },
-                {
-                  "title": "CAP Theorem",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/System Design/Key Concepts/CAP Theorem.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"CAP Theorem\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":2},\"to\":{\"line\":5,\"ch\":2}},\"scroll\":0}"
-                },
-                {
-                  "title": "Availability",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/System Design/Key Concepts/Availability.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Availability\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":0},\"to\":{\"line\":45,\"ch\":0}},\"scroll\":32.78293010752688}"
-                },
-                {
-                  "title": "Scalability",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/System Design/Key Concepts/Scalability.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scalability\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":55,\"ch\":0},\"to\":{\"line\":55,\"ch\":0}},\"scroll\":36.9979674796748}"
-                },
-                {
-                  "title": "sys design",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/sys design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"sys design\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
-                },
-                {
-                  "title": "Scalability",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/System Design/Key Concepts/Scalability.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scalability\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
-                },
-                {
-                  "title": "sys design",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/sys design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"sys design\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":21},\"to\":{\"line\":19,\"ch\":21}}}"
-                },
-                {
-                  "title": "system design",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/system design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"system design\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "sys design",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/sys design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"system design\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":9},\"to\":{\"line\":4,\"ch\":9}}}"
-                },
-                {
-                  "title": "Scalability",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/System Design/Key Concepts/Scalability.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scalability\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Cycle Detection In Undirected Graph Using DFS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using DFS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":25},\"to\":{\"line\":22,\"ch\":25}},\"scroll\":6.882629107981221}"
-                },
-                {
-                  "title": "Cycle Detection In Undirected Graph Using BFS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using BFS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":125},\"to\":{\"line\":45,\"ch\":125}},\"scroll\":39.05833333333333}"
-                },
-                {
-                  "title": "Flood Fill",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Flood Fill.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Flood Fill\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":2},\"to\":{\"line\":43,\"ch\":2}},\"scroll\":36.173219086021504}"
-                },
-                {
-                  "title": "Cycle Detection In Undirected Graph Using BFS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cycle Detection In Undirected Graph Using BFS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0.49101796407185627}"
-                },
-                {
-                  "title": "Flood Fill",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Flood Fill.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Flood Fill\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":113,\"ch\":0},\"to\":{\"line\":113,\"ch\":0}},\"scroll\":84.27738095238095}"
-                },
-                {
-                  "title": "Rotten Oranges",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/Rotten Oranges.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rotten Oranges\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":31},\"to\":{\"line\":2,\"ch\":31}},\"scroll\":0}"
-                },
-                {
-                  "title": "Flood Fill",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Hard/Flood Fill.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Flood Fill\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7317073170731707}"
-                },
-                {
-                  "title": "Rotten Oranges",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/Rotten Oranges.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rotten Oranges\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":186,\"ch\":111},\"to\":{\"line\":186,\"ch\":111}},\"scroll\":161.92380952380952}"
-                },
-                {
-                  "title": "Number Of Provinces",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Medium/Number Of Provinces.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Number Of Provinces\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
-                },
-                {
-                  "title": "DFS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Traversals/DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"DFS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":0},\"to\":{\"line\":44,\"ch\":0}},\"scroll\":16.356547619047618}"
-                },
-                {
-                  "title": "BFS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Traversals/BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"BFS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":21},\"to\":{\"line\":7,\"ch\":21}},\"scroll\":0}"
-                },
-                {
-                  "title": "DFS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Traversals/DFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"DFS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":19},\"to\":{\"line\":7,\"ch\":19}},\"scroll\":0.21951219512195122}"
-                },
-                {
-                  "title": "BFS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Traversals/BFS.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"BFS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":0},\"to\":{\"line\":49,\"ch\":0}},\"scroll\":19.498912255257434}"
-                },
-                {
-                  "title": "Connected Components",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Theory/Connected Components.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Connected Components\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":0.7560975609756098}"
-                },
-                {
-                  "title": "Graph Representation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Theory/Graph Representation.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Graph Representation\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":68,\"ch\":6},\"to\":{\"line\":68,\"ch\":6}},\"scroll\":67.26979166666666}"
-                },
-                {
-                  "title": "Graph And Types",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Theory/Graph And Types.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Graph And Types\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":0},\"to\":{\"line\":38,\"ch\":0}},\"scroll\":22.235045379537954}"
-                },
-                {
-                  "title": "graph",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/graph.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"graph\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph And Types",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Theory/Graph And Types.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Graph And Types\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Largest BST In Binary Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Hard/Largest BST In Binary Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Largest BST In Binary Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":81},\"to\":{\"line\":27,\"ch\":81}},\"scroll\":24.68449237089202}"
-                },
-                {
-                  "title": "Recover BST. Correct BST with two nodes swapped",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Hard/Recover BST. Correct BST with two nodes swapped.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Recover BST. Correct BST with two nodes swapped\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":94,\"ch\":0},\"to\":{\"line\":94,\"ch\":0}},\"scroll\":89.07559523809523}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using BFS.md",
+                "file": "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cycle Detection In Directed Graph Using BFS"
+              "title": "Find Eventual Safe States"
             }
           }
         ]
@@ -652,12 +220,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using BFS.md",
+                "file": "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cycle Detection In Directed Graph Using BFS"
+              "title": "Outgoing links from Find Eventual Safe States"
             }
           },
           {
@@ -729,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using BFS.md",
+                "file": "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -739,7 +307,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cycle Detection In Directed Graph Using BFS"
+              "title": "Backlinks for Find Eventual Safe States"
             }
           }
         ]
@@ -787,53 +355,53 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "797594366acdc424",
+  "active": "4b14943822848562",
   "lastOpenFiles": [
-    "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using DFS.md",
+    "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Course Schedule - 1 , 2.md",
+    "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md",
     "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using BFS.md",
+    "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems",
+    "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using DFS.md",
+    "Excalidraw/Cycle Detection In Directed Graph Using BFS 2025-05-01 13.46.54.excalidraw.md",
+    "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using DFS.md",
+    "Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort/Kahn's Algorithm.md",
+    "Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort/Topo Sort.md",
+    "Tags/topo sort.md",
+    "Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort",
+    "Main Notes/DSA/Graphs/Topo Sort and Problems",
     "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using BFS.md",
     "Main Notes/DSA/Graphs/Cycle Detection",
-    "Main Notes/DSA/Graphs/Medium/Bipartite Graph.md",
+    "Main Notes/DSA/Graphs/Problems On Traversals/Medium/Bipartite Graph.md",
     "Main Notes/DSA/Graphs/Theory/Bipartite Graph Theory.md",
     "Main Notes/DSA/Graphs/Theory/Connected Components.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Diameter Of Tree.md",
-    "Main Notes/DSA/Graphs/Medium/01 Matrix.md",
-    "Main Notes/DSA/Graphs/Hard/Number Of Distinct Islands.md",
-    "Main Notes/DSA/Graphs/Medium/Number Of Provinces.md",
-    "Main Notes/DSA/Graphs/Hard/Number Of Enclaves.md",
-    "Main Notes/DSA/Graphs/Hard/Surrounded Regions.md",
-    "Main Notes/DSA/Graphs/Hard/Word Ladder - 2.md",
-    "Pasted image 20250425020851.png",
-    "Main Notes/DSA/Graphs/Hard/Word Ladder - 1.md",
-    "Main Notes/DSA/Graphs/Medium/Rotten Oranges.md",
+    "Main Notes/DSA/Graphs/Problems On Traversals/Medium/01 Matrix.md",
+    "Main Notes/DSA/Graphs/Problems On Traversals/Hard/Number Of Distinct Islands.md",
+    "Main Notes/DSA/Graphs/Problems On Traversals/Medium/Number Of Provinces.md",
+    "Main Notes/DSA/Graphs/Problems On Traversals/Hard/Number Of Enclaves.md",
+    "Main Notes/DSA/Graphs/Problems On Traversals/Hard/Surrounded Regions.md",
+    "Main Notes/DSA/Graphs/Problems On Traversals/Hard/Word Ladder - 2.md",
+    "Images/Pasted image 20250425020851.png",
+    "Main Notes/DSA/Graphs/Problems On Traversals/Hard/Word Ladder - 1.md",
+    "Main Notes/DSA/Graphs/Problems On Traversals/Medium/Rotten Oranges.md",
     "Tags/revise.md",
     "Main Notes/DSA/Graphs/Traversals/DFS.md",
     "Main Notes/DSA/Graphs/Traversals/BFS.md",
     "Main Notes/DSA/Binary Trees/Hard Question/Serialize And Deseriliaze A Binary Tree.md",
-    "Main Notes/DSA/Binary Trees/Hard Question/Total Number Of Nodes In Complete Binary Tree.md",
-    "Main Notes/DSA/Binary Trees/Hard Question/Minimum Time To Burn A Tree.md",
-    "Main Notes/DSA/Binary Trees/Hard Question/Node At A Distance K.md",
-    "Main Notes/DSA/Binary Trees/Hard Question/Root To Node Path In Binary Tree.md",
-    "Main Notes/DSA/Binary Trees/Hard Question/Maximum Width Of Binary Tree.md",
-    "Main Notes/DSA/Binary Trees/Hard Question/maximum path sum.md",
-    "Main Notes/DSA/Binary Trees/Hard Question/Lowest Common Ancestor.md",
     "Images/Pasted image 20250419193152.png",
     "Images/Pasted image 20250419183747.png",
     "Main Notes/System Design/Key Concepts",
     "Main Notes/System Design",
     "Images/Pasted image 20250417174224.png",
     "Images/Pasted image 20250417173205.png",
-    "Main Notes/DSA/Graphs/Hard",
-    "Main Notes/DSA/Graphs/Medium",
+    "Main Notes/DSA/Graphs/Problems On Traversals/Hard",
+    "Main Notes/DSA/Graphs/Problems On Traversals/Medium",
     "Main Notes/DSA/Graphs/Traversals",
     "Images/Pasted image 20250417221410.png",
     "Images/Pasted image 20250417165441.png",
     "Images/Pasted image 20250417165152.png",
     "Images/Pasted image 20250417163153.png",
     "Main Notes/DSA/Graphs/Problems On Traversals",
-    "Main Notes/DSA/Graphs/Theory",
-    "Main Notes/DSA/Graphs",
-    "imgae",
     "Images/Pasted image 20250417002819.png"
   ]
 }

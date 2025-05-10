@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Topo Sort",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort/Topo Sort.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Topo Sort\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":1},\"to\":{\"line\":19,\"ch\":1}},\"scroll\":10.78763440860215}"
+                },
+                {
+                  "title": "Find Eventual Safe States",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Find Eventual Safe States\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":50},\"to\":{\"line\":12,\"ch\":50}},\"scroll\":3.3}"
+                },
+                {
                   "title": "Course Schedule - 1 , 2",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Course Schedule - 1 , 2.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Course Schedule - 1 , 2\"}",
@@ -64,12 +76,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md",
+                "file": "Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort/Kahn's Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Find Eventual Safe States"
+              "title": "Kahn's Algorithm"
             }
           }
         ]
@@ -220,12 +232,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md",
+                "file": "Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort/Kahn's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Find Eventual Safe States"
+              "title": "Outgoing links from Kahn's Algorithm"
             }
           },
           {
@@ -297,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md",
+                "file": "Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort/Kahn's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +319,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Find Eventual Safe States"
+              "title": "Backlinks for Kahn's Algorithm"
             }
           }
         ]
@@ -357,15 +369,15 @@
   },
   "active": "4b14943822848562",
   "lastOpenFiles": [
-    "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Course Schedule - 1 , 2.md",
+    "Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort/Topo Sort.md",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md",
+    "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Course Schedule - 1 , 2.md",
     "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using BFS.md",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems",
     "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using DFS.md",
     "Excalidraw/Cycle Detection In Directed Graph Using BFS 2025-05-01 13.46.54.excalidraw.md",
     "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using DFS.md",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort/Kahn's Algorithm.md",
-    "Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort/Topo Sort.md",
     "Tags/topo sort.md",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort",
     "Main Notes/DSA/Graphs/Topo Sort and Problems",

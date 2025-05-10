@@ -18,13 +18,19 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Shortest Path in DAG",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Shortest Path in DAG.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shortest Path in DAG\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":0},\"to\":{\"line\":53,\"ch\":0}},\"scroll\":36.67321428571429}"
+                },
+                {
                   "title": "Djisktra's Algorithm",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Djisktra's Algorithm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Djisktra's Algorithm\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Dijkstra's Algorithm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Djisktra's Algorithm\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":133},\"to\":{\"line\":21,\"ch\":133}},\"scroll\":0.35772357723577236}"
                 },
                 {
-                  "title": "Shortest Path in DAG.",
+                  "title": "Shortest Path in DAG",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Shortest Path in DAG.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shortest Path in DAG.\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":100},\"to\":{\"line\":61,\"ch\":100}},\"scroll\":36.025595238095235}"
@@ -136,12 +142,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Shortest Path in DAG.md",
+                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Dijkstra's Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shortest Path in DAG"
+              "title": "Dijkstra's Algorithm"
             }
           }
         ]
@@ -292,12 +298,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Shortest Path in DAG.md",
+                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Dijkstra's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Shortest Path in DAG"
+              "title": "Outgoing links from Dijkstra's Algorithm"
             }
           },
           {
@@ -369,7 +375,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Shortest Path in DAG.md",
+                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Dijkstra's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -379,7 +385,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Shortest Path in DAG"
+              "title": "Backlinks for Dijkstra's Algorithm"
             }
           }
         ]
@@ -429,8 +435,8 @@
   },
   "active": "4b14943822848562",
   "lastOpenFiles": [
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Djisktra's Algorithm.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Shortest Path in DAG.md",
+    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Dijkstra's Algorithm.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Shortest Path in UG With Unit Weights.md",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Alien Dictionary.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium",

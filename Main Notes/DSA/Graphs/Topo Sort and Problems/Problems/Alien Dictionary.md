@@ -20,8 +20,8 @@
 - In this question
 	- The intuition occurs after that we know the alphabet will occurr in the order of the words given. 
 		- badf , abd -> this shows that b must occurr before a.
-		- So what we can do is construct a graph that represents the edges 
-
+		- So what we can do is construct a directed graph that represents the edges as between the alphabets. 
+	- For this question , it contains all the english alphabet words so we  
 
 
 #### Edge Cases

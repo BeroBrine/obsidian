@@ -18,7 +18,7 @@
 	 - If we trace out this dependencies , we can see that 3 and 4 has cyclic dependency.
 - So , we can apply Kahn's Algo to check whether the graph contains cyclic dependency. 
 - We can convert the pre-requisite 2D array to adj list just like changing the GFG's edge array to adj list.
-- Now , apply [[Cycle Detection In Directed Graph Using BFS]]
+- Now , apply [[Cycle Detection In Directed Graph Using BFS | Kahn's Algo]]
 ```cpp
 class Solution {
 public:

@@ -39,7 +39,6 @@
             }
         }
         return dist;
-        
     }
     
     void convert(vector<vector<int>> &edges , vector<vector<Info>> &adj) {
@@ -51,9 +50,6 @@
         }
     }
 ```
-
-
-
 
 
 ## References

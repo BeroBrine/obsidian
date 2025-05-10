@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Find Eventual Safe States",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Find Eventual Safe States\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":88,\"ch\":0},\"to\":{\"line\":88,\"ch\":0}},\"scroll\":66.30714285714286}"
+                },
+                {
                   "title": "Alien Dictionary",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Alien Dictionary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Alien Dictionary\"}",
@@ -106,12 +112,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md",
+                "file": "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Alien Dictionary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Find Eventual Safe States"
+              "title": "Alien Dictionary"
             }
           }
         ]
@@ -262,12 +268,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md",
+                "file": "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Alien Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Find Eventual Safe States"
+              "title": "Outgoing links from Alien Dictionary"
             }
           },
           {
@@ -339,7 +345,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md",
+                "file": "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Alien Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -349,7 +355,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Find Eventual Safe States"
+              "title": "Backlinks for Alien Dictionary"
             }
           }
         ]
@@ -399,10 +405,10 @@
   },
   "active": "4b14943822848562",
   "lastOpenFiles": [
+    "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Alien Dictionary.md",
     "Pasted image 20250510073720.png",
     "Tags/topo sort.md",
-    "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Cycle Detection In Directed Graph Using BFS.md",
     "Images/Pasted image 20250510073351.png",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Course Schedule - 1 , 2.md",

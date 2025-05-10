@@ -16,13 +16,18 @@
 	
 	![[Pasted image 20250510073720.png]]
 
+### Solution 
+- In this question
+	- The intuition occurs after that we know the alphabet will occurr in the order of the words given. 
+		- badf , abd -> this shows that b must occurr before a.
+		- So what we can do is construct a graph that represents the edges 
 
 
 
-
-
-
-
+#### Edge Cases
+- The edge cases in this question are 
+	- Prefix -> If w1 = abcd , w2 = abc --> This is invalid because in a dictionary , prefix cannot occur after the prefix + word. 
+	- Cyclic Dependency -> Any test case that has cyclic dependency (the case in which topo sort fails) -> if this is the case then the size of the ans string is always less than the alphabets present in the given words. 
 
 
 

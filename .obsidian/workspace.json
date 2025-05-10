@@ -251,7 +251,7 @@
       {
         "id": "cbed4ef832a7d7db",
         "type": "tabs",
-        "dimension": 24.18300653594771,
+        "dimension": 32.71939328277356,
         "children": [
           {
             "id": "1cf54206a9eaa9c7",
@@ -328,7 +328,7 @@
       {
         "id": "46377aa4a040ffd8",
         "type": "tabs",
-        "dimension": 36.9281045751634,
+        "dimension": 28.38569880823402,
         "children": [
           {
             "id": "8c7b51e71a6a2970",
@@ -363,7 +363,7 @@
       {
         "id": "1e0ffa0b4e892020",
         "type": "tabs",
-        "dimension": 38.88888888888889,
+        "dimension": 38.894907908992415,
         "children": [
           {
             "id": "b0ef9787c61e59b6",
@@ -407,7 +407,7 @@
   "lastOpenFiles": [
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Alien Dictionary.md",
-    "Pasted image 20250510073720.png",
+    "Images/Pasted image 20250510073720.png",
     "Tags/topo sort.md",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Cycle Detection In Directed Graph Using BFS.md",
     "Images/Pasted image 20250510073351.png",

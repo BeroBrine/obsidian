@@ -21,7 +21,15 @@
 	- The intuition occurs after that we know the alphabet will occurr in the order of the words given. 
 		- badf , abd -> this shows that b must occurr before a.
 		- So what we can do is construct a directed graph that represents the edges as between the alphabets. 
-	- For this question , it contains all the english alphabet words so we  
+	- For this question , it contains all the english alphabet words so we need to keep track of that. 
+	- First create a present vector that has those alphabet present as true , which are present in the words 
+	- 
+
+
+
+
+
+
 
 
 #### Edge Cases

@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Alien Dictionary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Alien Dictionary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Alien Dictionary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":5},\"to\":{\"line\":62,\"ch\":5}},\"scroll\":55.682291666666664}"
+                },
+                {
                   "title": "Find Eventual Safe States",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Find Eventual Safe States\"}",
@@ -112,12 +118,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Alien Dictionary.md",
+                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Shortest Path in UG With Unit Weights.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alien Dictionary"
+              "title": "Shortest Path in UG With Unit Weights"
             }
           }
         ]
@@ -268,12 +274,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Alien Dictionary.md",
+                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Shortest Path in UG With Unit Weights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Alien Dictionary"
+              "title": "Outgoing links from Shortest Path in UG With Unit Weights"
             }
           },
           {
@@ -345,7 +351,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Alien Dictionary.md",
+                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Shortest Path in UG With Unit Weights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +361,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Alien Dictionary"
+              "title": "Backlinks for Shortest Path in UG With Unit Weights"
             }
           }
         ]
@@ -405,8 +411,14 @@
   },
   "active": "4b14943822848562",
   "lastOpenFiles": [
-    "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Alien Dictionary.md",
+    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Shortest Path in UG With Unit Weights.md",
+    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium",
+    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard",
+    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms",
+    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Untitled.md",
+    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems",
+    "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md",
     "Images/Pasted image 20250510073720.png",
     "Tags/topo sort.md",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Cycle Detection In Directed Graph Using BFS.md",
@@ -436,19 +448,14 @@
     "Images/Pasted image 20250425020851.png",
     "Main Notes/DSA/Graphs/Problems On Traversals/Hard/Word Ladder - 1.md",
     "Main Notes/DSA/Graphs/Problems On Traversals/Medium/Rotten Oranges.md",
-    "Tags/revise.md",
     "Images/Pasted image 20250419193152.png",
     "Images/Pasted image 20250419183747.png",
     "Main Notes/System Design/Key Concepts",
     "Main Notes/System Design",
     "Images/Pasted image 20250417174224.png",
     "Images/Pasted image 20250417173205.png",
-    "Main Notes/DSA/Graphs/Problems On Traversals/Hard",
-    "Main Notes/DSA/Graphs/Problems On Traversals/Medium",
-    "Main Notes/DSA/Graphs/Traversals",
     "Images/Pasted image 20250417221410.png",
     "Images/Pasted image 20250417165441.png",
-    "Images/Pasted image 20250417165152.png",
-    "Main Notes/DSA/Graphs/Problems On Traversals"
+    "Images/Pasted image 20250417165152.png"
   ]
 }

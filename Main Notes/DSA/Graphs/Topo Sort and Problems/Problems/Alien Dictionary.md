@@ -58,7 +58,7 @@ for (string& word : words) {
 #### Edge Cases
 - The edge cases in this question are 
 	- Prefix -> If w1 = abcd , w2 = abc --> This is invalid because in a dictionary , prefix cannot occur after the prefix + word. 
-	- Cyclic Dependency -> Any test case that has cyclic dependency (the case in which topo sort fails) -> if this is the case then the size of the ans string is always less than the alphabets present in the given words. 
+	- Cyclic Dependency -> Any test case that has cyclic dependency (the case in which topo  sort fails) -> if this is the case then the size of the ans string is always less than the alphabets present in the given words. 
 
 #### Full Code
 ```cpp

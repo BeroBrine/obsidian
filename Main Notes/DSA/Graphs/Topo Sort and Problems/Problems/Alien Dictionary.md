@@ -22,20 +22,120 @@
 		- badf , abd -> this shows that b must occurr before a.
 		- So what we can do is construct a directed graph that represents the edges as between the alphabets. 
 	- For this question , it contains all the english alphabet words so we need to keep track of that. 
-	- First create a present vector that has those alphabet present as true , which are present in the words 
-	- 
-
-
-
-
-
-
+	- First create a present vector that has those alphabet present as true , which are present in the words --> subtracting 'a' because we need to get the ASCII code.
+```cpp
+for (string& word : words) {
+	for (char c : word) {
+		present[c - 'a'] = true;
+	}
+}
+```
+-  Now we build the graph
+```cpp
+    for (int i = 0; i < n - 1; i++) {
+        string w1 = words[i];
+        string w2 = words[i + 1];
+        bool flag = false;
+        for (int j = 0; j < min(w1.size(), w2.size()); j++) {
+            if (w1[j] != w2[j]) {
+                graph[w1[j] - 'a'].push_back(w2[j] - 'a');
+                flag = true;
+                break;
+            }
+        }
+        
+        if(!flag and w2.size() < w1.size()) {
+            return "";
+        }
+    }
+```
+- The flag is used to check if the first word is the prefix of the second word.
+	- If this is the case and w2 is greater than w1 then in no way the dictionary can be possible.
+- Then we apply standard [[Kahn's Algorithm]].
+	- If there is a Cyclic Dependency then in no way can the ans string length be equal to the number of alphabets present.
 
 
 #### Edge Cases
 - The edge cases in this question are 
 	- Prefix -> If w1 = abcd , w2 = abc --> This is invalid because in a dictionary , prefix cannot occur after the prefix + word. 
 	- Cyclic Dependency -> Any test case that has cyclic dependency (the case in which topo sort fails) -> if this is the case then the size of the ans string is always less than the alphabets present in the given words. 
+
+#### Full Code
+```cpp
+class Solution {
+  public:
+    string findOrder(vector<string> &words) {
+    int n = words.size();
+    vector<vector<int>> graph(26);
+    vector<bool> present(26, false);
+    vector<int> indegree(26, 0);
+
+    // Mark all characters that appear
+    for (string& word : words) {
+        for (char c : word) {
+            present[c - 'a'] = true;
+        }
+    }
+
+    // Build graph from word order
+    for (int i = 0; i < n - 1; i++) {
+        string w1 = words[i];
+        string w2 = words[i + 1];
+        bool flag = false;
+        for (int j = 0; j < min(w1.size(), w2.size()); j++) {
+            if (w1[j] != w2[j]) {
+                graph[w1[j] - 'a'].push_back(w2[j] - 'a');
+                flag = true;
+                break;
+            }
+        }
+        
+        if(!flag and w2.size() < w1.size()) {
+            return "";
+        }
+    }
+
+    // Compute indegrees
+    buildIndegree(graph, indegree);
+
+    // Topological sort (Kahn's algo)
+    queue<int> q;
+    for (int i = 0; i < 26; i++) {
+        if (present[i] && indegree[i] == 0) {
+            q.push(i);
+        }
+    }
+
+    string ans = "";
+    while (!q.empty()) {
+        int node = q.front(); q.pop();
+        ans += (node + 'a');
+        for (int neighbor : graph[node]) {
+            indegree[neighbor]--;
+            if (indegree[neighbor] == 0) {
+                q.push(neighbor);
+            }
+        }
+    }
+
+    // Check for cycle (incomplete sort)
+    if (ans.size() < count(present.begin(), present.end(), true)) {
+        return "";
+    }
+
+    return ans;
+}
+
+void buildIndegree(vector<vector<int>> &adj, vector<int> &indegree) {
+    for (int i = 0; i < 26; i++) {
+        for (int neighbor : adj[i]) {
+            indegree[neighbor]++;
+        }
+    }
+}
+ 
+```
+
 
 
 

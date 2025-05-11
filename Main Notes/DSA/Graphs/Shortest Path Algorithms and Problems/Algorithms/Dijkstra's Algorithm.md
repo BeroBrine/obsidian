@@ -122,10 +122,13 @@ vector<int> dijkstra(int V, vector<vector<int>> &edges, int src) {
     }
 ```
 
+## Why PQ and Not Q
+
+- ![Why PQ And Not Q yt video link](https://youtu.be/3dINsjyfooY?si=c9h9ebF6Tw7i9SBu)
+
 
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/dijkstras-algorithm-using-set-g-33/)
-- [Implementation using Priority Queue yt video link](https://www.youtube.com/watch?v=V6H1qAeB-l4&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=32&ab_channel=takeUforward)
-- [Implementation using Sets yt video link](https://www.youtube.com/watch?v=V6H1qAeB-l4&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=32&ab_channel=takeUforward)
-- [Why PQ And Not Q yt video link](https://youtu.be/3dINsjyfooY?si=c9h9ebF6Tw7i9SBu)
+- ![Implementation using Priority Queue yt video link](https://www.youtube.com/watch?v=V6H1qAeB-l4&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=32&ab_channel=takeUforward)
+- ![Implementation using Sets yt video link](https://www.youtube.com/watch?v=V6H1qAeB-l4&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=32&ab_channel=takeUforward)
 - [leetcode question link](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)

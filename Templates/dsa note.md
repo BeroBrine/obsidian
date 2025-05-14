@@ -1,4 +1,3 @@
-
 *{{date}} {{time}}*
 
 *Status*:
@@ -20,5 +19,5 @@
 
 ## References
 - [striver sheet link]()
-- [yt video link]()
 - [leetcode question link]()
+- ![yt video link]()

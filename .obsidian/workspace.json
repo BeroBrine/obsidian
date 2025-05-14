@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Shortest Path in Binary Maze",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Shortest Path in Binary Maze.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shortest Path in Binary Maze\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":4},\"to\":{\"line\":20,\"ch\":4}},\"scroll\":3.9}"
+                },
+                {
                   "title": "dsa note",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/dsa note.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"dsa note\"}",
@@ -166,12 +172,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Shortest Path in Binary Maze.md",
+                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Dijkstra's Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shortest Path in Binary Maze"
+              "title": "Dijkstra's Algorithm"
             }
           }
         ]
@@ -322,12 +328,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Shortest Path in Binary Maze.md",
+                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Dijkstra's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Shortest Path in Binary Maze"
+              "title": "Outgoing links from Dijkstra's Algorithm"
             }
           },
           {
@@ -399,7 +405,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Shortest Path in Binary Maze.md",
+                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Dijkstra's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -409,7 +415,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Shortest Path in Binary Maze"
+              "title": "Backlinks for Dijkstra's Algorithm"
             }
           }
         ]
@@ -459,8 +465,8 @@
   },
   "active": "4b14943822848562",
   "lastOpenFiles": [
-    "Templates/dsa note.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Shortest Path in Binary Maze.md",
+    "Templates/dsa note.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Print Shortest Path.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Dijkstra's Algorithm.md",
     "Images/Pasted image 20250511140213.png",

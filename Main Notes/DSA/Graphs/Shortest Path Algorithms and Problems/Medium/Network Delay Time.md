@@ -12,13 +12,70 @@
 
 
 
+#### Solution
+- This was a simple implementation of [[Dijkstra's Algorithm]] just the edge weight is the time.
+	- The only cavaet is the min time is asked to reach all of the nodes.
+	- The minimum time is the maximum time in the time array after dijkstra has ended
+	- If dijkstra has ended and there is still a node who has 1e9 as it's time then it's unreachable.
 
 
+```cpp
+using namespace std;
+
+// @leet start
+class Solution {
+public:
+  int networkDelayTime(vector<vector<int>> &times, int n, int k) {
+
+    vector<vector<pair<int, int>>> adj(n + 1);
+    convert(times, adj);
+    vector<int> time(n + 1, 1e9);
+    priority_queue<pair<int, int>, vector<pair<int, int>>,
+                   greater<pair<int, int>>>
+        pq;
+    pq.push({0, k});
+    time[k] = 0;
+    while (!pq.empty()) {
+      auto front = pq.top();
+      pq.pop();
+      int tme = front.first;
+      int node = front.second;
+      for (auto it : adj[node]) {
+        int neighbor = it.first;
+        int edgeTime = it.second;
+        if (edgeTime + tme < time[neighbor]) {
+          time[neighbor] = edgeTime + tme;
+          pq.push({time[neighbor], neighbor});
+        }
+      }
+    }
+    int ans = INT_MIN;
+    for (int i = 1; i <= n; i++) {
+      int it = time[i];
+      if (it == 1e9)
+        return -1;
+
+      ans = max(it, ans);
+    }
+
+    return ans;
+  }
+  void convert(vector<vector<int>> &times,
+               vector<vector<pair<int, int>>> &adj) {
+    for (auto it : times) {
+      int u = it[0];
+      int v = it[1];
+      int time = it[2];
+      adj[u].push_back({v, time});
+    }
+  }
+};
+// @leet end
+
+```
 
 
-
-
-
+## Unavailable
 ## References
 - [striver sheet link]()
 - [leetcode question link]()

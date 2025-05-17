@@ -74,9 +74,8 @@ public:
 
 ```
 
-
-## Unavailable
 ## References
+- [leetcode question link](https://leetcode.com/problems/network-delay-time/)
+### Unavailable
 - [striver sheet link]()
-- [leetcode question link]()
 - ![yt video link]()

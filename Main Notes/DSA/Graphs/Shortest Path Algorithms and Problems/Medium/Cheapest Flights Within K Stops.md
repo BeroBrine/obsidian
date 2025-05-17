@@ -10,6 +10,10 @@
 	
 	You are also given three integers src, dst, and k, return the cheapest price from src to dst with at most k stops. If there is no such route, return -1.
 	
+#### Solution
+- This uses slight modified version of [[Dijkstra's Algorithm]]. 
+	- Instead of priotorising distance in this. 
+		- WEr
 
 
 

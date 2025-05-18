@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Minimum Steps to Reach end From start thorugh operations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Minimum Steps to Reach end From start thorugh operations.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Minimum Steps to Reach end From start thorugh operations\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":0},\"to\":{\"line\":50,\"ch\":0}},\"scroll\":43.44702380952381}"
+                },
+                {
                   "title": "Number Of Ways To Arrive At a Destination",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Number Of Ways To Arrive At a Destination.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Number Of Ways To Arrive At a Destination\"}",
@@ -232,12 +238,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Minimum Steps to Reach end From start thorugh operations.md",
+                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Bellman Ford Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minimum Steps to Reach end From start thorugh operations"
+              "title": "Bellman Ford Algorithm"
             }
           }
         ]
@@ -388,12 +394,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Minimum Steps to Reach end From start thorugh operations.md",
+                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Bellman Ford Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Minimum Steps to Reach end From start thorugh operations"
+              "title": "Outgoing links from Bellman Ford Algorithm"
             }
           },
           {
@@ -465,7 +471,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Minimum Steps to Reach end From start thorugh operations.md",
+                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Bellman Ford Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -475,7 +481,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Minimum Steps to Reach end From start thorugh operations"
+              "title": "Backlinks for Bellman Ford Algorithm"
             }
           }
         ]
@@ -525,15 +531,17 @@
   },
   "active": "4b14943822848562",
   "lastOpenFiles": [
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Number Of Ways To Arrive At a Destination.md",
+    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Dijkstra's Algorithm.md",
+    "Tags/graph.md",
+    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Bellman Ford Algorithm.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Minimum Steps to Reach end From start thorugh operations.md",
+    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Number Of Ways To Arrive At a Destination.md",
     "Pasted image 20250517232012.png",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Network Delay Time.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Cheapest Flights Within K Stops.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Minimum Effort Path.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Shortest Path in Binary Maze.md",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Dijkstra's Algorithm.md",
     "Templates/dsa note.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Print Shortest Path.md",
     "Images/Pasted image 20250511140213.png",
@@ -560,9 +568,7 @@
     "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using DFS.md",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort",
     "Main Notes/DSA/Graphs/Topo Sort and Problems",
-    "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Undirected Graph Using BFS.md",
     "Main Notes/DSA/Graphs/Cycle Detection",
-    "Main Notes/DSA/Graphs/Problems On Traversals/Medium/Bipartite Graph.md",
     "Images/Pasted image 20250425020851.png",
     "Images/Pasted image 20250419193152.png",
     "Images/Pasted image 20250419183747.png",

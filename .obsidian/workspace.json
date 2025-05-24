@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b840b6d6e4e9d7b8",
+        "id": "b70b99ab43503d68",
         "type": "tabs",
         "children": [
           {
-            "id": "a84d421c7121760a",
+            "id": "334dec3fc8d777f3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,18 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Cheapest Flights Within K Stops",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Cheapest Flights Within K Stops.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cheapest Flights Within K Stops\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":34},\"to\":{\"line\":4,\"ch\":34}},\"scroll\":3.9}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Construct/Create A Binary Tree From Inorder and Postorder Traversal.md",
-                "mode": "preview",
+                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Find The City With The Smallest Number Of Neighbors In A Threshold Distance.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create A Binary Tree From Inorder and Postorder Traversal"
+              "title": "Find The City With The Smallest Number Of Neighbors In A Threshold Distance"
             }
           }
         ]
@@ -178,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Construct/Create A Binary Tree From Inorder and Postorder Traversal.md",
+                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Find The City With The Smallest Number Of Neighbors In A Threshold Distance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Create A Binary Tree From Inorder and Postorder Traversal"
+              "title": "Outgoing links from Find The City With The Smallest Number Of Neighbors In A Threshold Distance"
             }
           },
           {
@@ -255,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Binary Trees/Construct/Create A Binary Tree From Inorder and Postorder Traversal.md",
+                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Find The City With The Smallest Number Of Neighbors In A Threshold Distance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,10 +271,36 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Create A Binary Tree From Inorder and Postorder Traversal"
+              "title": "Backlinks for Find The City With The Smallest Number Of Neighbors In A Threshold Distance"
+            }
+          },
+          {
+            "id": "a84d421c7121760a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Create A Binary Tree From Inorder and Postorder Traversal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Construct/Create A Binary Tree From Inorder and Postorder Traversal.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Create A Binary Tree From Inorder and Postorder Traversal\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1e0ffa0b4e892020",
@@ -313,19 +345,20 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "a84d421c7121760a",
+  "active": "334dec3fc8d777f3",
   "lastOpenFiles": [
-    "Main Notes/DSA/Binary Trees/Construct/Construct A Binary Tree From Preorder And Inorder Traversal.md",
+    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Cheapest Flights Within K Stops.md",
+    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Find The City With The Smallest Number Of Neighbors In A Threshold Distance.md",
+    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Dijkstra's Algorithm.md",
     "Main Notes/DSA/Binary Trees/Construct/Create A Binary Tree From Inorder and Postorder Traversal.md",
+    "Main Notes/DSA/Binary Trees/Construct/Construct A Binary Tree From Preorder And Inorder Traversal.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Floyd Warshall Algorithm.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Bellman Ford Algorithm.md",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Dijkstra's Algorithm.md",
     "Tags/graph.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Minimum Steps to Reach end From start thorugh operations.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Number Of Ways To Arrive At a Destination.md",
     "Pasted image 20250517232012.png",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Network Delay Time.md",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Cheapest Flights Within K Stops.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Minimum Effort Path.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Shortest Path in Binary Maze.md",
@@ -348,7 +381,6 @@
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Course Schedule - 1 , 2.md",
     "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using BFS (Kahn's Algo).md",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort/Kahn's Algorithm.md",
-    "Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort/Topo Sort.md",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort",
     "Main Notes/DSA/Graphs/Topo Sort and Problems",

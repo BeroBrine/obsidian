@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 326
   },
   "right": {
     "id": "6beec99a0cb1b954",
@@ -208,12 +207,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Find The City With The Smallest Number Of Neighbors In A Threshold Distance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Find The City With The Smallest Number Of Neighbors In A Threshold Distance"
+              "title": "Outgoing links"
             }
           },
           {
@@ -369,11 +367,15 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "334dec3fc8d777f3",
+  "active": "a84d421c7121760a",
   "lastOpenFiles": [
+    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Find The City With The Smallest Number Of Neighbors In A Threshold Distance.md",
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Medium",
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard",
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms",
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Floyd Warshall Algorithm.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Bellman Ford Algorithm.md",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Find The City With The Smallest Number Of Neighbors In A Threshold Distance.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Cheapest Flights Within K Stops.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Dijkstra's Algorithm.md",
     "Main Notes/DSA/Binary Trees/Construct/Create A Binary Tree From Inorder and Postorder Traversal.md",
@@ -404,16 +406,11 @@
     "Images/Pasted image 20250510073351.png",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Course Schedule - 1 , 2.md",
     "Main Notes/DSA/Graphs/Cycle Detection/Cycle Detection In Directed Graph Using BFS (Kahn's Algo).md",
-    "Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort/Kahn's Algorithm.md",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort",
-    "Main Notes/DSA/Graphs/Topo Sort and Problems",
-    "Main Notes/DSA/Graphs/Cycle Detection",
     "Images/Pasted image 20250425020851.png",
     "Images/Pasted image 20250419193152.png",
     "Images/Pasted image 20250419183747.png",
-    "Main Notes/System Design/Key Concepts",
-    "Main Notes/System Design",
     "Images/Pasted image 20250417174224.png",
     "Images/Pasted image 20250417173205.png",
     "Images/Pasted image 20250417221410.png"

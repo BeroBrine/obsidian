@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Prim's Algorithm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Prim's Algorithm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Prim's Algorithm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":7},\"to\":{\"line\":60,\"ch\":7}},\"scroll\":59.839962121212125}"
+                },
+                {
                   "title": "Minimum Spanning Tree",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Theory/Minimum Spanning Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Minimum Spanning Tree\"}",
@@ -70,12 +76,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Prim's Algorithm.md",
+                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set By Rank.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prim's Algorithm"
+              "title": "Disjoint Set By Rank"
             }
           }
         ]
@@ -226,11 +232,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set By Rank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Disjoint Set By Rank"
             }
           },
           {
@@ -302,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Floyd Warshall Algorithm.md",
+                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set By Rank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,36 +319,10 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Floyd Warshall Algorithm"
-            }
-          },
-          {
-            "id": "a84d421c7121760a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Create A Binary Tree From Inorder and Postorder Traversal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Construct/Create A Binary Tree From Inorder and Postorder Traversal.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Create A Binary Tree From Inorder and Postorder Traversal\"}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Backlinks for Disjoint Set By Rank"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1e0ffa0b4e892020",
@@ -386,8 +367,9 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "a84d421c7121760a",
+  "active": "8c7b51e71a6a2970",
   "lastOpenFiles": [
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set By Rank.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Prim's Algorithm.md",
     "Main Notes/DSA/Graphs/Theory/Minimum Spanning Tree.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Minimum Spanning Tree.md",
@@ -424,7 +406,6 @@
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md",
     "Images/Pasted image 20250510073720.png",
     "Tags/topo sort.md",
-    "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Cycle Detection In Directed Graph Using BFS.md",
     "Images/Pasted image 20250510073351.png",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems",
     "Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort",

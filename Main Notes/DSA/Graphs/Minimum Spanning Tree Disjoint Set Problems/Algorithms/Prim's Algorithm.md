@@ -17,6 +17,6 @@
 
 
 ## References
-- [striver sheet link]()
-- [leetcode question link]()
-- ![yt video link]()
+- [striver sheet link](https://takeuforward.org/data-structure/prims-algorithm-minimum-spanning-tree-c-and-java-g-45/)
+- [GFG question link](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1)
+- ![yt video link](https://www.youtube.com/watch?v=mJcZjjKzeqk&ab_channel=takeUforward)

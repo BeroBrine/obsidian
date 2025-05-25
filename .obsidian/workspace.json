@@ -209,7 +209,7 @@
       {
         "id": "cbed4ef832a7d7db",
         "type": "tabs",
-        "dimension": 32.71939328277356,
+        "dimension": 32.7363184079602,
         "children": [
           {
             "id": "1cf54206a9eaa9c7",
@@ -226,12 +226,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Prim's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Prim's Algorithm"
+              "title": "Outgoing links"
             }
           },
           {
@@ -286,7 +285,7 @@
       {
         "id": "46377aa4a040ffd8",
         "type": "tabs",
-        "dimension": 28.385698808234018,
+        "dimension": 34.42786069651741,
         "children": [
           {
             "id": "8c7b51e71a6a2970",
@@ -347,7 +346,7 @@
       {
         "id": "1e0ffa0b4e892020",
         "type": "tabs",
-        "dimension": 38.894907908992415,
+        "dimension": 32.83582089552239,
         "children": [
           {
             "id": "b0ef9787c61e59b6",
@@ -387,10 +386,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "334dec3fc8d777f3",
+  "active": "a84d421c7121760a",
   "lastOpenFiles": [
-    "Main Notes/DSA/Graphs/Theory/Minimum Spanning Tree.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Prim's Algorithm.md",
+    "Main Notes/DSA/Graphs/Theory/Minimum Spanning Tree.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Minimum Spanning Tree.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Find The City With The Smallest Number Of Neighbors In A Threshold Distance.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Medium",

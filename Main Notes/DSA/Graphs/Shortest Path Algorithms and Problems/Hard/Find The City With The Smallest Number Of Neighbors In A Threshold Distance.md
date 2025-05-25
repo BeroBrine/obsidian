@@ -78,14 +78,6 @@ public:
 ```
 
 
-
-
-
-
-
-
-
-
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/find-the-city-with-the-smallest-number-of-neighbours-at-a-threshold-distance-g-43/)
 - [leetcode question link](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)

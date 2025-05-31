@@ -11,17 +11,53 @@
             "id": "334dec3fc8d777f3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "FT_2025-05-31 14:52:25.904",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"HandwrittenNotes/FT_2025-05-31 14:52:25.904.png\"},\"icon\":\"lucide-image\",\"title\":\"FT_2025-05-31 14:52:25.904\"}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Disjoint Set Union By Rank And Size",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Rank And Size.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Disjoint Set Union By Rank And Size\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Prim's Algorithm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Prim's Algorithm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Prim's Algorithm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":16.467050409560738}"
+                },
+                {
+                  "title": "Kruskal's Algorithm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kruskal's Algorithm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":29},\"to\":{\"line\":25,\"ch\":29}},\"scroll\":6.710962913705206}"
+                },
+                {
+                  "title": "Disjoint Set Union By Rank And Size",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Rank And Size.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Disjoint Set Union By Rank And Size\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":0},\"to\":{\"line\":43,\"ch\":0}},\"scroll\":41.48553953348938}"
+                },
+                {
+                  "title": "dsa note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/dsa note.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"dsa note\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0.7347714763682061}"
+                },
+                {
+                  "title": "Disjoint Set Union By Size",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Size.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Disjoint Set Union By Size\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Disjoint Set Union By Rank And Size",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Rank And Size.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Disjoint Set By Rank\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":123,\"ch\":0},\"to\":{\"line\":123,\"ch\":0}},\"scroll\":42.314880963200544}"
                 },
                 {
                   "title": "First Notebook - 20250530_220659",
@@ -36,9 +72,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Disjoint Set By Rank",
+                  "title": "Disjoint Set Union By Rank And Size",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set By Rank.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Disjoint Set By Rank\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Rank And Size.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Disjoint Set By Rank\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -48,9 +84,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Disjoint Set By Rank",
+                  "title": "Disjoint Set Union By Rank And Size",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set By Rank.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Disjoint Set By Rank\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Rank And Size.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Disjoint Set By Rank\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
                 },
                 {
@@ -112,12 +148,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set By Rank.md",
+                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disjoint Set By Rank"
+              "title": "Kruskal's Algorithm"
             }
           }
         ]
@@ -241,7 +277,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 326,
+    "collapsed": true
   },
   "right": {
     "id": "6beec99a0cb1b954",
@@ -405,11 +442,17 @@
   },
   "active": "334dec3fc8d777f3",
   "lastOpenFiles": [
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Rank And Size.md",
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Prim's Algorithm.md",
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md",
+    "HandwrittenNotes/Disjoint set union by size and rank.pdf",
+    "HandwrittenNotes/Disjoint sets union by rank.pdf",
+    "HandwrittenNotes/Disjoint Sets Union by Rank and size.zip",
+    "Templates/dsa note.md",
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Size.md",
     "HandwrittenNotes/FT_2025-05-31 14:52:25.904.png",
-    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set By Rank.md",
     "HandwrittenNotes/FT_2025-05-31 14:51:35.033.png",
     "HandwrittenNotes/FT_2025-05-31 14:23:54.461.png",
-    "HandwrittenNotes/Disjoint sets union by rank.pdf",
     "HandwrittenNotes/IMG-20250531-WA0004 1.jpg",
     "HandwrittenNotes/IMG-20250531-WA0004.jpg",
     "HandwrittenNotes/First Notebook - 20250530_220514.pdf",
@@ -417,7 +460,6 @@
     "HandwrittenNotes/First Notebook - 20250530_220659.pdf",
     "Excalidraw/Disjoint Set By Rank 2025-05-30 19.04.52.excalidraw.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md",
-    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Prim's Algorithm.md",
     "Main Notes/DSA/Graphs/Theory/Minimum Spanning Tree.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Minimum Spanning Tree.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Find The City With The Smallest Number Of Neighbors In A Threshold Distance.md",
@@ -439,15 +481,11 @@
     "Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Minimum Effort Path.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Shortest Path in Binary Maze.md",
-    "Templates/dsa note.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Print Shortest Path.md",
     "Images/Pasted image 20250511140213.png",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Shortest Path in DAG.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Shortest Path in UG With Unit Weights.md",
-    "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Alien Dictionary.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms",
     "Images/Pasted image 20250510073720.png",
     "Images/Pasted image 20250510073351.png"
   ]

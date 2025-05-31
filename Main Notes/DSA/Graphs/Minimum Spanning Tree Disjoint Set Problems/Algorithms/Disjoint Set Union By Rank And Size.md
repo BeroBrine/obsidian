@@ -47,12 +47,13 @@
 using namespace std;
 
 class DisjointSets {
-  vector<int> parent, rank;
+  vector<int> parent, rank, size;
 
 public:
   DisjointSets(int n) {
     rank.resize(n + 1, 0);
     parent.resize(n + 1, 0);
+    size.resize(n + 1, 1);
     for (int i = 0; i <= n; i++) {
       parent[i] = i;
     }
@@ -83,6 +84,19 @@ public:
     }
   }
 
+  void unionBySize(int u, int v) {
+    int ult_u = findUltimateParent(u);
+    int ult_v = findUltimateParent(v);
+
+    if (size[ult_u] < size[ult_v]) {
+      parent[ult_u] = ult_v;
+      size[ult_v] += size[ult_u];
+    } else {
+      parent[ult_v] = ult_u;
+      size[ult_u] += size[ult_v];
+    }
+  }
+
   void printRank() {
     for (auto itr : rank) {
       cout << itr << ' ';
@@ -103,15 +117,18 @@ int main() {
   set->unionByRank(5, 6);
 
   bool test = set->findUltimateParent(1) == set->findUltimateParent(6);
-  cout << " does 1 , 6 belong to the same component " << test << endl; // 0
+  cout << " does 1 , 6 belong to the same component " << test << endl;
 
   set->unionByRank(3, 7);
 
   bool test1 = set->findUltimateParent(1) == set->findUltimateParent(6);
-  cout << " does 1 , 6 belong to the same component " << test1 << endl; // 1
+  cout << " does 1 , 6 belong to the same component " << test1 << endl;
 
+  int arr[5];
+  cout << "the size is " << size(arr) << endl;
   set->printRank();
 }
+
 
 ```
 
@@ -119,7 +136,7 @@ int main() {
 
 
 #### Handwritten Note
-![[Disjoint sets union by rank.pdf]]
+![[Disjoint set union by size and rank.pdf]]
 
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/disjoint-set-union-by-rank-union-by-size-path-compression-g-46/)

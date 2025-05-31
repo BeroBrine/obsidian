@@ -40,8 +40,7 @@
 		- p[u] = u -> so this is the ultimate parent
 	- Path compression does p[4] = 1 , p[2] = 1 , p[1] = 1.
 		- So getting the ultimate parent of 4 is just one instruction
-- However we do not decrease the ranks in this case
-
+- However we do not decrease the ranks in this case because it's not height , if we decrease it may skew the further results. (look at notes for better explanation)
 #### Code
 ```cpp
 #include <bits/stdc++.h>
@@ -121,9 +120,6 @@ int main() {
 
 #### Handwritten Note
 ![[Disjoint sets union by rank.pdf]]
-
-
-
 
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/disjoint-set-union-by-rank-union-by-size-path-compression-g-46/)

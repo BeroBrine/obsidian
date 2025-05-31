@@ -11,11 +11,53 @@
             "id": "334dec3fc8d777f3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 2,
               "stack": [
+                {
+                  "title": "IMG-20250531-WA0004 1",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"HandwrittenNotes/IMG-20250531-WA0004 1.jpg\"},\"icon\":\"lucide-image\",\"title\":\"IMG-20250531-WA0004 1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "First Notebook - 20250530_220659",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"HandwrittenNotes/First Notebook - 20250530_220659.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"First Notebook - 20250530_220659\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "First Notebook - 20250530_220514",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"HandwrittenNotes/First Notebook - 20250530_220514.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"First Notebook - 20250530_220514\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Disjoint Set By Rank",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set By Rank.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Disjoint Set By Rank\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Convert BST To Doubly Linked List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Convert BST To Doubly Linked List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Disjoint Set By Rank",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set By Rank.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Disjoint Set By Rank\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
                 },
                 {
                   "title": "Prim's Algorithm",
@@ -352,7 +394,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293
+    "width": 293,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -367,9 +410,18 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "8c7b51e71a6a2970",
+  "active": "334dec3fc8d777f3",
   "lastOpenFiles": [
+    "HandwrittenNotes/FT_2025-05-31 14:23:54.461.png",
+    "HandwrittenNotes/Disjoint sets union by rank.pdf",
+    "HandwrittenNotes/IMG-20250531-WA0004 1.jpg",
+    "HandwrittenNotes/IMG-20250531-WA0004.jpg",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set By Rank.md",
+    "HandwrittenNotes/First Notebook - 20250530_220514.pdf",
+    "HandwrittenNotes/INKredible - 20250530_221016.png",
+    "HandwrittenNotes/First Notebook - 20250530_220659.pdf",
+    "Excalidraw/Disjoint Set By Rank 2025-05-30 19.04.52.excalidraw.md",
+    "Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Prim's Algorithm.md",
     "Main Notes/DSA/Graphs/Theory/Minimum Spanning Tree.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Minimum Spanning Tree.md",
@@ -401,19 +453,10 @@
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Untitled.md",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems",
-    "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems/Find Eventual Safe States.md",
     "Images/Pasted image 20250510073720.png",
-    "Tags/topo sort.md",
     "Images/Pasted image 20250510073351.png",
-    "Main Notes/DSA/Graphs/Topo Sort and Problems/Problems",
-    "Main Notes/DSA/Graphs/Topo Sort and Problems/Topo Sort",
     "Images/Pasted image 20250425020851.png",
     "Images/Pasted image 20250419193152.png",
-    "Images/Pasted image 20250419183747.png",
-    "Images/Pasted image 20250417174224.png",
-    "Images/Pasted image 20250417173205.png",
-    "Images/Pasted image 20250417221410.png"
+    "Images/Pasted image 20250419183747.png"
   ]
 }

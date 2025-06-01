@@ -14,14 +14,14 @@
 
 
 ##### Solution
-
+- 
 
 
 
 
 
 ##### Handwritten Notes
-
+![[]]
 ##### Code
 ```cpp
 ```

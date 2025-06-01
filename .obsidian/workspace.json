@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "dsa note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/dsa note.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"dsa note\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0.7347714763682061}"
+                },
+                {
+                  "title": "Accounts Merge",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Accounts Merge.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Accounts Merge\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":22},\"to\":{\"line\":39,\"ch\":22}},\"scroll\":39.095978950673505}"
+                },
+                {
                   "title": "Most Stones Removed With Same Column or Row",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Medium/Most Stones Removed With Same Column or Row.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Most Stones Removed With Same Column or Row\"}",
@@ -370,12 +382,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set By Rank.md",
+                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Accounts Merge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Disjoint Set By Rank"
+              "title": "Outgoing links from Accounts Merge"
             }
           },
           {
@@ -447,7 +459,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set By Rank.md",
+                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Accounts Merge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -457,7 +469,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Disjoint Set By Rank"
+              "title": "Backlinks for Accounts Merge"
             }
           }
         ]
@@ -508,9 +520,11 @@
   },
   "active": "334dec3fc8d777f3",
   "lastOpenFiles": [
-    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Medium/Most Stones Removed With Same Column or Row.md",
-    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Accounts Merge.md",
+    "HandwrittenNotes/FT_2025-06-01 22:12:14.730.png",
     "Templates/dsa note.md",
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Accounts Merge.md",
+    "HandwrittenNotes/Accounts merge.pdf",
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Medium/Most Stones Removed With Same Column or Row.md",
     "HandwrittenNotes/FT_2025-06-01 20:07:53.213.png",
     "HandwrittenNotes/FT_2025-06-01 20:07:11.847.png",
     "HandwrittenNotes/FT_2025-06-01 20:05:21.499.png",
@@ -541,7 +555,6 @@
     "Main Notes/DSA/Graphs/Theory/Minimum Spanning Tree.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Minimum Spanning Tree.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Find The City With The Smallest Number Of Neighbors In A Threshold Distance.md",
-    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Medium",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Floyd Warshall Algorithm.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Bellman Ford Algorithm.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Cheapest Flights Within K Stops.md",
@@ -552,7 +565,6 @@
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Minimum Steps to Reach end From start thorugh operations.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Number Of Ways To Arrive At a Destination.md",
     "Pasted image 20250517232012.png",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Network Delay Time.md",
-    "Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md"
+    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Network Delay Time.md"
   ]
 }

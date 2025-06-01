@@ -1,6 +1,6 @@
 *01-06-2025 18:39*
 
-*Status*:
+*Status*: [[revise]]
 
 *Tags*: [[dsa]] [[graph]] [[medium question]]
 
@@ -21,9 +21,18 @@
 	│ 5. Remove stone [0,1] because it shares the same row as [0,0].
 	│ Stone [0,0] cannot be removed since it does not share a row/column with another stone still on the plane.
 
+### Solution
+##### See the handwritten notes for better explanation
+- We will utilise [[Disjoint Set Union By Rank And Size]] for this.
+	- How? What are the nodes and stuff.
+		- The nodes are the row and col that house the nodes.
+			- How do we convert this to a grid like?
+				- By using maxRow and maxCol , we can track the stones in a gridlike fashion
 
-
-
+- The max number of stones that can be removed can be derived as n - no of components
+	![[FT_2025-06-01 20:05:21.499.png]]	
+- So what we need to do is find valid number of components in the disjoint set.
+	- The nodes are represented as row ,
 
 
 
@@ -35,8 +44,71 @@
 
 ##### Code
 ```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+// @leet start
+class Solution {
+  vector<int> rank, parent;
+
+public:
+  int removeStones(vector<vector<int>> &stones) {
+    int n = stones.size();
+    int maxRow = 0;
+    int maxCol = 0;
+    for (auto it : stones) {
+      maxRow = max(maxRow, it[0]);
+      maxCol = max(maxCol, it[1]);
+    }
+    rank.resize(maxRow + maxCol + 2, 0);
+    parent.resize(maxRow + maxCol + 2, 0);
+    for (int i = 0; i < maxRow + maxCol + 2; i++) {
+      parent[i] = i;
+    }
+
+    unordered_map<int, int> stoneNodes;
+    for (auto it : stones) {
+      int row = it[0];
+      int col = it[1] + maxRow + 1;
+      unionByRank(row, col);
+      stoneNodes[row] = 1;
+      stoneNodes[col] = 1;
+    }
+
+    int cnt = 0;
+    for (auto it : stoneNodes) {
+      if (findUltParent(it.first) == it.first) {
+        cnt++;
+      }
+    }
+    return n - cnt;
+  }
+
+  int findUltParent(int node) {
+    if (node == parent[node])
+      return node;
+    return parent[node] = findUltParent(parent[node]);
+  }
+  void unionByRank(int u, int v) {
+    int ult_u = findUltParent(u);
+    int ult_v = findUltParent(v);
+    if (ult_u == ult_v)
+      return;
+    if (rank[ult_v] < rank[ult_u]) {
+      parent[ult_v] = ult_u;
+    } else if (rank[ult_u] < rank[ult_v]) {
+      parent[ult_u] = ult_v;
+    } else {
+      parent[ult_u] = ult_v;
+      rank[ult_v]++;
+    }
+  }
+};
+// @leet end
+
 ```
 ##### Handwritten Notes
+![[Stones.pdf]]
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/most-stones-removed-with-same-row-or-column-dsu-g-53/)
 - [leetcode question link](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)

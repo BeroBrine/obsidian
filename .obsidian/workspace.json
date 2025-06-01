@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Kruskal's Algorithm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kruskal's Algorithm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":0},\"to\":{\"line\":83,\"ch\":0}},\"scroll\":14.233578037268641}"
+                },
+                {
+                  "title": "dsa note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/dsa note.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"dsa note\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0.7347714763682061}"
+                },
+                {
+                  "title": "Kruskal's Algorithm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kruskal's Algorithm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":13.909610354596806}"
+                },
+                {
                   "title": "Disjoint Set Union By Rank And Size",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Rank And Size.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Disjoint Set Union By Rank And Size\"}",
@@ -148,12 +166,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md",
+                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Medium/Number Of Operations To Make Component Connected.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kruskal's Algorithm"
+              "title": "Number Of Operations To Make Component Connected"
             }
           }
         ]
@@ -442,13 +460,15 @@
   },
   "active": "334dec3fc8d777f3",
   "lastOpenFiles": [
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md",
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Medium/Number Of Operations To Make Component Connected.md",
+    "Templates/dsa note.md",
+    "HandwrittenNotes/Kruskal algorithm.pdf",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Rank And Size.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Prim's Algorithm.md",
-    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md",
     "HandwrittenNotes/Disjoint set union by size and rank.pdf",
     "HandwrittenNotes/Disjoint sets union by rank.pdf",
     "HandwrittenNotes/Disjoint Sets Union by Rank and size.zip",
-    "Templates/dsa note.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Size.md",
     "HandwrittenNotes/FT_2025-05-31 14:52:25.904.png",
     "HandwrittenNotes/FT_2025-05-31 14:51:35.033.png",
@@ -484,8 +504,6 @@
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Print Shortest Path.md",
     "Images/Pasted image 20250511140213.png",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Shortest Path in DAG.md",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Shortest Path in UG With Unit Weights.md",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium",
     "Images/Pasted image 20250510073720.png",
     "Images/Pasted image 20250510073351.png"
   ]

@@ -1,10 +1,10 @@
-*{{date}} {{time}}*
+*01-06-2025 15:28*
 
 *Status*:
 
-*Tags*: [[dsa]]
+*Tags*: [[dsa]] [[graph]] [[medium question]]
 
-# {{Title}}
+# Number Of Operations To Make Component Connected
 - *Problem* *Statement*: 
 
 

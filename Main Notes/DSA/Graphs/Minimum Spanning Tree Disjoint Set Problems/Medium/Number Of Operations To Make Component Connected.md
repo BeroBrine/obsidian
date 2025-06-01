@@ -86,6 +86,7 @@ public:
 
 ```
 ##### Handwritten Notes
+![[number of operations.pdf]]
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/number-of-operations-to-make-network-connected-dsu-g-49/)
 - [leetcode question link](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)

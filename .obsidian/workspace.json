@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Number Of Operations To Make Component Connected",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Medium/Number Of Operations To Make Component Connected.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Number Of Operations To Make Component Connected\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":11},\"to\":{\"line\":84,\"ch\":11}},\"scroll\":81.85442491902955}"
+                },
+                {
                   "title": "Kruskal's Algorithm",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kruskal's Algorithm\"}",
@@ -166,12 +172,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Medium/Number Of Operations To Make Component Connected.md",
+                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Medium/Most Stones Removed With Same Column or Row.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Number Of Operations To Make Component Connected"
+              "title": "Most Stones Removed With Same Column or Row"
             }
           }
         ]
@@ -460,8 +466,11 @@
   },
   "active": "334dec3fc8d777f3",
   "lastOpenFiles": [
-    "Main Notes/DSA/Graphs/Problems On Traversals/Medium/Number Of Provinces.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Medium/Number Of Operations To Make Component Connected.md",
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Medium/Most Stones Removed With Same Column or Row.md",
+    "HandwrittenNotes/Chungus - 20250601_183817.pdf",
+    "HandwrittenNotes/number of operations.pdf",
+    "Main Notes/DSA/Graphs/Problems On Traversals/Medium/Number Of Provinces.md",
     "Main Notes/DSA/Graphs/Problems On Traversals/Hard/Number Of Distinct Islands.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md",
     "Templates/dsa note.md",
@@ -487,8 +496,6 @@
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Find The City With The Smallest Number Of Neighbors In A Threshold Distance.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Medium",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard",
-    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms",
-    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Floyd Warshall Algorithm.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Bellman Ford Algorithm.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Cheapest Flights Within K Stops.md",
@@ -502,7 +509,6 @@
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Network Delay Time.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Minimum Effort Path.md",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Shortest Path in Binary Maze.md",
     "Images/Pasted image 20250511140213.png",
     "Images/Pasted image 20250510073720.png",
     "Images/Pasted image 20250510073351.png"

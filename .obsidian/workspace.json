@@ -460,8 +460,10 @@
   },
   "active": "334dec3fc8d777f3",
   "lastOpenFiles": [
-    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md",
+    "Main Notes/DSA/Graphs/Problems On Traversals/Medium/Number Of Provinces.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Medium/Number Of Operations To Make Component Connected.md",
+    "Main Notes/DSA/Graphs/Problems On Traversals/Hard/Number Of Distinct Islands.md",
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md",
     "Templates/dsa note.md",
     "HandwrittenNotes/Kruskal algorithm.pdf",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Rank And Size.md",
@@ -501,9 +503,7 @@
     "Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Minimum Effort Path.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Shortest Path in Binary Maze.md",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Print Shortest Path.md",
     "Images/Pasted image 20250511140213.png",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Shortest Path in DAG.md",
     "Images/Pasted image 20250510073720.png",
     "Images/Pasted image 20250510073351.png"
   ]

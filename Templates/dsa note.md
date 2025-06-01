@@ -5,23 +5,26 @@
 *Tags*: [[dsa]]
 
 # {{Title}}
-- *Problem* *Statement*: 
+
+##### Problem Statement
 
 
 
 
 
 
+##### Solution
 
 
 
 
 
+
+##### Handwritten Notes
 
 ##### Code
 ```cpp
 ```
-##### Handwritten Notes
 ## References
 - [striver sheet link]()
 - [leetcode question link]()

@@ -32,16 +32,24 @@
 - The max number of stones that can be removed can be derived as n - no of components
 	![[FT_2025-06-01 20:05:21.499.png]]	
 - So what we need to do is find valid number of components in the disjoint set.
-	- The nodes are represented as row ,
+	- The nodes are represented as row number and column being offset by col + maxRow + 1.
+		- For this grid
+			![[FT_2025-06-01 20:07:53.213.png]]
+		- The mappings are 	
+			![[FT_2025-06-01 20:07:11.847.png]]
+
+- How do we find the number of valid components?
+	- It can be done by counting unique number of parents.
+		- Using parents array for this will skew the results as there are some stones pending after removing all which will have the parents as themselves.
+		- To counter this , we create a map which will store the stoneNode , eg 0 , 7 
+			- *The values which we sent to the disjoint set*
+- Using this map , check the unique number of parents 
+	- the answer will be n - number of components
 
 
 
-
-
-
-
-
-
+##### Handwritten Notes
+![[Stones.pdf]]
 ##### Code
 ```cpp
 #include <bits/stdc++.h>
@@ -107,8 +115,6 @@ public:
 // @leet end
 
 ```
-##### Handwritten Notes
-![[Stones.pdf]]
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/most-stones-removed-with-same-row-or-column-dsu-g-53/)
 - [leetcode question link](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)

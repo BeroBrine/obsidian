@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Number Of Island 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Number Of Island 2.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Number Of Island 2\"}",
+                  "eState": "{\"scroll\":41.539481237350785}"
+                },
+                {
                   "title": "Accounts Merge",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Accounts Merge.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Accounts Merge\"}",
@@ -232,12 +238,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Number Of Island 2.md",
+                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Making A Large Island.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Number Of Island 2"
+              "title": "Making A Large Island"
             }
           }
         ]
@@ -388,12 +394,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Number Of Island 2.md",
+                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Making A Large Island.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Number Of Island 2"
+              "title": "Outgoing links from Making A Large Island"
             }
           },
           {
@@ -465,7 +471,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Number Of Island 2.md",
+                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Making A Large Island.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -475,7 +481,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Number Of Island 2"
+              "title": "Backlinks for Making A Large Island"
             }
           }
         ]
@@ -526,8 +532,11 @@
   },
   "active": "334dec3fc8d777f3",
   "lastOpenFiles": [
-    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Accounts Merge.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Number Of Island 2.md",
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Making A Large Island.md",
+    "HandwrittenNotes/FT_2025-06-02 10:14:01.264.png",
+    "HandwrittenNotes/No of islands 2.pdf",
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Accounts Merge.md",
     "HandwrittenNotes/FT_2025-06-01 22:12:14.730.png",
     "Templates/dsa note.md",
     "HandwrittenNotes/Accounts merge.pdf",
@@ -555,8 +564,6 @@
     "HandwrittenNotes/IMG-20250531-WA0004 1.jpg",
     "HandwrittenNotes/IMG-20250531-WA0004.jpg",
     "HandwrittenNotes/First Notebook - 20250530_220514.pdf",
-    "HandwrittenNotes/INKredible - 20250530_221016.png",
-    "HandwrittenNotes/First Notebook - 20250530_220659.pdf",
     "Excalidraw/Disjoint Set By Rank 2025-05-30 19.04.52.excalidraw.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md",
     "Main Notes/DSA/Graphs/Theory/Minimum Spanning Tree.md",
@@ -570,7 +577,6 @@
     "Main Notes/DSA/Binary Trees/Construct/Construct A Binary Tree From Preorder And Inorder Traversal.md",
     "Tags/graph.md",
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Minimum Steps to Reach end From start thorugh operations.md",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Number Of Ways To Arrive At a Destination.md",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Network Delay Time.md"
+    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Medium/Number Of Ways To Arrive At a Destination.md"
   ]
 }

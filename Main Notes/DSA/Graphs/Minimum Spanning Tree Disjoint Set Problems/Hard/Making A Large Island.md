@@ -17,15 +17,8 @@ An island is a 4-directionally connected group of 1s.
 │ Input: grid = [[1,0],[0,1]]
 │ Output: 3
 │ Explanation: Change one 0 to 1 and connect two 1s, then we get an island with area = 3.
-
-
-
-
-
-
-
 ##### Solution
-- 
+-  
 
 
 
@@ -37,6 +30,6 @@ An island is a 4-directionally connected group of 1s.
 ```cpp
 ```
 ## References
-- [striver sheet link]()
-- [leetcode question link]()
-- ![yt video link]()
+- [striver sheet link](https://takeuforward.org/data-structure/making-a-large-island-dsu-g-52/)
+- [leetcode question link](https://leetcode.com/problems/making-a-large-island/description/)
+- ![yt video link](https://www.youtube.com/watch?v=lgiz0Oup6gM&feature=youtu.be)

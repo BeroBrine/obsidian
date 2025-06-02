@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Disjoint Set Union By Rank And Size",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Rank And Size.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Disjoint Set Union By Rank And Size\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":141,\"ch\":0},\"to\":{\"line\":141,\"ch\":0}},\"scroll\":138.06807641032302}"
+                },
+                {
                   "title": "Kruskal's Algorithm",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kruskal's Algorithm\"}",
@@ -250,12 +256,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Rank And Size.md",
+                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Making A Large Island.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disjoint Set Union By Rank And Size"
+              "title": "Making A Large Island"
             }
           }
         ]
@@ -544,6 +550,7 @@
   },
   "active": "334dec3fc8d777f3",
   "lastOpenFiles": [
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Rank And Size.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Making A Large Island.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Number Of Island 2.md",
@@ -564,7 +571,6 @@
     "Main Notes/DSA/Graphs/Problems On Traversals/Medium/Number Of Provinces.md",
     "Main Notes/DSA/Graphs/Problems On Traversals/Hard/Number Of Distinct Islands.md",
     "HandwrittenNotes/Kruskal algorithm.pdf",
-    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Rank And Size.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Prim's Algorithm.md",
     "HandwrittenNotes/Disjoint set union by size and rank.pdf",
     "HandwrittenNotes/Disjoint sets union by rank.pdf",

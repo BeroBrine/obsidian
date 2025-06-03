@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Making A Large Island",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Making A Large Island.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Making A Large Island\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":23},\"to\":{\"line\":33,\"ch\":23}},\"scroll\":28.970595977257872}"
+                },
+                {
                   "title": "Making a large island",
                   "icon": "lucide-file-text",
                   "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"HandwrittenNotes/Making a large island.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Making a large island\"}",
@@ -274,12 +280,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Making A Large Island.md",
+                "file": "Main Notes/DSA/Graphs/Other Algorithms/Bridges In Graph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Making A Large Island"
+              "title": "Bridges In Graph"
             }
           }
         ]
@@ -568,10 +574,12 @@
   },
   "active": "334dec3fc8d777f3",
   "lastOpenFiles": [
+    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Making A Large Island.md",
+    "Main Notes/DSA/Graphs/Other Algorithms/Bridges In Graph.md",
+    "Main Notes/DSA/Graphs/Other Algorithms",
     "HandwrittenNotes/FT_2025-06-03 09:51:46.970.png",
     "HandwrittenNotes/Making a large island.pdf",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Rank And Size.md",
-    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Making A Large Island.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Number Of Island 2.md",
     "HandwrittenNotes/FT_2025-06-02 10:14:01.264.png",
@@ -594,13 +602,11 @@
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Prim's Algorithm.md",
     "HandwrittenNotes/Disjoint set union by size and rank.pdf",
     "HandwrittenNotes/Disjoint sets union by rank.pdf",
-    "HandwrittenNotes/Disjoint Sets Union by Rank and size.zip",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Size.md",
     "HandwrittenNotes/FT_2025-05-31 14:52:25.904.png",
     "HandwrittenNotes/FT_2025-05-31 14:51:35.033.png",
     "HandwrittenNotes/FT_2025-05-31 14:23:54.461.png",
     "HandwrittenNotes/IMG-20250531-WA0004 1.jpg",
-    "HandwrittenNotes/IMG-20250531-WA0004.jpg",
     "Excalidraw/Disjoint Set By Rank 2025-05-30 19.04.52.excalidraw.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md",
     "Main Notes/DSA/Graphs/Theory/Minimum Spanning Tree.md",

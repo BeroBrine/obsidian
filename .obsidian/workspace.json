@@ -574,6 +574,7 @@
   },
   "active": "334dec3fc8d777f3",
   "lastOpenFiles": [
+    "HandwrittenNotes/Bridges in graph.pdf",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Making A Large Island.md",
     "Main Notes/DSA/Graphs/Other Algorithms/Bridges In Graph.md",
     "Main Notes/DSA/Graphs/Other Algorithms",
@@ -618,7 +619,6 @@
     "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Dijkstra's Algorithm.md",
     "Main Notes/DSA/Binary Trees/Construct/Create A Binary Tree From Inorder and Postorder Traversal.md",
     "Main Notes/DSA/Binary Trees/Construct/Construct A Binary Tree From Preorder And Inorder Traversal.md",
-    "Tags/graph.md",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Minimum Steps to Reach end From start thorugh operations.md"
+    "Tags/graph.md"
   ]
 }

@@ -1,6 +1,6 @@
 *03-06-2025 23:02*
 
-*Status*:
+*Status*: [[quirky]] [[revise]]
 
 *Tags*: [[dsa]] [[graph]] [[hard]]
 

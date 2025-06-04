@@ -15,14 +15,20 @@ Note: Indexing is zero-based i.e nodes numbering from (0 to V-1). There might be
 	- The difference is between the
 		- low[] -> this time we do not take the min of low for both nodes if the node's already visited.
 			![[FT_2025-06-04 09:49:15.232.png]]
-			- The reason is if 5(low of 7) take low of 2 which will be 1 (updated by when the recursion of 3 ended) , it will be updated to 1 , but we can see that for 5 there is no way to reach 1. 
+			- The reason is if 5(low of 7) takes the low of 2 which will be 1 (updated by when the recursion of 3 ended) , it will be updated to 1 , but we can see that for 5 there is no way to reach 1. 
+			- So if the node is already visited , we update the low[node] min of tin[neighborNode] , low[node]
 
 		- The bridge condition
 			- if(low[neighborNode] >= tin[node] and parent != -1) {}
-				- The = because   
-
-
-
+				- The = because we are removing the node itself , removed node cannot be reached.  
+				- And parent is for graph like beneath where the starting point has single child. Then removing it will still have the whole graph as one.
+				![[FT_2025-06-04 09:54:14.831.png]]
+				- But if the graph has more than one child , it's always an articulation point	
+ 
+##### Edge Case
+- We are using set to store the articulation point due to the following case
+	![[FT_2025-06-04 10:00:45.960.png]]
+	- To counter duplication of articulation points , set is being used.
 ##### Handwritten Notes
 ![[Articulation point.pdf]]
 ##### Code

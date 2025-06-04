@@ -421,8 +421,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326,
-    "collapsed": true
+    "width": 326
   },
   "right": {
     "id": "6beec99a0cb1b954",
@@ -581,7 +580,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "vault-2-book:Obsidian 2 Book: Generate a book from a specified folder": false
     }
   },
   "active": "334dec3fc8d777f3",

@@ -1,6 +1,6 @@
 *04-06-2025 08:23*
 
-*Status*:
+*Status*: [[revise]] [[quirky]]
 
 *Tags*: [[dsa]] [[graph]] [[hard]]
 
@@ -10,6 +10,7 @@
 Given an undirected connected graph with V vertices and adjacency list adj. You are required to find all the vertices removing which (and edges through it) disconnects the graph into 2 or more components and return it in sorted manner.
 Note: Indexing is zero-based i.e nodes numbering from (0 to V-1). There might be loops present in the graph.
 ![[Pasted image 20250604094036.png]]
+
 ##### Solution
 - This question is similar to that of [[Bridges In Graph]]. 
 	- The difference is between the

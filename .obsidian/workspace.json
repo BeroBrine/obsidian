@@ -11,17 +11,17 @@
             "id": "334dec3fc8d777f3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "()",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Other Algorithms/().md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"()\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Articulation Point",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Other Algorithms/Articulation Point.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Articulation Point\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":1},\"to\":{\"line\":0,\"ch\":1}},\"scroll\":16.103447611168434}"
                 },
                 {
                   "title": "Bridges In Graph",
@@ -292,12 +292,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Other Algorithms/Articulation Point.md",
+                "file": "Main Notes/DSA/Graphs/Other Algorithms/Kosaraju's Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Articulation Point"
+              "title": "Kosaraju's Algorithm"
             }
           }
         ]
@@ -421,7 +421,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 326,
+    "collapsed": true
   },
   "right": {
     "id": "6beec99a0cb1b954",
@@ -586,13 +587,14 @@
   },
   "active": "334dec3fc8d777f3",
   "lastOpenFiles": [
+    "Main Notes/DSA/Graphs/Other Algorithms/Articulation Point.md",
+    "Main Notes/DSA/Graphs/Other Algorithms/Kosaraju's Algorithm.md",
     "HandwrittenNotes/FT_2025-06-04 10:00:45.960.png",
     "HandwrittenNotes/FT_2025-06-04 09:54:14.831.png",
     "HandwrittenNotes/FT_2025-06-04 09:49:15.232.png",
     "Images/Pasted image 20250604094036.png",
     "HandwrittenNotes/Articulation point.pdf",
     "Main Notes/DSA/Graphs/Other Algorithms/().md",
-    "Main Notes/DSA/Graphs/Other Algorithms/Articulation Point.md",
     "Main Notes/DSA/Graphs/Other Algorithms/Bridges In Graph.md",
     "HandwrittenNotes/Bridges in graph.pdf",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Making A Large Island.md",
@@ -621,7 +623,6 @@
     "HandwrittenNotes/Kruskal algorithm.pdf",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Prim's Algorithm.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Size.md",
-    "HandwrittenNotes/FT_2025-05-31 14:52:25.904.png",
     "Excalidraw/Disjoint Set By Rank 2025-05-30 19.04.52.excalidraw.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md",
     "Main Notes/DSA/Graphs/Theory/Minimum Spanning Tree.md",

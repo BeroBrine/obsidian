@@ -22,7 +22,7 @@ Each time you can either climb 1 or 2 steps. In how many distinct ways can you c
 		- It asks to find all the ways to reach the stairs
 - We will be taking top down approach
 	- That is starting from the nth and going back to 0th case
-- We know that for each recursion call , it can jump either 1 or 2.
+ - We know that for each recursion call , it can jump either 1 or 2.
 	- Edge case here is if it's at 1 and it tries to jump 2 steps , it can go into negative which is out of bounds.
 
 - Memoize it by using dp arr.

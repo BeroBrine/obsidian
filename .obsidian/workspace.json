@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Climbing Stairs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Dynamic Programming/1D DP/Climbing Stairs.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Climbing Stairs\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":4},\"to\":{\"line\":24,\"ch\":4}},\"scroll\":15.456469604148605}"
+                },
+                {
                   "title": "dp",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/dp.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"dp\"}",
@@ -310,12 +316,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Dynamic Programming/1D DP/Climbing Stairs.md",
+                "file": "Main Notes/DSA/Dynamic Programming/1D DP/Frog Jump.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Climbing Stairs"
+              "title": "Frog Jump"
             }
           }
         ]
@@ -605,9 +611,10 @@
   },
   "active": "334dec3fc8d777f3",
   "lastOpenFiles": [
+    "Main Notes/DSA/Dynamic Programming/1D DP/Climbing Stairs.md",
+    "Main Notes/DSA/Dynamic Programming/1D DP/Frog Jump.md",
     "HandwrittenNotes/Climbing stairs.pdf",
     "Tags/dp.md",
-    "Main Notes/DSA/Dynamic Programming/1D DP/Climbing Stairs.md",
     "Main Notes/DSA/Graphs/Other Algorithms/Kosaraju's Algorithm.md",
     "Main Notes/DSA/Dynamic Programming/1D DP",
     "Main Notes/DSA/Dynamic Programming",
@@ -631,7 +638,6 @@
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Number Of Island 2.md",
     "HandwrittenNotes/FT_2025-06-02 10:14:01.264.png",
-    "HandwrittenNotes/No of islands 2.pdf",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Accounts Merge.md",
     "HandwrittenNotes/FT_2025-06-01 22:12:14.730.png",
     "Templates/dsa note.md",

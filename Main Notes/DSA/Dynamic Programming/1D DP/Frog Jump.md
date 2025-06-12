@@ -3,7 +3,6 @@
 *Status*: 
 
 *Tags*: [[dsa]] [[graph]] [[medium question]]
-
 # Frog Jump
 
 ##### Problem Statement

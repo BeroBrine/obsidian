@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Frog Jump With K Distances.",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Dynamic Programming/1D DP/Frog Jump With K Distances..md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Frog Jump With K Distances.\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":110},\"to\":{\"line\":27,\"ch\":110}},\"scroll\":23.362695599961288}"
+                },
+                {
                   "title": "Frog Jump",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Dynamic Programming/1D DP/Frog Jump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Frog Jump\"}",
@@ -322,12 +328,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Dynamic Programming/1D DP/Frog Jump With K Distances..md",
+                "file": "Main Notes/DSA/Dynamic Programming/1D DP/Maximum Sum of non-adjacent elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frog Jump With K Distances."
+              "title": "Maximum Sum of non-adjacent elements"
             }
           }
         ]
@@ -617,9 +623,10 @@
   },
   "active": "334dec3fc8d777f3",
   "lastOpenFiles": [
+    "Main Notes/DSA/Dynamic Programming/1D DP/Frog Jump With K Distances..md",
+    "Main Notes/DSA/Dynamic Programming/1D DP/Maximum Sum of non-adjacent elements.md",
     "HandwrittenNotes/Frog jump k.pdf",
     "Main Notes/DSA/Dynamic Programming/1D DP/Frog Jump.md",
-    "Main Notes/DSA/Dynamic Programming/1D DP/Frog Jump With K Distances..md",
     "HandwrittenNotes/Frog jump.pdf",
     "Main Notes/DSA/Dynamic Programming/1D DP/Climbing Stairs.md",
     "HandwrittenNotes/Climbing stairs.pdf",
@@ -640,7 +647,6 @@
     "Main Notes/DSA/Graphs/Other Algorithms/Bridges In Graph.md",
     "HandwrittenNotes/Bridges in graph.pdf",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Making A Large Island.md",
-    "Main Notes/DSA/Graphs/Other Algorithms",
     "HandwrittenNotes/FT_2025-06-03 09:51:46.970.png",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Rank And Size.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md",

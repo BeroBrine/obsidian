@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Frog Jump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Dynamic Programming/1D DP/Frog Jump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Frog Jump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":7.343302404597888}"
+                },
+                {
                   "title": "Climbing Stairs",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Dynamic Programming/1D DP/Climbing Stairs.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Climbing Stairs\"}",
@@ -316,12 +322,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Dynamic Programming/1D DP/Frog Jump.md",
+                "file": "Main Notes/DSA/Dynamic Programming/1D DP/Frog Jump With K Distances..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frog Jump"
+              "title": "Frog Jump With K Distances."
             }
           }
         ]
@@ -611,8 +617,11 @@
   },
   "active": "334dec3fc8d777f3",
   "lastOpenFiles": [
-    "Main Notes/DSA/Dynamic Programming/1D DP/Climbing Stairs.md",
+    "HandwrittenNotes/Frog jump k.pdf",
     "Main Notes/DSA/Dynamic Programming/1D DP/Frog Jump.md",
+    "Main Notes/DSA/Dynamic Programming/1D DP/Frog Jump With K Distances..md",
+    "HandwrittenNotes/Frog jump.pdf",
+    "Main Notes/DSA/Dynamic Programming/1D DP/Climbing Stairs.md",
     "HandwrittenNotes/Climbing stairs.pdf",
     "Tags/dp.md",
     "Main Notes/DSA/Graphs/Other Algorithms/Kosaraju's Algorithm.md",
@@ -633,7 +642,6 @@
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Making A Large Island.md",
     "Main Notes/DSA/Graphs/Other Algorithms",
     "HandwrittenNotes/FT_2025-06-03 09:51:46.970.png",
-    "HandwrittenNotes/Making a large island.pdf",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Rank And Size.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Number Of Island 2.md",
@@ -654,8 +662,6 @@
     "Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md",
     "Main Notes/DSA/Graphs/Theory/Minimum Spanning Tree.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Minimum Spanning Tree.md",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Find The City With The Smallest Number Of Neighbors In A Threshold Distance.md",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Floyd Warshall Algorithm.md",
-    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Algorithms/Bellman Ford Algorithm.md"
+    "Main Notes/DSA/Graphs/Shortest Path Algorithms and Problems/Hard/Find The City With The Smallest Number Of Neighbors In A Threshold Distance.md"
   ]
 }

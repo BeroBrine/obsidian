@@ -16,18 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Maximun Product Subarray",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Dynamic Programming/1D DP/Medium/Maximun Product Subarray.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Maximun Product Subarray\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":0},\"to\":{\"line\":32,\"ch\":0}},\"scroll\":30.161437595196205}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Dynamic Programming/1D DP/Medium/Maximun Product Subarray.md",
+                "file": "Main Notes/DSA/Dynamic Programming/1D DP/Medium/Longest Increasing Subsequence..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maximun Product Subarray"
+              "title": "Longest Increasing Subsequence."
             }
           }
         ]
@@ -318,6 +324,8 @@
   "active": "2da7bf982ac6331c",
   "lastOpenFiles": [
     "Main Notes/DSA/Dynamic Programming/1D DP/Medium/Maximun Product Subarray.md",
+    "Main Notes/DSA/Dynamic Programming/1D DP/Medium/Longest Increasing Subsequence..md",
+    "HandwrittenNotes/Max subarr product.pdf",
     "Main Notes/DSA/Dynamic Programming/1D DP/Medium",
     "Main Notes/DSA/Dynamic Programming/1D DP/Hard",
     "Main Notes/DSA/Dynamic Programming/1D DP/Maximum Sum of non-adjacent elements.md",
@@ -334,7 +342,6 @@
     "Main Notes/DSA/Dynamic Programming/1D DP",
     "Main Notes/DSA/Dynamic Programming",
     "HandwrittenNotes/Kosaraju algo.pdf",
-    "HandwrittenNotes/kosa algo.zip",
     "Main Notes/DSA/Graphs/Other Algorithms/Articulation Point.md",
     "HandwrittenNotes/FT_2025-06-04 10:00:45.960.png",
     "HandwrittenNotes/FT_2025-06-04 09:54:14.831.png",
@@ -361,7 +368,6 @@
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Size.md",
     "Excalidraw/Disjoint Set By Rank 2025-05-30 19.04.52.excalidraw.md",
     "Main Notes/DSA/Binary Search Tree/Problems/Hard/Convert BST To Doubly Linked List.md",
-    "Main Notes/DSA/Graphs/Theory/Minimum Spanning Tree.md",
-    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Minimum Spanning Tree.md"
+    "Main Notes/DSA/Graphs/Theory/Minimum Spanning Tree.md"
   ]
 }

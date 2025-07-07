@@ -30,14 +30,7 @@ ListNode* middle(ListNode* head) {
 }
 ```
 
-
-
-
-
-
-
-
 ## References
-- [striver sheet link]()
-- [yt video link]()
-- [leetcode question link]()
+- [striver sheet link](https://www.youtube.com/watch?v=sGdwSH8RK-o&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=28)
+- [leetcode question link](https://leetcode.com/problems/middle-of-the-linked-list/description/)
+- ![yt video link](https://www.youtube.com/watch?v=sGdwSH8RK-o&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=28)

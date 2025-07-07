@@ -17,7 +17,9 @@
 	- These will be initialized to the smaller head of both the linked list and move the head of the linked list in which it is initialized to Eg if list1 head is smaller , head and tail will become list1 and list1 will be moved next.
 	
 	- Now compare if list1->val < list2->val , if this is the case then we know that the list2 node must occurr later in the linked list , so what we do is tell the tail that this node is your next node , so tail -> next = list1 and then tail becomes list1 and list1 is moved further 
+	
 	- But if this is not the case , then we know that this node must occurr after the tail , wherever the tail is , so we append this node in front of the tail i.e tail -> next = list2 , tail becomes now list2 and list2 is moved further because we still need to compare for the list1 node. 
+	
 	- Now comes the case that if the list are not equal , so what we do is check which one of the list head is not null , for eg list2 is empty now but list1 remains , we still need to attach the list1 nodes to the final linked list. So we repeat the tail -> next = list1 , tail = list1 , list1 = list1 -> next , so that the nodes are appended. 
 	- *Remember the base cases*
 ### Code

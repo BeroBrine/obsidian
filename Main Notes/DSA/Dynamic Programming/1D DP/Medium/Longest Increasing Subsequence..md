@@ -43,6 +43,6 @@ Given an integer array nums, return the length of the longest strictly increasin
 ```cpp
 ```
 ## References
-- [striver sheet link]()
+- [striver sheet link](https://takeuforward.org/data-structure/longest-increasing-subsequence-dp-41/)
 - [leetcode question link]()
 - ![yt video link]()

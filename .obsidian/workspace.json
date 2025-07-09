@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Rotten Oranges",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Problems On Traversals/Medium/Rotten Oranges.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rotten Oranges\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Detect Cycle In Linked List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Detect Cycle In Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Detect Cycle In Linked List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":110,\"ch\":0},\"to\":{\"line\":110,\"ch\":0}},\"scroll\":101.23908176173212}"
+                },
+                {
                   "title": "Find Intersection Point of Y Linked List",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Find Intersection Point of Y Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Find Intersection Point of Y Linked List\"}",
@@ -112,12 +124,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Linked List/Medium/Detect Cycle In Linked List.md",
+                "file": "Main Notes/DSA/Linked List/Easy/Reverse A Linked List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Detect Cycle In Linked List"
+              "title": "Reverse A Linked List"
             }
           }
         ]
@@ -410,9 +422,10 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Main Notes/DSA/Graphs/Problems On Traversals/Medium/Rotten Oranges.md",
+    "Main Notes/DSA/Linked List/Medium/Detect Cycle In Linked List.md",
     "Images/Pasted image 20250709212148.png",
     "Main Notes/DSA/Linked List/Medium/Find Intersection Point of Y Linked List.md",
-    "Main Notes/DSA/Linked List/Medium/Detect Cycle In Linked List.md",
     "Main Notes/DSA/Linked List/Medium/Delete Node In A Linked List.md",
     "Main Notes/DSA/Linked List/Medium/Add Two Numbers.md",
     "Main Notes/DSA/Linked List/Medium/Remove Nth Node From Back Of The Linked List.md",
@@ -454,7 +467,6 @@
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Number Of Island 2.md",
     "HandwrittenNotes/FT_2025-06-02 10:14:01.264.png",
     "HandwrittenNotes/FT_2025-06-01 22:12:14.730.png",
-    "HandwrittenNotes/FT_2025-06-01 20:07:53.213.png",
-    "HandwrittenNotes/FT_2025-06-01 20:07:11.847.png"
+    "HandwrittenNotes/FT_2025-06-01 20:07:53.213.png"
   ]
 }

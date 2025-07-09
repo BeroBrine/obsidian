@@ -82,10 +82,16 @@ Follow up: Could you write a solution that runs in O(m + n) time and use only O(
 - When matching node is found , i.e both list contain a node at the same memory address (headA == headB) return the node
 
 ###### Hashing TC -> O(m + n) , SC -> O(m) 
-
-
-
-
+- In hashing , we hash the nodes of the first list using unordered_set.
+	- Then searching inside the set will O(1) 
+	- For each node in the list 2 , search it inside the set and if there's a match just return it.
+###### Positive Diff Approach
+- In this approach 
+	- We first find the length of both the linked list.
+	- We find the positive difference between them
+	- We move the head of the larger list till the positive diff
+	- Now both heads of the linked list are at equal starting points.
+	- Move both of the heads of the linked list and if both of the heads collide it's an intersection and return that node
 ##### Handwritten Notes
 ![[]]
 ##### Code

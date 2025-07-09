@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Remove Nth Node From Back Of The Linked List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Remove Nth Node From Back Of The Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Remove Nth Node From Back Of The Linked List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":69,\"ch\":0},\"to\":{\"line\":69,\"ch\":0}},\"scroll\":74.43649355615766}"
+                },
+                {
                   "title": "Convert Sorted Linked List to BST",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Convert Sorted Linked List to BST.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Convert Sorted Linked List to BST\"}",
@@ -88,12 +94,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Linked List/Medium/Remove Nth Node From Back Of The Linked List.md",
+                "file": "Main Notes/DSA/Linked List/Medium/Add Two Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Remove Nth Node From Back Of The Linked List"
+              "title": "Add Two Numbers"
             }
           }
         ]
@@ -382,10 +388,14 @@
     }
   },
   "active": "2da7bf982ac6331c",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": false
+  },
   "lastOpenFiles": [
+    "Main Notes/DSA/Linked List/Medium/Remove Nth Node From Back Of The Linked List.md",
+    "Main Notes/DSA/Linked List/Medium/Add Two Numbers.md",
     "HandwrittenNotes/Remove nth node.pdf",
     "Main Notes/DSA/Linked List/Medium/Convert Sorted Linked List to BST.md",
-    "Main Notes/DSA/Linked List/Medium/Remove Nth Node From Back Of The Linked List.md",
     "Main Notes/DSA/Linked List/Easy/Merge 2 Sorted Linked List.md",
     "Main Notes/DSA/Linked List/Traversal/Find The Middle Of The Linked List.md",
     "Main Notes/DSA/Graphs/Other Algorithms/().md",
@@ -409,7 +419,6 @@
     "Main Notes/DSA/Graphs/Other Algorithms/Kosaraju's Algorithm.md",
     "Main Notes/DSA/Dynamic Programming/1D DP",
     "Main Notes/DSA/Dynamic Programming",
-    "HandwrittenNotes/Kosaraju algo.pdf",
     "Main Notes/DSA/Graphs/Other Algorithms/Articulation Point.md",
     "HandwrittenNotes/FT_2025-06-04 10:00:45.960.png",
     "HandwrittenNotes/FT_2025-06-04 09:54:14.831.png",

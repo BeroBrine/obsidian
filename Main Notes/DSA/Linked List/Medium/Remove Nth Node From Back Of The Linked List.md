@@ -3,14 +3,10 @@
 *Status*:
 
 *Tags*: [[dsa]] [[linked list]] [[medium question]]
-
 # Remove Nth Node From Back Of The Linked List
 
 ##### Problem Statement
 Given the head of a linked list, remove the n^th node from the end of the list and return its head.
-
-
-
 Example 1:
 
 ![img](https://assets.leetcode.com/uploads/2020/10/03/remove_ex1.jpg)

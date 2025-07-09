@@ -47,6 +47,10 @@ Example 3:
 
 ###### Fast Slow Ptr (Optimal) SC -> O(1)
 - In this approach , fast slow pointers are used 
+	- Fast pointer is incremented by 2 nodes
+	- Slow pointer is incremented by 1 node.
+		- If there is a cycle in the linked list, then the fast pointer will catch up to the slow pointer and then it will be able to have sex sux phuddia paado
+
 
 
 

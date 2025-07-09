@@ -31,7 +31,12 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 	- Because we do not know the value of the first node of the returned linked list. Create a dummy node and a tail , tail will be initialized with the dummy node , using this tail pointer we will be creating the required linked list
 	- Create a variable called carry.
 	- Now create a loop until l1 and l2 are not null.
-		- 
+		- Calc the sum of the val1 and val2.
+			- Add the carry in it , initially the carry was 0.
+			- After the sum , get the last digit which will be done by % 10. 
+			- Find the carry by dividing by 10.
+			- Create a new linked list node whose value will be lastDigit. 
+			-  
 
 
 

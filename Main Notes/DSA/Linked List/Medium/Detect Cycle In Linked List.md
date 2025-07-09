@@ -39,10 +39,14 @@ Example 3:
 * pos is -1 or a valid index in the linked-list.
 ##### Solution
 - This has two approaches
-###### Bruteforce
-- The bruteforce consists
+###### Bruteforce - TC->O(n) , SC->O(n)
+- The bruteforce approach consists of hashing the nodes just like 2nd approach in [[Find Intersection Point of Y Linked List]].
+	- Traverse the linked list and hash the nodes inside of the set. 
+	- If there's a cycle , there will be a hit for the hashed node and it will return true
+	- If there is not a cycle , then the loop will end and it will return false.
 
-
+###### Fast Slow Ptr (Optimal) SC -> O(1)
+- In this approach , fast slow pointers are used 
 
 
 
@@ -50,6 +54,7 @@ Example 3:
 ![[]]
 ##### Code
 ```cpp
+#include <unordered_set>
 struct ListNode {
   int val;
   ListNode *next;
@@ -58,15 +63,25 @@ struct ListNode {
   ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 // @leet start
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode(int x) : val(x), next(NULL) {}
+ * };
+ */
 class Solution {
 public:
   bool hasCycle(ListNode *head) {
     if (head == nullptr)
       return false;
+
     ListNode *fast = head;
     ListNode *slow = head;
 
     int itr = 0;
+
     while (fast and fast->next) {
 
       fast = fast->next->next;
@@ -78,7 +93,22 @@ public:
     }
     return false;
   }
+
+  bool bruteforceHashing(ListNode *head) {
+    std::unordered_set<ListNode *> set;
+
+    while (head != nullptr) {
+      if (set.find(head) != set.end()) {
+        return true;
+      }
+      set.insert(head);
+      head = head->next;
+    }
+    return false;
+  }
 };
+// @leet end
+
 // @leet end
 ```
 ## References

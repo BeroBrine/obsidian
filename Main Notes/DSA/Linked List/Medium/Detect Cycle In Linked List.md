@@ -49,10 +49,10 @@ Example 3:
 - In this approach , fast slow pointers are used 
 	- Fast pointer is incremented by 2 nodes
 	- Slow pointer is incremented by 1 node.
-		- If there is a cycle in the linked list, then the fast pointer will catch up to the slow pointer and then it will be able to have sex sux phuddia paado
-
-
-
+		- If there is a cycle in the linked list, then the fast pointer will catch up to the slow pointer and if they meet surely there's a cycle in the linked list. 
+		- Is there a case in which fast overshoots the slow? 
+			- No there isn't
+			![[Pasted image 20250709212148.png]]
 
 ##### Handwritten Notes
 ![[]]
@@ -67,14 +67,6 @@ struct ListNode {
   ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 // @leet start
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode(int x) : val(x), next(NULL) {}
- * };
- */
 class Solution {
 public:
   bool hasCycle(ListNode *head) {
@@ -113,7 +105,6 @@ public:
 };
 // @leet end
 
-// @leet end
 ```
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/detect-a-cycle-in-a-linked-list/)

@@ -36,10 +36,13 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 			- After the sum , get the last digit which will be done by % 10. 
 			- Find the carry by dividing by 10.
 			- Create a new linked list node whose value will be lastDigit. 
-			-  
+			- now tail's next will point to this node and then tail will become this node essentially moving the tail forward.
+			- After this loop ends , we are essentially sure that the shorter of both lists are exhausted.
+				- But there may be a case where one of the list is still pending. 
+				- Rerun the loop for both the list again , exhausting the remaining list.
+		- Now at the end if the carry is still 1 , meaning we have to create a new node with value 1 and then append it. 
 
-
-
+- We are returning dummy -> next because essentialy here is the first node that was actually calculated with the values. 
 
 ##### Handwritten Notes
 ![[]]

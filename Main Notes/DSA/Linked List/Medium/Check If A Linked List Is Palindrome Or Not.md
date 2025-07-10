@@ -20,144 +20,148 @@ Example 2:
 │ Input: head = [1,2]
 │ Output: false
 
-
-
  Constraints:
 * The number of nodes in the list is in the range [1, 10^5].
 
 * 0 <= Node.val <= 9
-
-
-
 Follow up: Could you do it in O(n) time and O(1) space?
-
-
-
-
-
-
-
 ##### Solution
-- 
+- There are two approach to this question
+###### Bruteforce -> O(N) + O(N)
+- Just make a new clone of the list and reverse it.
+	- Compare both the heads of the original and the reversed cloned list.
+		- If the heads do not match it is not a linked list.
 
-
-
-
+###### Optimised -> O(N) + O(1)
+- In this approach , what we are essentialy doing is [[Reverse A Linked List]] from the middle node of the list found with [[Find The Middle Of The Linked List]].
+	- For this we need the previous node from the middle node 
+		- To find this just add fast -> next -> next so the iteration will stop at last 2nd node.
+			- Slow ptr will essentially be at the one minus middle node.
+	- Now after this prev node is found , the middle node is prev -> next.
+		- Reverse the linked list using this prev-> next. 
+		- Connect with the previous linked list using slow -> next = newRevHead;
+	- Now start comparing with the original head and the head of the reversedLinkedList which is the newRevHead.
+	- If any value differ , just set the flag to false
+		- Why are we not returning here , because we always persist the original data.
+		- After the palindrome check , reverse the reversed half list and reconnect.
+			- Essentially restoring the original form of the list again.
 
 ##### Handwritten Notes
 ![[]]
 ##### Code
 ```cpp
+#include <bits/stdc++.h>
+using namespace std;
+struct ListNode {
+int val;
+ListNode *next;
+ListNode() : val(0), next(nullptr) {}
+ListNode(int x) : val(x), next(nullptr) {}
+ListNode(int x, ListNode *next) : val(x), next(next) {}
+};
+// @leet start
+/**
+*
+* Definition for singly-linked list.
+* struct ListNode {
+*     int val;
+*     ListNode *next;
+*     ListNode() : val(0), next(nullptr) {}
+*     ListNode(int x) : val(x), next(nullptr) {}
+*     ListNode(int x, ListNode *next) : val(x), next(next) {}
+* };
+*/
 class Solution {
 public:
-  bool isPalindrome(ListNode *head) {
-    auto itr = head;
-    int len = getLLlength(itr);
-
-    if (len == 1)
-      return true;
-    bool evenLen = len % 2 == 0 ? true : false;
-
-    ListNode *fast = head;
-    ListNode *middleNode = head;
-    while (fast->next->next) {
-      fast = fast->next->next;
-      middleNode = middleNode->next;
-    }
-    ListNode *nextHead = middleNode->next;
-    if (evenLen) {
-      ListNode *dummy = new ListNode(-1);
-      middleNode->next = dummy;
-      dummy->next = nextHead;
-      middleNode = middleNode->next;
-    }
-
-    ListNode *tailPtr = revLL(middleNode);
-
-    while (head != tailPtr) {
-      if (head->val != tailPtr->val)
-        return false;
-      head = head->next;
-      tailPtr = tailPtr->next;
-    }
-
-    return true;
-  }
-
-  int getLLlength(ListNode *head) {
-    int len = 0;
-    while (head) {
-      head = head->next;
-      len++;
-    }
-    return len;
-  }
-
-  ListNode *revLL(ListNode *head) {
-    ListNode *curr = head;
-    ListNode *prev = nullptr;
-
-    while (curr) {
-      ListNode *temp = curr->next;
-      curr->next = prev;
-      prev = curr;
-      curr = temp;
-    }
-    return prev;
-  }
-
-  bool bruteforce(ListNode *head) {
-
-    ListNode *newListHead = new ListNode(0);
-    newListHead->next = head;
-    ListNode *itr = head;
-    ListNode *prevItr = newListHead;
-    ListNode *curr = head;
-    ListNode *prev = nullptr;
-
-    while (itr) {
-      ListNode *temp = new ListNode(itr->val);
-      prevItr->next = temp;
-      prevItr = temp;
-      itr = itr->next;
-    }
-    auto actualHead = newListHead->next;
-    delete newListHead;
-
-    ListNode *revHead = reverseLL(actualHead);
-    ListNode *revItr = revHead;
-    while (head and revHead) {
-      if (head->val != revHead->val)
-        return false;
-      head = head->next;
-      revHead = revHead->next;
-    }
-
-    return true;
-  }
-
-  void printList(ListNode *itr) {
-    while (itr) {
-      cout << itr->val << ' ';
-      itr = itr->next;
-    }
-    cout << endl;
-  }
-
-  ListNode *reverseLL(ListNode *head) {
-    ListNode *curr = head;
-    ListNode *prev = nullptr;
-
-    while (curr) {
-      ListNode *temp = curr->next;
-      curr->next = prev;
-
-      prev = curr;
-      curr = temp;
-    }
-    return prev;
-  }
+bool isPalindrome(ListNode *head) {
+	auto itr = head;
+	ListNode *fast = head;
+	ListNode *slow = head;
+	while (fast and fast->next and fast->next->next) {
+	fast = fast->next->next;
+	slow = slow->next;
+	}
+	ListNode *nextHead = slow->next;
+	auto headTailPair = revLL(nextHead);
+	ListNode *headOfRev = headTailPair.first;
+	ListNode *headOfRevItr = headTailPair.first;
+	ListNode *tailOfRev = headTailPair.second;
+	slow->next = headOfRev;
+	bool flag = true;
+	while (headOfRev) {
+	if (head->val != headOfRev->val)
+		flag = false;
+	head = head->next;
+	headOfRev = headOfRev->next;
+	}
+	ListNode *newHead = revLL(headOfRevItr).first;
+	slow->next = newHead;
+	return flag;
+}
+int getLLlength(ListNode *head) {
+	int len = 0;
+	while (head) {
+	head = head->next;
+	len++;
+	}
+	return len;
+}
+pair<ListNode *, ListNode *> revLL(ListNode *head) {
+	ListNode *curr = head;
+	ListNode *prev = nullptr;
+	while (curr) {
+	ListNode *temp = curr->next;
+	curr->next = prev;
+	prev = curr;
+	curr = temp;
+	}
+	return {prev, head};
+}
+bool bruteforce(ListNode *head) {
+	ListNode *newListHead = new ListNode(0);
+	newListHead->next = head;
+	ListNode *itr = head;
+	ListNode *prevItr = newListHead;
+	ListNode *curr = head;
+	ListNode *prev = nullptr;
+	while (itr) {
+	ListNode *temp = new ListNode(itr->val);
+	prevItr->next = temp;
+	prevItr = temp;
+	itr = itr->next;
+	}
+	auto actualHead = newListHead->next;
+	delete newListHead;
+	ListNode *revHead = reverseLL(actualHead);
+	ListNode *revItr = revHead;
+	while (head and revHead) {
+	if (head->val != revHead->val)
+		return false;
+	head = head->next;
+	revHead = revHead->next;
+	}
+	return true;
+}
+void printList(ListNode *itr) {
+	while (itr) {
+	cout << itr->val << ' ';
+	itr = itr->next;
+	}
+	cout << endl;
+}
+ListNode *reverseLL(ListNode *head) {
+	ListNode *curr = head;
+	ListNode *prev = nullptr;
+	while (curr) {
+	ListNode *temp = curr->next;
+	curr->next = prev;
+	prev = curr;
+	curr = temp;
+	}
+	return prev;
+}
 };
+// @leet end
 
 
 ```

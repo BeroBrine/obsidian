@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Reverse A Linked List In Size Of K",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Hard/Reverse A Linked List In Size Of K.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Reverse A Linked List In Size Of K\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":153,\"ch\":110},\"to\":{\"line\":153,\"ch\":110}},\"scroll\":139.97345050035764}"
+                },
+                {
                   "title": "Add Two Numbers",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Add Two Numbers.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Add Two Numbers\"}",
@@ -136,12 +142,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Linked List/Medium/Reverse A Linked List In Size Of K.md",
+                "file": "Main Notes/DSA/Linked List/Medium/Check If A Linked List Is Palindrome Or Not.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse A Linked List In Size Of K"
+              "title": "Check If A Linked List Is Palindrome Or Not"
             }
           }
         ]
@@ -434,8 +440,11 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Main Notes/DSA/Linked List/Hard/Reverse A Linked List In Size Of K.md",
+    "Main Notes/DSA/Linked List/Medium/Check If A Linked List Is Palindrome Or Not.md",
+    "Main Notes/DSA/Linked List/Hard",
+    "HandwrittenNotes/Reverse in groups of k.pdf",
     "Main Notes/DSA/Linked List/Medium/Add Two Numbers.md",
-    "Main Notes/DSA/Linked List/Medium/Reverse A Linked List In Size Of K.md",
     "Main Notes/DSA/Linked List/Easy/Reverse A Linked List.md",
     "Main Notes/DSA/Graphs/Problems On Traversals/Medium/Rotten Oranges.md",
     "Main Notes/DSA/Linked List/Medium/Detect Cycle In Linked List.md",
@@ -465,8 +474,6 @@
     "HandwrittenNotes/Climbing stairs.pdf",
     "Tags/dp.md",
     "Main Notes/DSA/Graphs/Other Algorithms/Kosaraju's Algorithm.md",
-    "Main Notes/DSA/Dynamic Programming/1D DP",
-    "Main Notes/DSA/Dynamic Programming",
     "Main Notes/DSA/Graphs/Other Algorithms/Articulation Point.md",
     "HandwrittenNotes/FT_2025-06-04 10:00:45.960.png",
     "HandwrittenNotes/FT_2025-06-04 09:54:14.831.png",
@@ -476,7 +483,6 @@
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Making A Large Island.md",
     "HandwrittenNotes/FT_2025-06-03 09:51:46.970.png",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Rank And Size.md",
-    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md",
     "HandwrittenNotes/FT_2025-06-02 10:14:01.264.png",
     "HandwrittenNotes/FT_2025-06-01 22:12:14.730.png",
     "HandwrittenNotes/FT_2025-06-01 20:07:53.213.png"

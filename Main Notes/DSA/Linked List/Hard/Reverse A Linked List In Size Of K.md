@@ -42,13 +42,22 @@ Follow-up: Can you solve the problem in O(1) extra memory space?
 	- To do this , move the itr pointer by k - 1 steps
 		- It will now point to the tail of the list
 		- We also need a pointer to the head of the list that need to be reversed
-
-
-
-
+		- After we reach the tail node , store the next node and make the tail-> next point to null for reversal.
+		- Reverse the list.
+			- Now after reversing we are returning both it's head and tail 
+				- The reason is we need the head of the first linked list that is reversed , it is our answer , and to also connect the tail of last linked list to the head of the current linked list.
+				- To achieve this just have a bool firstIteration and point a pointer towards the head of the first linked list and then make the firstIteration false so the if statement is never executed again
+			- After this , we know we want to connect the tail of the last linked list to the head of the new linked list , but for the first iteration , there is no tail to connect to , that's where firstIteration block comes into play 
+			- For every other list , the next of the prevTail points to the head
+			- After this update all the pointers
+				- prevTail = tail of the current linked list 
+				- The tail of the current linked list now points to the nextNode
+				- now the pointer that was used to find the tail of the group becomes the nextNode that was stored before making the tail -> next = nullptr;
+				- and the pointer that points to head of the group of nodes is also nextNode.
+	- After all the parts are exhausted , return the newHead that was assigned after the first iteration.
 
 ##### Handwritten Notes
-![[]]
+![[Reverse in groups of k.pdf]]
 ##### Code
 ```cpp
 #include <utility>
@@ -142,4 +151,4 @@ public:
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/reverse-linked-list-in-groups-of-size-k/)
 - [leetcode question link](https://leetcode.com/problems/reverse-nodes-in-k-group/)
-- ![yt video link]()
+- ![yt video link](https://www.youtube.com/watch?v=Of0HPkk3JgI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=34)

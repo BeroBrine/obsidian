@@ -12,10 +12,7 @@ k is a positive integer and is less than or equal to the length of the linked li
 
 You may not alter the values in the list's nodes, only nodes themselves may be changed.
 
-
-
 Example 1:
-
 ![img](https://assets.leetcode.com/uploads/2020/10/03/reverse_ex1.jpg)
 │ Input: head = [1,2,3,4,5], k = 2
 │ Output: [2,1,4,3,5]
@@ -35,7 +32,16 @@ Example 2:
 Follow-up: Can you solve the problem in O(1) extra memory space?
 
 ##### Solution
-- 
+- The prerequisite for this question is [[Reverse A Linked List]]
+- We are given k , which is the group size.
+	- We need to divide the linked list into parts
+	- Parts = length of linked list / k
+- Now for each part , we need to reverse it and connect it's tail to the head of the next list. 
+- We know to reverse a linked list , we need it's tail to point to null. 
+	- take a itr pointer which will point to the tail of the linked list that needs to be reversed.
+	- To do this , move the itr pointer by k - 1 steps
+		- It will now point to the tail of the list
+		- We also need a pointer to the head of the list that need to be reversed
 
 
 

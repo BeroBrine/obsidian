@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Add Two Numbers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Add Two Numbers.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Add Two Numbers\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Reverse A Linked List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Easy/Reverse A Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Reverse A Linked List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":0},\"to\":{\"line\":58,\"ch\":0}},\"scroll\":0.6085985909487679}"
+                },
+                {
                   "title": "Rotten Oranges",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Problems On Traversals/Medium/Rotten Oranges.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rotten Oranges\"}",
@@ -124,12 +136,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Linked List/Easy/Reverse A Linked List.md",
+                "file": "Main Notes/DSA/Linked List/Medium/Reverse A Linked List In Size Of K.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse A Linked List"
+              "title": "Reverse A Linked List In Size Of K"
             }
           }
         ]
@@ -422,19 +434,20 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Main Notes/DSA/Linked List/Medium/Add Two Numbers.md",
+    "Main Notes/DSA/Linked List/Medium/Reverse A Linked List In Size Of K.md",
+    "Main Notes/DSA/Linked List/Easy/Reverse A Linked List.md",
     "Main Notes/DSA/Graphs/Problems On Traversals/Medium/Rotten Oranges.md",
     "Main Notes/DSA/Linked List/Medium/Detect Cycle In Linked List.md",
     "Images/Pasted image 20250709212148.png",
     "Main Notes/DSA/Linked List/Medium/Find Intersection Point of Y Linked List.md",
     "Main Notes/DSA/Linked List/Medium/Delete Node In A Linked List.md",
-    "Main Notes/DSA/Linked List/Medium/Add Two Numbers.md",
     "Main Notes/DSA/Linked List/Medium/Remove Nth Node From Back Of The Linked List.md",
     "HandwrittenNotes/Remove nth node.pdf",
     "Main Notes/DSA/Linked List/Medium/Convert Sorted Linked List to BST.md",
     "Main Notes/DSA/Linked List/Easy/Merge 2 Sorted Linked List.md",
     "Main Notes/DSA/Linked List/Traversal/Find The Middle Of The Linked List.md",
     "Main Notes/DSA/Graphs/Other Algorithms/().md",
-    "Main Notes/DSA/Linked List/Easy/Reverse A Linked List.md",
     "HandwrittenNotes/FT_2025-07-07 21:25:57.297.png",
     "Main Notes/DSA/Dynamic Programming/1D DP/Frog Jump.md",
     "Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md",
@@ -464,7 +477,6 @@
     "HandwrittenNotes/FT_2025-06-03 09:51:46.970.png",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Disjoint Set Union By Rank And Size.md",
     "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Algorithms/Kruskal's Algorithm.md",
-    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Number Of Island 2.md",
     "HandwrittenNotes/FT_2025-06-02 10:14:01.264.png",
     "HandwrittenNotes/FT_2025-06-01 22:12:14.730.png",
     "HandwrittenNotes/FT_2025-06-01 20:07:53.213.png"

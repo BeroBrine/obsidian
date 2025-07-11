@@ -40,18 +40,68 @@ Example 3:
 
 Follow up: Can you solve it using O(1) (i.e. constant) memory?
 ##### Solution
--  
+- This has two solutions 
+###### Bruteforce
+- This approach is similar to the [[Detect Cycle In Linked List#Bruteforce - TC->O(n) , SC->O(n)]]
+	- Hash the sets and if the node is encountered again , return it. If there is none , return nullptr.
 
-
+##### Optimal
+- This one is based on the math equation in handwritten notes.
+	- After fast and slow pointers meet at a point.
+	- Reset the slow pointer to head and move both one at a time.
+	- When both meet , they meet at the point where the loop starts
 
 
 
 ##### Handwritten Notes
-![[]]
+![[FT_2025-07-10 21:00:51.968.png]]
 ##### Code
 ```cpp
+class Solution {
+public:
+    ListNode *detectCycle(ListNode *head) {
+        if(!head) return nullptr;
+        ListNode* fast = head;
+        ListNode* slow = head;
+
+        bool isCycle = false;
+        while(fast and fast->next) {
+            fast = fast -> next -> next;
+            slow = slow -> next;
+
+            if(fast == slow) {
+                isCycle = true;
+                break;
+            }
+
+        }
+        if(!isCycle) return nullptr;
+        slow = head; 
+
+        while(slow != fast) {
+            slow = slow -> next;
+            fast = fast -> next;
+        }
+        return slow;
+
+    }
+
+    ListNode* bruteForce(ListNode* head) {
+        unordered_set<ListNode*> set;
+        while(head) {
+            if(set.find(head) != set.end()) {
+                return head;
+            }
+            else {
+                set.insert(head);
+            }
+            head = head-> next;
+        }
+        return nullptr;
+    }
+};
 ```
 ## References
-- [striver sheet link]()
-- [leetcode question link]()
-- ![yt video link]()
+- [striver sheet link](https://takeuforward.org/data-structure/starting-point-of-loop-in-a-linked-list/)
+- [leetcode question link](https://leetcode.com/problems/linked-list-cycle-ii/)
+- ![yt video link](https://www.youtube.com/watch?v=QfbOhn0WZ88&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=37)

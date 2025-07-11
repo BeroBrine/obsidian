@@ -11,8 +11,14 @@
             "id": "2da7bf982ac6331c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "FT_2025-07-10 21:00:51.968",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"HandwrittenNotes/FT_2025-07-10 21:00:51.968.png\"},\"icon\":\"lucide-image\",\"title\":\"FT_2025-07-10 21:00:51.968\"}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -446,15 +452,16 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Main Notes/DSA/Linked List/Medium/Check If A Linked List Is Palindrome Or Not.md",
+    "HandwrittenNotes/FT_2025-07-10 21:00:51.968.png",
     "Main Notes/DSA/Linked List/Medium/Find the Starting Point Of Cycle.md",
+    "Main Notes/DSA/Linked List/Medium/Detect Cycle In Linked List.md",
+    "Main Notes/DSA/Linked List/Medium/Check If A Linked List Is Palindrome Or Not.md",
     "Main Notes/DSA/Linked List/Hard/Reverse A Linked List In Size Of K.md",
     "Main Notes/DSA/Linked List/Hard",
     "HandwrittenNotes/Reverse in groups of k.pdf",
     "Main Notes/DSA/Linked List/Medium/Add Two Numbers.md",
     "Main Notes/DSA/Linked List/Easy/Reverse A Linked List.md",
     "Main Notes/DSA/Graphs/Problems On Traversals/Medium/Rotten Oranges.md",
-    "Main Notes/DSA/Linked List/Medium/Detect Cycle In Linked List.md",
     "Images/Pasted image 20250709212148.png",
     "Main Notes/DSA/Linked List/Medium/Find Intersection Point of Y Linked List.md",
     "Main Notes/DSA/Linked List/Medium/Delete Node In A Linked List.md",
@@ -487,10 +494,8 @@
     "HandwrittenNotes/FT_2025-06-04 09:49:15.232.png",
     "Images/Pasted image 20250604094036.png",
     "Main Notes/DSA/Graphs/Other Algorithms/Bridges In Graph.md",
-    "Main Notes/DSA/Graphs/Minimum Spanning Tree Disjoint Set Problems/Hard/Making A Large Island.md",
     "HandwrittenNotes/FT_2025-06-03 09:51:46.970.png",
     "HandwrittenNotes/FT_2025-06-02 10:14:01.264.png",
-    "HandwrittenNotes/FT_2025-06-01 22:12:14.730.png",
-    "HandwrittenNotes/FT_2025-06-01 20:07:53.213.png"
+    "HandwrittenNotes/FT_2025-06-01 22:12:14.730.png"
   ]
 }

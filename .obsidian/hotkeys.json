@@ -21,22 +21,6 @@
     }
   ],
   "editor:toggle-bold": [],
-  "switcher:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "'"
-    }
-  ],
-  "obsidian-git:push": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "G"
-    }
-  ],
   "pane-relief:go-next": [
     {
       "modifiers": [
@@ -98,6 +82,31 @@
         "Alt"
       ],
       "key": "["
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "'"
     }
   ]
 }

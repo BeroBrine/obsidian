@@ -10,6 +10,15 @@
           {
             "id": "2da7bf982ac6331c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
@@ -37,6 +46,15 @@
           {
             "id": "6449d8c70046fbe3",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -50,6 +68,15 @@
           {
             "id": "3b1d6958970d2ae4",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
@@ -67,6 +94,15 @@
           {
             "id": "6781179852e10587",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "bookmarks",
               "state": {},
@@ -77,6 +113,15 @@
           {
             "id": "67b39f3d2b857db4",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "graph",
               "state": {},
@@ -103,6 +148,15 @@
           {
             "id": "1cf54206a9eaa9c7",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
@@ -117,6 +171,15 @@
           {
             "id": "f1b268a55f5bd9ac",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -132,6 +195,15 @@
           {
             "id": "02b124b4fea35516",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
               "state": {
@@ -153,6 +225,15 @@
           {
             "id": "8c7b51e71a6a2970",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "backlink",
               "state": {
@@ -179,6 +260,15 @@
           {
             "id": "b0ef9787c61e59b6",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "calendar",
               "state": {},
@@ -200,7 +290,10 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
   "active": "2da7bf982ac6331c",

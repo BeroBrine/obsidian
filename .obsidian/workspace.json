@@ -10,147 +10,6 @@
           {
             "id": "2da7bf982ac6331c",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "FT_2025-07-10 21:00:51.968",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"HandwrittenNotes/FT_2025-07-10 21:00:51.968.png\"},\"icon\":\"lucide-image\",\"title\":\"FT_2025-07-10 21:00:51.968\"}",
-                  "eState": "{}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Check If A Linked List Is Palindrome Or Not",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Check If A Linked List Is Palindrome Or Not.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Check If A Linked List Is Palindrome Or Not\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":170,\"ch\":112},\"to\":{\"line\":170,\"ch\":112}},\"scroll\":85.79029485409767}"
-                },
-                {
-                  "title": "Reverse A Linked List In Size Of K",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Hard/Reverse A Linked List In Size Of K.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Reverse A Linked List In Size Of K\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":153,\"ch\":110},\"to\":{\"line\":153,\"ch\":110}},\"scroll\":139.97345050035764}"
-                },
-                {
-                  "title": "Add Two Numbers",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Add Two Numbers.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Add Two Numbers\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Reverse A Linked List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Easy/Reverse A Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Reverse A Linked List\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":0},\"to\":{\"line\":58,\"ch\":0}},\"scroll\":0.6085985909487679}"
-                },
-                {
-                  "title": "Rotten Oranges",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Problems On Traversals/Medium/Rotten Oranges.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rotten Oranges\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Detect Cycle In Linked List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Detect Cycle In Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Detect Cycle In Linked List\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":110,\"ch\":0},\"to\":{\"line\":110,\"ch\":0}},\"scroll\":101.23908176173212}"
-                },
-                {
-                  "title": "Find Intersection Point of Y Linked List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Find Intersection Point of Y Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Find Intersection Point of Y Linked List\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":93},\"to\":{\"line\":28,\"ch\":93}},\"scroll\":26.91457840673094}"
-                },
-                {
-                  "title": "Delete Node In A Linked List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Delete Node In A Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Delete Node In A Linked List\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":76,\"ch\":0},\"to\":{\"line\":76,\"ch\":0}},\"scroll\":63.844607931472346}"
-                },
-                {
-                  "title": "Add Two Numbers",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Add Two Numbers.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Add Two Numbers\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":119},\"to\":{\"line\":44,\"ch\":119}},\"scroll\":39.72187673613119}"
-                },
-                {
-                  "title": "Remove Nth Node From Back Of The Linked List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Remove Nth Node From Back Of The Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Remove Nth Node From Back Of The Linked List\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":69,\"ch\":0},\"to\":{\"line\":69,\"ch\":0}},\"scroll\":74.43649355615766}"
-                },
-                {
-                  "title": "Convert Sorted Linked List to BST",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Convert Sorted Linked List to BST.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Convert Sorted Linked List to BST\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Merge 2 Sorted Linked List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Easy/Merge 2 Sorted Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Merge 2 Sorted Linked List\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":37.42821664135894}"
-                },
-                {
-                  "title": "Find The Middle Of The Linked List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Traversal/Find The Middle Of The Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Find The Middle Of The Linked List\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":114},\"to\":{\"line\":33,\"ch\":114}},\"scroll\":19.063115890324664}"
-                },
-                {
-                  "title": "Merge 2 Sorted Linked List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Easy/Merge 2 Sorted Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Merge 2 Sorted Linked List\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":92},\"to\":{\"line\":18,\"ch\":92}},\"scroll\":6.056449726546116}"
-                },
-                {
-                  "title": "Find The Middle Of The Linked List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Traversal/Find The Middle Of The Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Find The Middle Of The Linked List\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":8.133630420739536}"
-                },
-                {
-                  "title": "Reverse A Linked List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Easy/Reverse A Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Reverse A Linked List\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":134},\"to\":{\"line\":84,\"ch\":134}},\"scroll\":65.75103870229836}"
-                },
-                {
-                  "title": "Frog Jump",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Dynamic Programming/1D DP/Frog Jump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Frog Jump\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":309},\"to\":{\"line\":8,\"ch\":309}},\"scroll\":5.011763107158176}"
-                },
-                {
-                  "title": "Check If Same Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Check If Same Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":41.92060935069715}"
-                },
-                {
-                  "title": "Reverse A Linked List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Easy/Reverse A Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Reverse A Linked List\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":85},\"to\":{\"line\":27,\"ch\":85}},\"scroll\":15.458293538921811}"
-                },
-                {
-                  "title": "Longest Increasing Subsequence.",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Dynamic Programming/1D DP/Medium/Longest Increasing Subsequence..md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Longest Increasing Subsequence.\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Maximun Product Subarray",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Dynamic Programming/1D DP/Medium/Maximun Product Subarray.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Maximun Product Subarray\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":0},\"to\":{\"line\":32,\"ch\":0}},\"scroll\":30.161437595196205}"
-                }
-              ]
-            },
             "state": {
               "type": "markdown",
               "state": {
@@ -178,15 +37,6 @@
           {
             "id": "6449d8c70046fbe3",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -200,15 +50,6 @@
           {
             "id": "3b1d6958970d2ae4",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "search",
               "state": {
@@ -226,15 +67,6 @@
           {
             "id": "6781179852e10587",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "bookmarks",
               "state": {},
@@ -245,33 +77,6 @@
           {
             "id": "67b39f3d2b857db4",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Check If Same Tree",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Check If Same Tree\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Check Height Balanced",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Medium Question/Check Height Balanced.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Check Height Balanced\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Level Order Traversal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Binary Trees/Traversals/Level Order Traversal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Level Order Traversal\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":1},\"to\":{\"line\":0,\"ch\":1}},\"scroll\":0.7317073170731707}"
-                }
-              ]
-            },
             "state": {
               "type": "graph",
               "state": {},
@@ -298,15 +103,6 @@
           {
             "id": "1cf54206a9eaa9c7",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "outgoing-link",
               "state": {
@@ -321,15 +117,6 @@
           {
             "id": "f1b268a55f5bd9ac",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "tag",
               "state": {
@@ -345,15 +132,6 @@
           {
             "id": "02b124b4fea35516",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "outline",
               "state": {
@@ -375,15 +153,6 @@
           {
             "id": "8c7b51e71a6a2970",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "backlink",
               "state": {
@@ -410,20 +179,11 @@
           {
             "id": "b0ef9787c61e59b6",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -435,22 +195,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false,
-      "vault-2-book:Obsidian 2 Book: Generate a book from a specified folder": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "2da7bf982ac6331c",
-  "ophidian:layout-settings": {
-    "pane-relief:focus-lock": false
-  },
   "lastOpenFiles": [
     "HandwrittenNotes/FT_2025-07-10 21:00:51.968.png",
     "Main Notes/DSA/Linked List/Medium/Find the Starting Point Of Cycle.md",

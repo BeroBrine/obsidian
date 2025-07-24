@@ -21,6 +21,18 @@
                   "title": "Flattening of Linked List",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Hard/Flattening of Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Flattening of Linked List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0.7276422764227642}"
+                },
+                {
+                  "title": "Merge 2 Sorted Linked List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Easy/Merge 2 Sorted Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Merge 2 Sorted Linked List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0.7276422764227642}"
+                },
+                {
+                  "title": "Flattening of Linked List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Hard/Flattening of Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Flattening of Linked List\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":2},\"to\":{\"line\":29,\"ch\":2}},\"scroll\":10.650260416666667}"
                 },
                 {
@@ -34,12 +46,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Linked List/Easy/Merge 2 Sorted Linked List.md",
+                "file": "Main Notes/DSA/Linked List/Medium/Rotate A Linked List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merge 2 Sorted Linked List"
+              "title": "Rotate A Linked List"
             }
           }
         ]
@@ -311,6 +323,10 @@
   "active": "2da7bf982ac6331c",
   "lastOpenFiles": [
     "Main Notes/DSA/Linked List/Hard/Flattening of Linked List.md",
+    "Main Notes/DSA/Linked List/Medium/Rotate A Linked List.md",
+    "HandwrittenNotes/Flatten linked list.pdf",
+    "Images/Pasted image 20250724192528.png",
+    "Main Notes/DSA/Linked List/Easy/Merge 2 Sorted Linked List.md",
     "Main Notes/DSA/Linked List/Medium/Find the Starting Point Of Cycle.md",
     "HandwrittenNotes/FT_2025-07-10 21:00:51.968.png",
     "Main Notes/DSA/Linked List/Medium/Detect Cycle In Linked List.md",
@@ -327,7 +343,6 @@
     "Main Notes/DSA/Linked List/Medium/Remove Nth Node From Back Of The Linked List.md",
     "HandwrittenNotes/Remove nth node.pdf",
     "Main Notes/DSA/Linked List/Medium/Convert Sorted Linked List to BST.md",
-    "Main Notes/DSA/Linked List/Easy/Merge 2 Sorted Linked List.md",
     "Main Notes/DSA/Linked List/Traversal/Find The Middle Of The Linked List.md",
     "Main Notes/DSA/Graphs/Other Algorithms/().md",
     "HandwrittenNotes/FT_2025-07-07 21:25:57.297.png",
@@ -344,7 +359,6 @@
     "HandwrittenNotes/Frog jump k.pdf",
     "HandwrittenNotes/Frog jump.pdf",
     "Main Notes/DSA/Dynamic Programming/1D DP/Climbing Stairs.md",
-    "HandwrittenNotes/Climbing stairs.pdf",
     "Tags/dp.md",
     "Main Notes/DSA/Graphs/Other Algorithms/Kosaraju's Algorithm.md",
     "Main Notes/DSA/Graphs/Other Algorithms/Articulation Point.md",
@@ -352,9 +366,7 @@
     "HandwrittenNotes/FT_2025-06-04 09:54:14.831.png",
     "HandwrittenNotes/FT_2025-06-04 09:49:15.232.png",
     "Images/Pasted image 20250604094036.png",
-    "Main Notes/DSA/Graphs/Other Algorithms/Bridges In Graph.md",
     "HandwrittenNotes/FT_2025-06-03 09:51:46.970.png",
-    "HandwrittenNotes/FT_2025-06-02 10:14:01.264.png",
-    "HandwrittenNotes/FT_2025-06-01 22:12:14.730.png"
+    "HandwrittenNotes/FT_2025-06-02 10:14:01.264.png"
   ]
 }

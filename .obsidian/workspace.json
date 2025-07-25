@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Job Sequencing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Greedy Algorithms/Medium/Job Sequencing.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Job Sequencing\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":26.28187003968254}"
+                },
+                {
                   "title": "Minimum Number of platforms required for a railway",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Greedy Algorithms/Medium/Minimum Number of platforms required for a railway.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Minimum Number of platforms required for a railway\"}",
@@ -82,12 +88,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Greedy Algorithms/Medium/Job Sequencing.md",
+                "file": "Main Notes/DSA/Greedy Algorithms/Medium/Fractional Knapsack Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Job Sequencing"
+              "title": "Fractional Knapsack Problem"
             }
           }
         ]
@@ -358,8 +364,10 @@
   },
   "active": "2da7bf982ac6331c",
   "lastOpenFiles": [
-    "Main Notes/DSA/Greedy Algorithms/Medium/Minimum Number of platforms required for a railway.md",
     "Main Notes/DSA/Greedy Algorithms/Medium/Job Sequencing.md",
+    "Main Notes/DSA/Greedy Algorithms/Medium/Fractional Knapsack Problem.md",
+    "HandwrittenNotes/Job sequencing.pdf",
+    "Main Notes/DSA/Greedy Algorithms/Medium/Minimum Number of platforms required for a railway.md",
     "HandwrittenNotes/Railway.pdf",
     "Main Notes/DSA/Greedy Algorithms/Medium/N Meetings in One Room.md",
     "HandwrittenNotes/N meeting in a room P1.png",
@@ -382,7 +390,6 @@
     "Main Notes/DSA/Linked List/Medium/Check If A Linked List Is Palindrome Or Not.md",
     "Main Notes/DSA/Linked List/Hard/Reverse A Linked List In Size Of K.md",
     "Main Notes/DSA/Linked List/Hard",
-    "HandwrittenNotes/Reverse in groups of k.pdf",
     "Main Notes/DSA/Linked List/Medium/Add Two Numbers.md",
     "Main Notes/DSA/Linked List/Easy/Reverse A Linked List.md",
     "Main Notes/DSA/Graphs/Problems On Traversals/Medium/Rotten Oranges.md",
@@ -398,7 +405,6 @@
     "Main Notes/DSA/Binary Trees/Medium Question/Check If Same Tree.md",
     "Main Notes/DSA/Dynamic Programming/1D DP/Medium/Longest Increasing Subsequence..md",
     "Main Notes/DSA/Dynamic Programming/1D DP/Medium/Maximun Product Subarray.md",
-    "Main Notes/DSA/Dynamic Programming/1D DP/Maximum Sum of non-adjacent elements.md",
     "HandwrittenNotes/FT_2025-06-04 10:00:45.960.png",
     "HandwrittenNotes/FT_2025-06-04 09:54:14.831.png",
     "HandwrittenNotes/FT_2025-06-04 09:49:15.232.png",

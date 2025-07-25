@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "N Meetings in One Room",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Greedy Algorithms/Medium/N Meetings in One Room.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"N Meetings in One Room\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":91,\"ch\":85},\"to\":{\"line\":91,\"ch\":85}},\"scroll\":66.48154761904762}"
+                },
+                {
                   "title": "greedy algorithms",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/greedy algorithms.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"greedy algorithms\"}",
@@ -70,12 +76,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Greedy Algorithms/Medium/N Meetings in One Room.md",
+                "file": "Main Notes/DSA/Greedy Algorithms/Medium/Minimum Number of platforms required for a railway.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "N Meetings in One Room"
+              "title": "Minimum Number of platforms required for a railway"
             }
           }
         ]
@@ -346,8 +352,10 @@
   },
   "active": "2da7bf982ac6331c",
   "lastOpenFiles": [
-    "Tags/greedy algorithms.md",
     "Main Notes/DSA/Greedy Algorithms/Medium/N Meetings in One Room.md",
+    "Main Notes/DSA/Greedy Algorithms/Medium/Minimum Number of platforms required for a railway.md",
+    "HandwrittenNotes/N meeting in a room P1.png",
+    "Tags/greedy algorithms.md",
     "Main Notes/DSA/Linked List/Hard/Clone a linked list with random and a next pointer.md",
     "Main Notes/DSA/Greedy Algorithms/Hard",
     "Main Notes/DSA/Greedy Algorithms/Medium",
@@ -385,12 +393,10 @@
     "Main Notes/DSA/Dynamic Programming/1D DP/Medium/Maximun Product Subarray.md",
     "Main Notes/DSA/Dynamic Programming/1D DP/Maximum Sum of non-adjacent elements.md",
     "Main Notes/DSA/Dynamic Programming/1D DP/Frog Jump With K Distances..md",
-    "Main Notes/DSA/Dynamic Programming/1D DP/Climbing Stairs.md",
     "HandwrittenNotes/FT_2025-06-04 10:00:45.960.png",
     "HandwrittenNotes/FT_2025-06-04 09:54:14.831.png",
     "HandwrittenNotes/FT_2025-06-04 09:49:15.232.png",
     "Images/Pasted image 20250604094036.png",
-    "HandwrittenNotes/FT_2025-06-03 09:51:46.970.png",
-    "HandwrittenNotes/FT_2025-06-02 10:14:01.264.png"
+    "HandwrittenNotes/FT_2025-06-03 09:51:46.970.png"
   ]
 }

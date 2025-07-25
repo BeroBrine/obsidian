@@ -20,11 +20,10 @@ Explanation: Take the item with value 60 and weight 10, value 100 and weight 20 
 - This is classic greedy algo implementation now
 	- Keep in mind the custom comparator and the return value
 		- Custom comparator should make a < b 
-			- Why? because in c++ if this evaluated to false , a will stay on top and b will be pushed 
+			- Why? because in c++ if this evaluated to false , a will stay on top and b will be pushed down which is exactly what we want , (max-heap) 
+- now we just iterate over the items and decrease the cap by it's weight and add it to profit , if the cap is now less than the items weight we take the fraction of it.
 
-
-
-
+**Keep in mind the conversion of int to float/double in comparator as well as the fraction else clause. This is imp to generate accurate puw.**
 
 ##### Handwritten Notes
 ![[knapsack fractional.pdf]]
@@ -86,5 +85,5 @@ class Solution {
 ```
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/fractional-knapsack-problem-greedy-approach/)
-- [leetcode question link]()
+- [GFG question link](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)
 - ![yt video link](https://www.youtube.com/watch?si=8R2By3wpHo0zZVHE&v=1ibsQrnuEEg&feature=youtu.be)

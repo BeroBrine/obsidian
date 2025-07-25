@@ -49,7 +49,6 @@ Constraints:
 	- Then move len - clamp (subtract 1 for 0 - indexing). Make the next node head , and the curr -> next = nullptr (meaning it is the tail now) 
 	- Return the head.
 
-
 ##### Handwritten Notes
 ![[Rotate a linked list.pdf]]
 ##### Code

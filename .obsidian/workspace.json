@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Rotate A Linked List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Medium/Rotate A Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rotate A Linked List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":0},\"to\":{\"line\":50,\"ch\":0}},\"scroll\":45.94720643939394}"
+                },
+                {
                   "title": "Flattening of Linked List",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Linked List/Hard/Flattening of Linked List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Flattening of Linked List\"}",
@@ -46,12 +52,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Linked List/Medium/Rotate A Linked List.md",
+                "file": "Main Notes/DSA/Linked List/Hard/Clone a linked list with random and a next pointer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rotate A Linked List"
+              "title": "Clone a linked list with random and a next pointer"
             }
           }
         ]
@@ -322,9 +328,10 @@
   },
   "active": "2da7bf982ac6331c",
   "lastOpenFiles": [
+    "Main Notes/DSA/Linked List/Medium/Rotate A Linked List.md",
+    "Main Notes/DSA/Linked List/Hard/Clone a linked list with random and a next pointer.md",
     "HandwrittenNotes/Rotate a linked list.pdf",
     "Main Notes/DSA/Linked List/Hard/Flattening of Linked List.md",
-    "Main Notes/DSA/Linked List/Medium/Rotate A Linked List.md",
     "HandwrittenNotes/Flatten linked list.pdf",
     "Images/Pasted image 20250724192528.png",
     "Main Notes/DSA/Linked List/Easy/Merge 2 Sorted Linked List.md",
@@ -358,7 +365,6 @@
     "HandwrittenNotes/Non Adjacent sum.pdf",
     "Main Notes/DSA/Dynamic Programming/1D DP/Frog Jump With K Distances..md",
     "HandwrittenNotes/Frog jump k.pdf",
-    "HandwrittenNotes/Frog jump.pdf",
     "Main Notes/DSA/Dynamic Programming/1D DP/Climbing Stairs.md",
     "Tags/dp.md",
     "Main Notes/DSA/Graphs/Other Algorithms/Kosaraju's Algorithm.md",

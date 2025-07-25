@@ -26,6 +26,6 @@
 ```cpp
 ```
 ## References
-- [striver sheet link]()
+- [striver sheet link](https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/)
 - [leetcode question link]()
-- ![yt video link]()
+- ![yt video link](https://www.youtube.com/watch?si=165acXU_dtqOHuo9&v=AsGzwR_FWok&feature=youtu.be)

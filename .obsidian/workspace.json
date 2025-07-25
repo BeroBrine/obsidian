@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Minimum Number of platforms required for a railway",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Greedy Algorithms/Medium/Minimum Number of platforms required for a railway.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Minimum Number of platforms required for a railway\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":0},\"to\":{\"line\":61,\"ch\":0}},\"scroll\":46.3039967456524}"
+                },
+                {
                   "title": "N Meetings in One Room",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Greedy Algorithms/Medium/N Meetings in One Room.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"N Meetings in One Room\"}",
@@ -76,12 +82,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Greedy Algorithms/Medium/Minimum Number of platforms required for a railway.md",
+                "file": "Main Notes/DSA/Greedy Algorithms/Medium/Job Sequencing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minimum Number of platforms required for a railway"
+              "title": "Job Sequencing"
             }
           }
         ]
@@ -352,9 +358,10 @@
   },
   "active": "2da7bf982ac6331c",
   "lastOpenFiles": [
+    "Main Notes/DSA/Greedy Algorithms/Medium/Minimum Number of platforms required for a railway.md",
+    "Main Notes/DSA/Greedy Algorithms/Medium/Job Sequencing.md",
     "HandwrittenNotes/Railway.pdf",
     "Main Notes/DSA/Greedy Algorithms/Medium/N Meetings in One Room.md",
-    "Main Notes/DSA/Greedy Algorithms/Medium/Minimum Number of platforms required for a railway.md",
     "HandwrittenNotes/N meeting in a room P1.png",
     "Tags/greedy algorithms.md",
     "Main Notes/DSA/Linked List/Hard/Clone a linked list with random and a next pointer.md",
@@ -383,7 +390,6 @@
     "Main Notes/DSA/Linked List/Medium/Find Intersection Point of Y Linked List.md",
     "Main Notes/DSA/Linked List/Medium/Delete Node In A Linked List.md",
     "Main Notes/DSA/Linked List/Medium/Remove Nth Node From Back Of The Linked List.md",
-    "HandwrittenNotes/Remove nth node.pdf",
     "Main Notes/DSA/Linked List/Medium/Convert Sorted Linked List to BST.md",
     "Main Notes/DSA/Linked List/Traversal/Find The Middle Of The Linked List.md",
     "Main Notes/DSA/Graphs/Other Algorithms/().md",

@@ -54,11 +54,15 @@ Constraints:
 
 
 ##### Solution
-- 
-
-
-
-
+- This question uses map data structure 
+- We cannot use the traditional logic of cloning linked list by just iterating over the nodes and cloning their pointers
+	- Random pointer may point to a node that is not initialized yet.
+- So to "remember" the cloned nodes , create a map which will store the original node -> cloned node mapping.
+	- Now iterate over the list
+		- For the next pointer , get the cloned pointer from the map and point the ans list node to this
+		- Do the same for the random pointers	
+			- eg clonedRandomPointer = node_map[itr->random]
+			- Now this clonedRandomPointer will be the random pointer for the ans list node.
 
 ##### Handwritten Notes
 ![[Clone linked list with random ptr.pdf]]

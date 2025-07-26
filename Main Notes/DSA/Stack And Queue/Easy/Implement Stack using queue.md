@@ -14,7 +14,10 @@ Implement stack using single queue
 	- So what we will have to do is , pop out all the elements that are there before adding new elements and then re add them at the back
 	- This will ensure that the latest push is on the top
 	- Rest all functions can be implemented using queue's built in functions
-
+**Steps**
+- s1 -> s2
+- push the element in s1
+- s2 -> s1
 
 ##### Handwritten Notes
 ![[Stack using queue.pdf]]

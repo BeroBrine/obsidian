@@ -64,15 +64,23 @@ Constraints:
 ![[Pasted image 20250726191628.png]]
 
 ##### Solution
-**Bruteforce Approach** 
+**Bruteforce Approach** -> O(n * n) + recursion stack space 
 - In this we recursively remove valid pairs from the strings. 
 	- If there are none left , then it is a valid string
 	- If there are no pairs to remove and the string is still not empty , then it is a invalid string
 	
 **Optimal Approach**
-
-
-
+- This approach uses a stack. 
+	- What we are essentially doing is checking if the brackets are closed in the correct order
+		- First opened , last closed.
+	- So when we encounter a opening bracket  , we push it on top of the stack.
+	- When we encounter a closing bracket , we first check if the stack was empty (for the case if the string is starting with closing bracket).
+		- If it's empty , return false. 
+	- Now we need to check if the stack top's contain the opening bracket for the current closed bracket , if it does , pop it out and continue
+		- But if it doesn't return false as there are brackets in incorrect order. 
+	
+	- After all of this , if the stack is empty it means that the whole string contained valid pairs and return true.
+	- But if the stack isn't empty then return false. 
 
 ##### Handwritten Notes
 ![[]]

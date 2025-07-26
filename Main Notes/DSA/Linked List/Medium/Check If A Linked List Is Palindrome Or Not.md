@@ -91,8 +91,8 @@ bool isPalindrome(ListNode *head) {
 	while (headOfRev) {
 	if (head->val != headOfRev->val)
 		flag = false;
-	head = head->next;
-	headOfRev = headOfRev->next;
+		head = head->next;
+		headOfRev = headOfRev->next;
 	}
 	ListNode *newHead = revLL(headOfRevItr).first;
 	slow->next = newHead;

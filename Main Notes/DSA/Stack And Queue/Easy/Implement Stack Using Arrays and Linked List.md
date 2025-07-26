@@ -3,19 +3,24 @@
 *Status*:
 
 *Tags*: [[dsa]] [[stack and queue]] 
-# Implement Stack Using Arrays
+# Implement Stack Using Arrays And Linked List
 
 ##### Problem Statement
-We need to implement the stack data structure using arrays
+We need to implement the stack data structure using arrays and linked list
 ##### Solution
+
+**Arrays**
 - Keep in mind the increment decrement of the topItr ptr; 
 	- It should always be clamped to -1 when empty
 	- Memory allocation for the array is a bit diff. 
-
+	- For this approach we always need to have the size predefined
+**Linked List**
+- This approach uses linked list
+	- See the code to understand.
 
 ##### Handwritten Notes
-![[]]
-##### Code
+![[Stack implementation.pdf]]
+##### Array Code
 ```cpp
 #include <iostream>
 
@@ -91,6 +96,72 @@ int main() {
 }
 
 ```
+
+##### Linked List Code
+```cpp
+#include <iostream>
+struct ListNode {
+  int val;
+  ListNode *next;
+  ListNode(int val) {
+    this->val = val;
+    this->next = nullptr;
+  }
+};
+
+class Stack {
+  ListNode *top;
+  int size;
+
+public:
+  Stack() {
+    this->top = nullptr;
+    this->size = 0;
+  }
+
+  void push(int data) {
+    ListNode *temp = new ListNode(data);
+    temp->next = this->top;
+    this->top = temp;
+    this->size += 1;
+  }
+
+  void pop() {
+    if (!this->top)
+      return;
+    ListNode *temp = this->top;
+    this->top = this->top->next;
+    delete temp;
+    this->size -= 1;
+  }
+
+  int getTop() {
+    if (!this->top) {
+      std::cout << "Empty Stack" << std::endl;
+      return -1;
+    }
+    return this->top->val;
+  }
+
+  int getSize() { return this->size; }
+};
+
+int main() {
+  Stack st = Stack();
+  std::cout << "the size is " << st.getSize() << std::endl;
+  st.push(5);
+  st.push(3);
+  std::cout << "the size is " << st.getSize() << std::endl;
+  st.pop();
+  std::cout << "the top is " << st.getTop() << std::endl;
+  st.pop();
+  std::cout << "the size is " << st.getSize() << std::endl;
+
+  return 0;
+}
+
+```
+
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/implement-stack-using-array/)
 - [leetcode question link]()

@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Fractional Knapsack Problem",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Greedy Algorithms/Medium/Fractional Knapsack Problem.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fractional Knapsack Problem\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":86,\"ch\":108},\"to\":{\"line\":86,\"ch\":108}},\"scroll\":63.679761904761904}"
+                },
+                {
                   "title": "Job Sequencing",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Greedy Algorithms/Medium/Job Sequencing.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Job Sequencing\"}",
@@ -88,12 +94,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Greedy Algorithms/Medium/Fractional Knapsack Problem.md",
+                "file": "Main Notes/DSA/Greedy Algorithms/Medium/Assign Cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fractional Knapsack Problem"
+              "title": "Assign Cookies"
             }
           }
         ]
@@ -364,11 +370,12 @@
   },
   "active": "2da7bf982ac6331c",
   "lastOpenFiles": [
+    "Main Notes/DSA/Greedy Algorithms/Medium/Fractional Knapsack Problem.md",
+    "Main Notes/DSA/Greedy Algorithms/Medium/Assign Cookies.md",
     "HandwrittenNotes/knapsack fractional.pdf",
     "HandwrittenNotes/Fractional knap.pdf",
     "HandwrittenNotes/Fractional knapsack.pdf",
     "Main Notes/DSA/Greedy Algorithms/Medium/Job Sequencing.md",
-    "Main Notes/DSA/Greedy Algorithms/Medium/Fractional Knapsack Problem.md",
     "HandwrittenNotes/Job sequencing.pdf",
     "Main Notes/DSA/Greedy Algorithms/Medium/Minimum Number of platforms required for a railway.md",
     "HandwrittenNotes/Railway.pdf",
@@ -382,7 +389,6 @@
     "Main Notes/DSA/Greedy Algorithms",
     "HandwrittenNotes/Clone linked list with random ptr.pdf",
     "Main Notes/DSA/Linked List/Medium/Rotate A Linked List.md",
-    "HandwrittenNotes/Rotate a linked list.pdf",
     "Main Notes/DSA/Linked List/Hard/Flattening of Linked List.md",
     "Images/Pasted image 20250724192528.png",
     "Main Notes/DSA/Linked List/Easy/Merge 2 Sorted Linked List.md",

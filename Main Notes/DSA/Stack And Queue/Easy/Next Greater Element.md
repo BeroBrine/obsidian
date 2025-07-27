@@ -42,16 +42,56 @@ Constraints:
 	All the integers of nums1 also appear in nums2.
 
 ##### Solution
--  
-
-
-
+- This question needs a monotonic stack to solve 
+	- A monotonic stack is a stack that stores element in a specified order , be it increasing , decreasing or custom
+- For finding the next greater element for a given index in an array , we need to know the right elements for it.
+	- How will we know what are the right elements?
+		- Using stack
+	- For a number on a given index , call it standing , we need to find it's nge
+	- If the top of the stack is greater than the number we are on , it is it's nge
+		- But if not , we empty the stack until we find any number greater than the standing one
+			- Will this exhaust any potential answer for element on the left of the standing one?
+			- No , as for any element on the left of standing , if it's smaller than the standing , it's nge is the standing element itself , if it's larger than standing , then it will pop out the standing one and find it's nge	
+	- After this , we push the element to the stack
+	- This question requires mapping number to nge as there is a given array nums1 which asks us to find the nge of the given numbers in the array.
 
 
 ##### Handwritten Notes
-![[]]
+![[Next greater element.pdf]]
 ##### Code
 ```cpp
+#include <bits/stdc++.h>
+using namespace std;
+// @leet start
+class Solution {
+public:
+  vector<int> nextGreaterElement(vector<int> &nums1, vector<int> &nums2) {
+    stack<int> st;
+    int size = nums2.size();
+    vector<int> ans;
+    unordered_map<int, int> ngeMap;
+
+    for (int i = size - 1; i >= 0; i--) {
+      int standing = nums2[i];
+      while (!st.empty() && st.top() <= standing) {
+        st.pop();
+      }
+      if (st.empty())
+        ngeMap[standing] = -1;
+      else
+        ngeMap[standing] = st.top();
+      st.push(standing);
+    }
+
+    for (auto i : nums1) {
+      ans.push_back(ngeMap[i]);
+    }
+
+    return ans;
+  }
+};
+// @leet end
+
 ```
 ## References
 - [striver sheet link](https://takeuforward.org/data-structure/next-greater-element-using-stack/)

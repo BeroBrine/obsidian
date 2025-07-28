@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "LRU Cache",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Stack And Queue/Hard/LRU Cache.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"LRU Cache\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":80,\"ch\":78},\"to\":{\"line\":80,\"ch\":78}},\"scroll\":73.20169690860214}"
+                },
+                {
                   "title": "Sort A Stack",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Stack And Queue/Easy/Sort A Stack.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sort A Stack\"}",
@@ -166,12 +172,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Stack And Queue/Hard/LRU Cache.md",
+                "file": "Main Notes/DSA/Stack And Queue/Hard/LFU Cache.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LRU Cache"
+              "title": "LFU Cache"
             }
           }
         ]
@@ -442,9 +448,10 @@
   },
   "active": "2da7bf982ac6331c",
   "lastOpenFiles": [
+    "Main Notes/DSA/Stack And Queue/Hard/LRU Cache.md",
+    "Main Notes/DSA/Stack And Queue/Hard/LFU Cache.md",
     "HandwrittenNotes/Lru cache.pdf",
     "Main Notes/DSA/Stack And Queue/Easy/Sort A Stack.md",
-    "Main Notes/DSA/Stack And Queue/Hard/LRU Cache.md",
     "HandwrittenNotes/Sort a stack.pdf",
     "Main Notes/DSA/Stack And Queue/Easy/Next Greater Element.md",
     "HandwrittenNotes/Next greater element.pdf",
@@ -464,7 +471,6 @@
     "Main Notes/DSA/Stack And Queue/Hard",
     "Main Notes/DSA/Stack And Queue/Medium",
     "Main Notes/DSA/Stack And Queue/Easy",
-    "Main Notes/DSA/Stack And Queue",
     "Main Notes/DSA/Untitled.md",
     "Main Notes/DSA/Greedy Algorithms/Medium/Assign Cookies.md",
     "Main Notes/DSA/Greedy Algorithms/Medium/Fractional Knapsack Problem.md",

@@ -53,7 +53,7 @@ Constraints:
 
 **LRU means least recently used , any node that is used or updated must be placed at the front of the head.**
 - Steps
-	-  Initialize the head and tail of the cace
+	-  Initialize the head and tail of the cache
 		- head -> next = tail;
 		- tail -> prev = head;
 		- Keep in mind to first init the tail and head ptrs with new LinkedList();
@@ -71,8 +71,7 @@ Constraints:
 			- Update the node value to be the new value
 		- After this we delete the node from the DLL , keep in mind **we do not create a new node**.
 			- we need to keep the address of the node in the hashmap the same , so we just delete the next , prev pointers and rearrange it's next , prev nodes to point to each other
-			- Now that the node is freed from it's previous place in the DLL.
-			- Insert it into the front of the head of DLL.
+			- Now that the node is freed from it's previous place in the DLL , innsert it into the front of the head of DLL.
 
 	- When the node to be inserted does not already exist and the maxCap is reached for the LRU.
 		- What we need to do is delete the node from the last  , i.e tail -> prev;

@@ -71,11 +71,12 @@ Constraints:
 			- Update the node value to be the new value
 		- After this we delete the node from the DLL , keep in mind **we do not create a new node**.
 			- we need to keep the address of the node in the hashmap the same , so we just delete the next , prev pointers and rearrange it's next , prev nodes to point to each other
-			- Now that the node is freed from it's previous place in the DLL , innsert it into the front of the head of DLL.
+			- Now that the node is freed from it's previous place in the DLL , insert it into the front of the head of DLL.
 
 	- When the node to be inserted does not already exist and the maxCap is reached for the LRU.
 		- What we need to do is delete the node from the last  , i.e tail -> prev;
 		- Insert the new node in front of the head of the DLL.
+		- Insert the node in the hashmap.
 
 	- When the get function is called , if the node does not exist return -1 else return the value.
 		- Keep in mind , if get function is called , whatever node was called it will be placed in the front of the head of DLL.

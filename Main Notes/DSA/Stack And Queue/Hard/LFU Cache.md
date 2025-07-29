@@ -1,6 +1,6 @@
 *28-07-2025 14:27*
 
-*Status*:
+*Status*: [[quirky]] [[revise]]
 
 *Tags*: [[dsa]] [[stack and queue]] [[hard]]
 
@@ -111,7 +111,7 @@ Constraints:
 
 
 ##### Handwritten Notes
-![[]]
+![[Lfu implementation.pdf]]
 ##### Code
 ```cpp
 #include <bits/stdc++.h>

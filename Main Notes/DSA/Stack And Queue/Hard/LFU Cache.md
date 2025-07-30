@@ -53,7 +53,6 @@ lfu.get(4);      // return 4
                  // cache=[4,3], cnt(4)=2, cnt(3)=3
 
 
- 
 Constraints:
 	1 <= capacity <= 104
 	0 <= key <= 105

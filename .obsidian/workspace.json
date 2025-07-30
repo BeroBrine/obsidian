@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "LFU Cache",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Stack And Queue/Hard/LFU Cache.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"LFU Cache\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":74,\"ch\":43},\"to\":{\"line\":74,\"ch\":43}},\"scroll\":47.81692708333333}"
+                },
+                {
                   "title": "LRU Cache",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Stack And Queue/Hard/LRU Cache.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"LRU Cache\"}",
@@ -34,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Stack And Queue/Hard/LFU Cache.md",
+                "file": "Main Notes/DSA/Stack And Queue/Hard/Largest Rectangle in a Histogram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LFU Cache"
+              "title": "Largest Rectangle in a Histogram"
             }
           }
         ]
@@ -310,9 +316,10 @@
   },
   "active": "2da7bf982ac6331c",
   "lastOpenFiles": [
+    "Main Notes/DSA/Stack And Queue/Hard/LFU Cache.md",
+    "Main Notes/DSA/Stack And Queue/Hard/Largest Rectangle in a Histogram.md",
     "HandwrittenNotes/Lfu implementation.pdf",
     "Main Notes/DSA/Stack And Queue/Hard/LRU Cache.md",
-    "Main Notes/DSA/Stack And Queue/Hard/LFU Cache.md",
     "HandwrittenNotes/Lru cache.pdf",
     "Main Notes/DSA/Stack And Queue/Easy/Sort A Stack.md",
     "HandwrittenNotes/Sort a stack.pdf",
@@ -333,7 +340,6 @@
     "Main Notes/DSA/Stack And Queue/Easy/Untitled",
     "Main Notes/DSA/Stack And Queue/Hard",
     "Main Notes/DSA/Stack And Queue/Medium",
-    "Main Notes/DSA/Stack And Queue/Easy",
     "Main Notes/DSA/Untitled.md",
     "Main Notes/DSA/Greedy Algorithms/Medium/Assign Cookies.md",
     "Main Notes/DSA/Greedy Algorithms/Medium/Fractional Knapsack Problem.md",

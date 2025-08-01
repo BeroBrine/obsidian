@@ -11,11 +11,23 @@
             "id": "2da7bf982ac6331c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "sys design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/sys design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"sys design\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":1},\"to\":{\"line\":6,\"ch\":1}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Largest Rectangle in a Histogram",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Stack And Queue/Hard/Largest Rectangle in a Histogram.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Largest Rectangle in a Histogram\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
                 },
                 {
                   "title": "LFU Cache",
@@ -40,12 +52,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Stack And Queue/Hard/Largest Rectangle in a Histogram.md",
+                "file": "Main Notes/System Design/Basics/What is System Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Largest Rectangle in a Histogram"
+              "title": "What is System Design"
             }
           }
         ]
@@ -316,8 +328,12 @@
   },
   "active": "2da7bf982ac6331c",
   "lastOpenFiles": [
-    "Main Notes/DSA/Stack And Queue/Hard/LFU Cache.md",
+    "HandwrittenNotes/What is system design.pdf",
+    "Templates/sys design.md",
+    "Main Notes/System Design/Basics/What is System Design.md",
     "Main Notes/DSA/Stack And Queue/Hard/Largest Rectangle in a Histogram.md",
+    "Main Notes/System Design/Basics",
+    "Main Notes/DSA/Stack And Queue/Hard/LFU Cache.md",
     "HandwrittenNotes/Lfu implementation.pdf",
     "Main Notes/DSA/Stack And Queue/Hard/LRU Cache.md",
     "HandwrittenNotes/Lru cache.pdf",
@@ -339,7 +355,6 @@
     "Main Notes/DSA/Linked List/Medium/Check If A Linked List Is Palindrome Or Not.md",
     "Main Notes/DSA/Stack And Queue/Easy/Untitled",
     "Main Notes/DSA/Stack And Queue/Hard",
-    "Main Notes/DSA/Stack And Queue/Medium",
     "Main Notes/DSA/Untitled.md",
     "Main Notes/DSA/Greedy Algorithms/Medium/Assign Cookies.md",
     "Main Notes/DSA/Greedy Algorithms/Medium/Fractional Knapsack Problem.md",
@@ -353,10 +368,7 @@
     "Main Notes/DSA/Linked List/Hard/Flattening of Linked List.md",
     "Images/Pasted image 20250724192528.png",
     "Main Notes/DSA/Linked List/Easy/Merge 2 Sorted Linked List.md",
-    "Main Notes/DSA/Linked List/Medium/Find the Starting Point Of Cycle.md",
     "HandwrittenNotes/FT_2025-07-10 21:00:51.968.png",
-    "Main Notes/DSA/Linked List/Medium/Detect Cycle In Linked List.md",
-    "Main Notes/DSA/Linked List/Hard/Reverse A Linked List In Size Of K.md",
     "Images/Pasted image 20250709212148.png",
     "HandwrittenNotes/FT_2025-07-07 21:25:57.297.png",
     "HandwrittenNotes/FT_2025-06-04 10:00:45.960.png",

@@ -11,17 +11,17 @@
             "id": "2da7bf982ac6331c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "sys design",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/sys design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"sys design\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":1},\"to\":{\"line\":6,\"ch\":1}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "What is System Design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/System Design/Basics/What is System Design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"What is System Design\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":7.411302917178196}"
                 },
                 {
                   "title": "Largest Rectangle in a Histogram",
@@ -52,12 +52,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/System Design/Basics/What is System Design.md",
+                "file": "Main Notes/DSA/Stack And Queue/Hard/Largest Rectangle in a Histogram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is System Design"
+              "title": "Largest Rectangle in a Histogram"
             }
           }
         ]
@@ -328,9 +328,9 @@
   },
   "active": "2da7bf982ac6331c",
   "lastOpenFiles": [
+    "Main Notes/System Design/Basics/What is System Design.md",
     "HandwrittenNotes/What is system design.pdf",
     "Templates/sys design.md",
-    "Main Notes/System Design/Basics/What is System Design.md",
     "Main Notes/DSA/Stack And Queue/Hard/Largest Rectangle in a Histogram.md",
     "Main Notes/System Design/Basics",
     "Main Notes/DSA/Stack And Queue/Hard/LFU Cache.md",
@@ -354,7 +354,6 @@
     "Tags/stack and queue.md",
     "Main Notes/DSA/Linked List/Medium/Check If A Linked List Is Palindrome Or Not.md",
     "Main Notes/DSA/Stack And Queue/Easy/Untitled",
-    "Main Notes/DSA/Stack And Queue/Hard",
     "Main Notes/DSA/Untitled.md",
     "Main Notes/DSA/Greedy Algorithms/Medium/Assign Cookies.md",
     "Main Notes/DSA/Greedy Algorithms/Medium/Fractional Knapsack Problem.md",

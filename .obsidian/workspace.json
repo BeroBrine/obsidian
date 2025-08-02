@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Largest Rectangle in a Histogram",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Stack And Queue/Hard/Largest Rectangle in a Histogram.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Largest Rectangle in a Histogram\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "What is System Design",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/System Design/Basics/What is System Design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"What is System Design\"}",
@@ -52,12 +58,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Stack And Queue/Hard/Largest Rectangle in a Histogram.md",
+                "file": "Main Notes/DSA/Stack And Queue/Easy/Next Greater Element.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Largest Rectangle in a Histogram"
+              "title": "Next Greater Element"
             }
           }
         ]
@@ -328,10 +334,10 @@
   },
   "active": "2da7bf982ac6331c",
   "lastOpenFiles": [
+    "Main Notes/DSA/Stack And Queue/Hard/Largest Rectangle in a Histogram.md",
     "Main Notes/System Design/Basics/What is System Design.md",
     "HandwrittenNotes/What is system design.pdf",
     "Templates/sys design.md",
-    "Main Notes/DSA/Stack And Queue/Hard/Largest Rectangle in a Histogram.md",
     "Main Notes/System Design/Basics",
     "Main Notes/DSA/Stack And Queue/Hard/LFU Cache.md",
     "HandwrittenNotes/Lfu implementation.pdf",

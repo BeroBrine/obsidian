@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Next Greater Element",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Stack And Queue/Easy/Next Greater Element.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Next Greater Element\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Largest Rectangle in a Histogram",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Stack And Queue/Hard/Largest Rectangle in a Histogram.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Largest Rectangle in a Histogram\"}",
@@ -58,12 +64,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Stack And Queue/Easy/Next Greater Element.md",
+                "file": "Main Notes/DSA/Linked List/Medium/Rotate A Linked List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next Greater Element"
+              "title": "Rotate A Linked List"
             }
           }
         ]
@@ -334,6 +340,7 @@
   },
   "active": "2da7bf982ac6331c",
   "lastOpenFiles": [
+    "Main Notes/DSA/Stack And Queue/Easy/Next Greater Element.md",
     "Main Notes/DSA/Stack And Queue/Hard/Largest Rectangle in a Histogram.md",
     "Main Notes/System Design/Basics/What is System Design.md",
     "HandwrittenNotes/What is system design.pdf",
@@ -345,7 +352,6 @@
     "HandwrittenNotes/Lru cache.pdf",
     "Main Notes/DSA/Stack And Queue/Easy/Sort A Stack.md",
     "HandwrittenNotes/Sort a stack.pdf",
-    "Main Notes/DSA/Stack And Queue/Easy/Next Greater Element.md",
     "HandwrittenNotes/Next greater element.pdf",
     "Main Notes/DSA/Stack And Queue/Medium/Valid Parantheses.md",
     "Images/Pasted image 20250726191628.png",

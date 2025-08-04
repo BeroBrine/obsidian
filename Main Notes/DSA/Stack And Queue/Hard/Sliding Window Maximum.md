@@ -56,7 +56,12 @@ Constraints:
 		- Now we need to pop out any index that corresponds to smaller elements than the current one.
 			- This makes sure that the largest element in the window is always at the front of the queue.
 		- Push the index in the queue at the back.
-		- Now before incrementing the window , we need to check if the first wi
+		- Now before incrementing the window , we need to check if the first window has been exhausted and retrieve the largest element from it.
+			- For further windows , as the window is being incremented by one , the next index will be starting index of the window. 
+			- If there was a condition for eg the window will step 2 at a time. 
+			- Now we need to push the results when the window starting is at even index.
+				- (i - (k - 1)) % 2 == 0.
+
 
 
 

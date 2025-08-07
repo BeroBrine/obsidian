@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Sliding Window Maximum",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Stack And Queue/Hard/Sliding Window Maximum.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sliding Window Maximum\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0.13821138211382114}"
+                },
+                {
                   "title": "Largest Rectangle in a Histogram",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Stack And Queue/Hard/Largest Rectangle in a Histogram.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Largest Rectangle in a Histogram\"}",
@@ -76,12 +82,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Stack And Queue/Hard/Sliding Window Maximum.md",
+                "file": "Main Notes/DSA/Graphs/Traversals/BFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sliding Window Maximum"
+              "title": "BFS"
             }
           }
         ]
@@ -352,9 +358,9 @@
   },
   "active": "2da7bf982ac6331c",
   "lastOpenFiles": [
+    "Main Notes/DSA/Stack And Queue/Hard/Sliding Window Maximum.md",
     "HandwrittenNotes/Sliding window.pdf",
     "Main Notes/DSA/Stack And Queue/Hard/Largest Rectangle in a Histogram.md",
-    "Main Notes/DSA/Stack And Queue/Hard/Sliding Window Maximum.md",
     "HandwrittenNotes/Histogram rect.pdf",
     "Main Notes/DSA/Linked List/Medium/Rotate A Linked List.md",
     "Main Notes/DSA/Stack And Queue/Easy/Next Greater Element.md",
@@ -378,7 +384,6 @@
     "HandwrittenNotes/Queue ll.pdf",
     "Main Notes/DSA/questions.md",
     "Images/Pasted image 20250726125135.png",
-    "HandwrittenNotes/Stack implementation.pdf",
     "Tags/stack and queue.md",
     "Main Notes/DSA/Linked List/Medium/Check If A Linked List Is Palindrome Or Not.md",
     "Main Notes/DSA/Untitled.md",

@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Valid Parantheses",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Stack And Queue/Medium/Valid Parantheses.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Valid Parantheses\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":127.20446428571428}"
+                },
+                {
                   "title": "Introduction to Classes And Objects",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/OOPS/Intro/Introduction to Classes And Objects.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Introduction to Classes And Objects\"}",
@@ -112,12 +118,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Stack And Queue/Medium/Valid Parantheses.md",
+                "file": "Main Notes/DSA/Stack And Queue/Medium/Implement Min Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Valid Parantheses"
+              "title": "Implement Min Stack"
             }
           }
         ]
@@ -388,6 +394,8 @@
   },
   "active": "2da7bf982ac6331c",
   "lastOpenFiles": [
+    "Main Notes/DSA/Stack And Queue/Medium/Valid Parantheses.md",
+    "Main Notes/DSA/Stack And Queue/Medium/Implement Min Stack.md",
     "Main Notes/OOPS/Intro/Introduction to Classes And Objects.md",
     "Templates/Note..md",
     "Templates/generic note.md",
@@ -411,7 +419,6 @@
     "Main Notes/DSA/Stack And Queue/Easy/Sort A Stack.md",
     "HandwrittenNotes/Sort a stack.pdf",
     "HandwrittenNotes/Next greater element.pdf",
-    "Main Notes/DSA/Stack And Queue/Medium/Valid Parantheses.md",
     "Images/Pasted image 20250726191628.png",
     "Main Notes/DSA/Stack And Queue/Easy/Implement Stack using queue.md",
     "Main Notes/DSA/Stack And Queue/Easy/Implement Stack Using Arrays And Linked List.md",
@@ -425,7 +432,6 @@
     "Main Notes/DSA/Greedy Algorithms/Medium/Fractional Knapsack Problem.md",
     "Main Notes/DSA/Greedy Algorithms/Medium/Job Sequencing.md",
     "Main Notes/DSA/Greedy Algorithms/Medium/Minimum Number of platforms required for a railway.md",
-    "Main Notes/DSA/Greedy Algorithms/Medium/N Meetings in One Room.md",
     "HandwrittenNotes/N meeting in a room P1.png",
     "Images/Pasted image 20250724192528.png",
     "HandwrittenNotes/FT_2025-07-10 21:00:51.968.png",

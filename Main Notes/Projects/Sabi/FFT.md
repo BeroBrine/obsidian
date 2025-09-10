@@ -16,8 +16,25 @@ Tags: [[theory]]
 			- index 3 (p3) corresponds to x^3
 	- Value representation
 		- {(x0 , P(x0)) ,(x1 , P(x1)) , .... , (xd , P(xd))}
-		- Using value representation has the advantages that multiplication of polynomials is much easier than coeff as coeff uses O(d^2) time
-	
+		- Using value representation has the advantages that multiplication of polynomials is much easier than coeff as coeff uses O(d^2) time and this uses O(d) operations.
+		![[Pasted image 20250910181151.png]]
+- The black box that contains coeff to value conversion is done by FFT.
+
+**Notes till now**
+![[fft 1.pdf]]
+
+
+
+**Coeff => Value**
+- It's also called as evaluation.
+
+
+
+
+
+
+
+
 
 ## References
-- 
+- ![Youtube Video](https://www.youtube.com/watch?v=h7apO7q16V0) 

@@ -28,13 +28,5 @@ Tags: [[theory]]
 **Coeff => Value**
 - It's also called as evaluation.
 
-
-
-
-
-
-
-
-
 ## References
 - ![Youtube Video](https://www.youtube.com/watch?v=h7apO7q16V0) 

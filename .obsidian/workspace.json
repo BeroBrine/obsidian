@@ -147,16 +147,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Release Notes 1.9.12",
+                  "icon": "lucide-book-up",
+                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.9.12\"},\"icon\":\"lucide-book-up\",\"title\":\"Release Notes 1.9.12\"}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Main Notes/Projects/Sabi/FFT.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "FFT"
             }
           }
         ],
@@ -263,7 +271,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 326,
+    "collapsed": true
   },
   "right": {
     "id": "6beec99a0cb1b954",
@@ -428,6 +437,9 @@
   },
   "active": "232d7ab9e09dccf5",
   "lastOpenFiles": [
+    "Main Notes/Projects/Sabi/FFT.md",
+    "Main Notes/Projects/Sabi",
+    "Main Notes/Projects",
     "Main Notes/DSA/Stack And Queue/Hard/LFU Cache.md",
     "Main Notes/DSA/Stack And Queue/Medium/Implement Min Stack.md",
     "Main Notes/DSA/Stack And Queue/Medium/Valid Parantheses.md",
@@ -451,8 +463,6 @@
     "Main Notes/DSA/Stack And Queue/Hard/LRU Cache.md",
     "HandwrittenNotes/Lru cache.pdf",
     "Main Notes/DSA/Stack And Queue/Easy/Sort A Stack.md",
-    "HandwrittenNotes/Sort a stack.pdf",
-    "HandwrittenNotes/Next greater element.pdf",
     "Images/Pasted image 20250726191628.png",
     "Main Notes/DSA/Stack And Queue/Easy/Implement Stack using queue.md",
     "Main Notes/DSA/Stack And Queue/Easy/Implement Stack Using Arrays And Linked List.md",
@@ -465,7 +475,6 @@
     "Main Notes/DSA/Greedy Algorithms/Medium/Assign Cookies.md",
     "Main Notes/DSA/Greedy Algorithms/Medium/Fractional Knapsack Problem.md",
     "Main Notes/DSA/Greedy Algorithms/Medium/Job Sequencing.md",
-    "Main Notes/DSA/Greedy Algorithms/Medium/Minimum Number of platforms required for a railway.md",
     "HandwrittenNotes/N meeting in a room P1.png",
     "Images/Pasted image 20250724192528.png",
     "HandwrittenNotes/FT_2025-07-10 21:00:51.968.png",

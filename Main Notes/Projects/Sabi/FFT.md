@@ -20,6 +20,10 @@ Tags: [[theory]]
 		![[Pasted image 20250910181151.png]]
 - The black box that contains coeff to value conversion is done by FFT.
 
+
+
+![[Pasted image 20250910191010.png]]
+
 **Notes till now**
 ![[fft 1.pdf]]
 

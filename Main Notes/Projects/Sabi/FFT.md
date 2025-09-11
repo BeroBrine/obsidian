@@ -19,6 +19,12 @@ Tags: [[theory]]
 		- Using value representation has the advantages that multiplication of polynomials is much easier than coeff as coeff uses O(d^2) time and this uses O(d) operations.
 		![[Pasted image 20250910181151.png]]
 - The black box that contains coeff to value conversion is done by FFT.
+	- The optimization that is done in FFT that allows it to cut computation in half is Cooley - Tukey Method
+		- Basically what it does is break the polynomial equation into odd and even pairs.
+			- P(x) = P<sub>e</sub>(x<sub>e</sub><sup>2</sup>) + xP<sub>o</sub>(x<sub>o</sub><sup>2</sup>).
+			- P(-x) = P<sub>e</sub>(x<sub>e</sub><sup>2</sup>) - xP<sub>o</sub>(x<sub>o</sub><sup>2</sup>).
+		- Using these two equations we can calculate the mirrored points (x , -x) which helps us to cut the calculation down in half. 
+	- We need to 	
 
 
 

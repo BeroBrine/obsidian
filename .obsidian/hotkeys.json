@@ -108,5 +108,21 @@
       ],
       "key": "'"
     }
+  ],
+  "supsub:wrap-sup": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "V"
+    }
+  ],
+  "supsub:wrap-sub": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "B"
+    }
   ]
 }

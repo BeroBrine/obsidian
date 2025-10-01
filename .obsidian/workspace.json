@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "FFT",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/Projects/Sabi/FFT.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"FFT\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Release Notes 1.9.12",
                   "icon": "lucide-book-up",
                   "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.9.12\"},\"icon\":\"lucide-book-up\",\"title\":\"Release Notes 1.9.12\"}",
@@ -28,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/Projects/Sabi/FFT.md",
+                "file": "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Architecture..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FFT"
+              "title": "Architecture."
             }
           }
         ]
@@ -305,10 +311,15 @@
   },
   "active": "232d7ab9e09dccf5",
   "lastOpenFiles": [
+    "Main Notes/Projects/Sabi/FFT.md",
+    "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Architecture..md",
+    "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter",
+    "Main Notes/7th Sem/Microcontrollers - EC6035/Untitled.md",
+    "Main Notes/7th Sem/Microcontrollers - EC6035",
+    "Main Notes/7th Sem",
     "Pasted image 20250910191010.png",
     "HandwrittenNotes/fft 1.pdf",
     "Pasted image 20250910181151.png",
-    "Main Notes/Projects/Sabi/FFT.md",
     "Main Notes/Projects/Sabi",
     "Main Notes/Projects",
     "Main Notes/DSA/Stack And Queue/Hard/LFU Cache.md",
@@ -327,10 +338,7 @@
     "Main Notes/DSA/Linked List/Medium/Rotate A Linked List.md",
     "Main Notes/DSA/Stack And Queue/Easy/Next Greater Element.md",
     "Main Notes/System Design/Basics/What is System Design.md",
-    "HandwrittenNotes/What is system design.pdf",
     "Templates/sys design.md",
-    "Main Notes/System Design/Basics",
-    "HandwrittenNotes/Lfu implementation.pdf",
     "Main Notes/DSA/Stack And Queue/Hard/LRU Cache.md",
     "Main Notes/DSA/Stack And Queue/Easy/Sort A Stack.md",
     "Images/Pasted image 20250726191628.png",
@@ -343,13 +351,11 @@
     "Main Notes/DSA/Linked List/Medium/Check If A Linked List Is Palindrome Or Not.md",
     "Main Notes/DSA/Untitled.md",
     "Main Notes/DSA/Greedy Algorithms/Medium/Assign Cookies.md",
-    "Main Notes/DSA/Greedy Algorithms/Medium/Fractional Knapsack Problem.md",
     "HandwrittenNotes/N meeting in a room P1.png",
     "Images/Pasted image 20250724192528.png",
     "HandwrittenNotes/FT_2025-07-10 21:00:51.968.png",
     "Images/Pasted image 20250709212148.png",
     "HandwrittenNotes/FT_2025-07-07 21:25:57.297.png",
-    "HandwrittenNotes/FT_2025-06-04 10:00:45.960.png",
-    "HandwrittenNotes/FT_2025-06-04 09:54:14.831.png"
+    "HandwrittenNotes/FT_2025-06-04 10:00:45.960.png"
   ]
 }

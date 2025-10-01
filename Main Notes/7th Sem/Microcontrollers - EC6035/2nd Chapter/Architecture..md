@@ -5,7 +5,10 @@ Status:
 Tags:
 
 ## Architecture.
-- 
+- 8051 is a 8-bit data bus , 16-bit address bus microprocessor.
+	- It follows Harvard architecture
+		- Harvard architecture has seperate memory for data and program instructions.
+	- 
 
 
 

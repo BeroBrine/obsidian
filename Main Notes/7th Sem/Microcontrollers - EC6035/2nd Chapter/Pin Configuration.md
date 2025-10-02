@@ -6,7 +6,6 @@ Tags:
 
 ## Pin Configuration
 
-![[Pasted image 20251002000319.png|300x400]]
 
 ***Pin Configuration***
 - Pins 1-8 (Port 1) 
@@ -36,6 +35,7 @@ Tags:
 			- These are timer 0 , timer 1 external interrupts. They can be connected to external 16 bit timers. 
 		- Pin 16,17 -> WR' , RD'
 			- These are used for writing , reading data from external memory.
+	![[Pasted image 20251002000319.png|300x400]]
 - Pin 18 , 19 -> XTAL2 , XTAL1
 	- These are pins used for external oscillator which is generally a quartz oscillator.
 	- These provide external clock freq of 4Mhz to 30Mhz.

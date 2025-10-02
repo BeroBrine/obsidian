@@ -42,9 +42,29 @@ Tags:
 
 **Data Registers (DPTL) **
 - DPH and DPL
+	- These in combination of 16 bit register is called DPTL. 
+		- DPTL does not have a physical memory address but both DPH , DPL contain physical memory address 
+	- Or it can be used as two seperate 8 bit registers
+	- DPH stores Higher byte of DPTR
+	- DPL stores Lower byte of DPTR
+	- Used for external memory management
 
+- SP or Stack Pointer
+	- Stack pointer contains the next instruction that is to be executed 
+	- It can be accessed by PUSH , POP , CALL and RET instructions
+		- On reset , it contains 07H on top of the stack.
 
+****
+- Port Registers
+	- These are the P0 , P1 , P2 , P3 registers
 
+- PCON (Power Control)
+	- This is used for power management of 8051
+	- Using two bits , 8051 can be set to idle mode or low power mode
+
+- SCON (Serial Control)
+	- This is used to control Serial Port of the microcontroller.
+	- Can control operation mode , baud rate , send or recieve data using the serial port.
 
 
 

@@ -2,8 +2,10 @@
 - **7th Sem**
 	- **DIP - 2711**
 		- **1st Unit**
-			- [[Application of DIP]]
-			- [[Origins Of DIP]]
+			- [[1. Origins Of DIP]]
+			- [[2. Application of DIP]]
+			- [[3. Components Of DIP System]]
+			- [[4. Fundamental Steps in Digital Image Processing]]
 		- [[End-sems]]
 		- [[Mid-Sems]]
 	- **Microcontrollers - EC6035**

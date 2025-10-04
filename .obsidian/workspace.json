@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Main Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/Main Notes.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Main Notes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":14},\"to\":{\"line\":4,\"ch\":14}},\"scroll\":0}"
+                },
+                {
+                  "title": "Origins Of DIP",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/DIP - 2711/1st Unit/Origins Of DIP.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Origins Of DIP\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":13},\"to\":{\"line\":4,\"ch\":13}},\"scroll\":0}"
+                },
+                {
+                  "title": "Mid-Sems",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/DIP - 2711/Mid-Sems.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mid-Sems\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.329879502118644}"
+                },
+                {
                   "title": "End-sems",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/DIP - 2711/End-sems.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"End-sems\"}",
@@ -28,12 +46,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/7th Sem/DIP - 2711/Mid-Sems.md",
+                "file": "Main Notes/7th Sem/DIP - 2711/1st Unit/Origins Of DIP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mid-Sems"
+              "title": "Origins Of DIP"
             }
           }
         ]
@@ -139,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 326,
+    "collapsed": true
   },
   "right": {
     "id": "6beec99a0cb1b954",
@@ -304,9 +323,12 @@
   },
   "active": "c2ababe902bdeacd",
   "lastOpenFiles": [
+    "Main Notes/Main Notes.md",
+    "Main Notes/7th Sem/DIP - 2711/1st Unit/Origins Of DIP.md",
+    "Main Notes/7th Sem/DIP - 2711/Mid-Sems.md",
+    "Main Notes/7th Sem/DIP - 2711/1st Unit",
     "Main Notes/7th Sem/DIP - 2711/End-sems.md",
     "Images/Pasted image 20251004202020.png",
-    "Main Notes/7th Sem/DIP - 2711/Mid-Sems.md",
     "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Pin Configuration.md",
     "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Architecture..md",
     "Images/Pasted image 20251004201934.png",
@@ -336,7 +358,6 @@
     "Main Notes/OOPS/Intro",
     "Main Notes/OOPS",
     "Main Notes/DSA/Stack And Queue/Hard/Sliding Window Maximum.md",
-    "HandwrittenNotes/Sliding window.pdf",
     "Main Notes/DSA/Stack And Queue/Hard/Largest Rectangle in a Histogram.md",
     "Main Notes/DSA/Linked List/Medium/Rotate A Linked List.md",
     "Main Notes/DSA/Stack And Queue/Easy/Next Greater Element.md",
@@ -347,7 +368,6 @@
     "Images/Pasted image 20250726191628.png",
     "Main Notes/DSA/Stack And Queue/Easy/Implement Stack using queue.md",
     "Main Notes/DSA/Stack And Queue/Easy/Implement Stack Using Arrays And Linked List.md",
-    "Main Notes/DSA/Stack And Queue/Easy/Queue using LL.md",
     "Images/Pasted image 20250726125135.png"
   ]
 }

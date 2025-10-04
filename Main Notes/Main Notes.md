@@ -1,0 +1,206 @@
+%% Begin Waypoint %%
+- **7th Sem**
+	- **DIP - 2711**
+		- **1st Unit**
+			- [[Origins Of DIP]]
+		- [[End-sems]]
+		- [[Mid-Sems]]
+	- **Microcontrollers - EC6035**
+		- **2nd Chapter**
+			- [[Architecture.]]
+			- [[Pin Configuration]]
+			- [[Special Function Registers (SFR)]]
+- **DSA**
+	- **Binary Search Tree**
+		- **Problems**
+			- **Construct**
+				- [[Create BST From Inorder Traversal]]
+			- **Easy**
+				- [[Ceil in a BST]]
+				- [[Insert A Node In BST]]
+				- [[Two Sum For BST]]
+			- **Hard**
+				- [[Convert BST To Doubly Linked List]]
+				- [[Largest BST In Binary Tree]]
+				- [[Merge 2 BSTs]]
+				- [[Recover BST. Correct BST with two nodes swapped]]
+			- **Medium**
+				- [[Delete A Node In Binary Search Tree]]
+				- [[Find K-th Smallest Or Largest Node in BST]]
+				- [[Inorder Predecessor Or Successor In BST]]
+				- [[LCA In Binary Search Tree]]
+				- [[Valid BST Or Not]]
+		- **Theory**
+			- [[Binary Search Tree]]
+			- [[Search In BST]]
+	- **Binary Trees**
+		- **Construct**
+			- [[Construct A Binary Tree From Preorder And Inorder Traversal]]
+			- [[Create A Binary Tree From Inorder and Postorder Traversal]]
+		- **Hard Question**
+			- [[Check For Children Sum Property]]
+			- [[Flattern Binary Tree To Linked List]]
+			- [[Lowest Common Ancestor]]
+			- [[maximum path sum]]
+			- [[Maximum Width Of Binary Tree]]
+			- [[Minimum Time To Burn A Tree]]
+			- [[Node At A Distance K]]
+			- [[Root To Node Path In Binary Tree]]
+			- [[Serialize And Deseriliaze A Binary Tree]]
+			- [[Total Number Of Nodes In Complete Binary Tree]]
+		- **Medium Question**
+			- [[Check Height Balanced]]
+			- [[Check If Same Tree]]
+			- [[Diameter Of Tree]]
+			- [[Height Of Binary Tree]]
+			- [[Mirrored Tree]]
+		- **Theory**
+			- [[Requirements to construct a unique binary tree]]
+		- **Traversals**
+			- [[All Traversal Combined]]
+			- [[Boundary Traversal]]
+			- [[Inorder]]
+			- [[Level Order Traversal]]
+			- [[Morris Inorder Traversal]]
+			- [[Morris Preorder Traversal]]
+			- [[Postorder]]
+			- [[Preorder]]
+			- [[Vertical Traversal]]
+			- [[Zig Zag Traversal]]
+		- **Views**
+			- [[Bottom View]]
+			- [[Right View]]
+			- [[Top View]]
+	- **Dynamic Programming**
+		- **1D DP**
+			- [[Climbing Stairs]]
+			- [[Frog Jump With K Distances.]]
+			- [[Frog Jump]]
+			- [[Maximum Sum of non-adjacent elements]]
+			- **Medium**
+				- [[Longest Increasing Subsequence.]]
+				- [[Maximun Product Subarray]]
+	- **Graphs**
+		- **Cycle Detection**
+			- [[Cycle Detection In Directed Graph Using BFS (Kahn's Algo)]]
+			- [[Cycle Detection In Directed Graph Using DFS]]
+			- [[Cycle Detection In Undirected Graph Using BFS]]
+			- [[Cycle Detection In Undirected Graph Using DFS]]
+		- **Minimum Spanning Tree Disjoint Set Problems**
+			- **Algorithms**
+				- [[Disjoint Set Union By Rank And Size]]
+				- [[Kruskal's Algorithm]]
+				- [[Prim's Algorithm]]
+			- **Hard**
+				- [[Accounts Merge]]
+				- [[Making A Large Island]]
+				- [[Number Of Island 2]]
+			- **Medium**
+				- [[Most Stones Removed With Same Column or Row]]
+				- [[Number Of Operations To Make Component Connected]]
+		- **Other Algorithms**
+			- [[Articulation Point]]
+			- [[Bridges In Graph]]
+			- [[Kosaraju's Algorithm]]
+		- **Problems On Traversals**
+			- **Hard**
+				- [[Flood Fill]]
+				- [[Number Of Distinct Islands]]
+				- [[Number Of Enclaves]]
+				- [[Surrounded Regions]]
+				- [[Word Ladder - 1]]
+				- [[Word Ladder - 2]]
+			- **Medium**
+				- [[01 Matrix]]
+				- [[Bipartite Graph]]
+				- [[Number Of Provinces]]
+				- [[Rotten Oranges]]
+		- **Shortest Path Algorithms and Problems**
+			- **Algorithms**
+				- [[Bellman Ford Algorithm]]
+				- [[Dijkstra's Algorithm]]
+				- [[Floyd Warshall Algorithm]]
+				- [[Shortest Path in DAG]]
+				- [[Shortest Path in UG With Unit Weights]]
+			- **Hard**
+				- [[Cheapest Flights Within K Stops]]
+				- [[Find The City With The Smallest Number Of Neighbors In A Threshold Distance]]
+				- [[Minimum Steps to Reach end From start thorugh operations]]
+				- [[Print Shortest Path]]
+			- **Medium**
+				- [[Minimum Effort Path]]
+				- [[Network Delay Time]]
+				- [[Number Of Ways To Arrive At a Destination]]
+				- [[Shortest Path in Binary Maze]]
+		- **Theory**
+			- [[Bipartite Graph Theory]]
+			- [[Connected Components]]
+			- [[Graph And Types]]
+			- [[Graph Representation]]
+			- [[Minimum Spanning Tree]]
+		- **Topo Sort and Problems**
+			- **Problems**
+				- [[Alien Dictionary]]
+				- [[Course Schedule - 1 , 2]]
+				- [[Find Eventual Safe States]]
+			- **[[Topo Sort]]**
+				- [[Kahn's Algorithm]]
+		- **Traversals**
+			- [[BFS]]
+			- [[DFS]]
+	- **Greedy Algorithms**
+		- **Easy**
+		- **Hard**
+		- **Medium**
+			- [[Assign Cookies]]
+			- [[Fractional Knapsack Problem]]
+			- [[Job Sequencing]]
+			- [[Minimum Number of platforms required for a railway]]
+			- [[N Meetings in One Room]]
+	- **Linked List**
+		- **Easy**
+			- [[Merge 2 Sorted Linked List]]
+			- [[Reverse A Linked List]]
+		- **Hard**
+			- [[Clone a linked list with random and a next pointer]]
+			- [[Flattening of Linked List]]
+			- [[Reverse A Linked List In Size Of K]]
+		- **Medium**
+			- [[Add Two Numbers]]
+			- [[Check If A Linked List Is Palindrome Or Not]]
+			- [[Convert Sorted Linked List to BST]]
+			- [[Delete Node In A Linked List]]
+			- [[Detect Cycle In Linked List]]
+			- [[Find Intersection Point of Y Linked List]]
+			- [[Find the Starting Point Of Cycle]]
+			- [[Remove Nth Node From Back Of The Linked List]]
+			- [[Rotate A Linked List]]
+		- **Traversal**
+			- [[Find The Middle Of The Linked List]]
+	- [[questions]]
+	- **Stack And Queue**
+		- **Easy**
+			- [[Implement Stack Using Arrays And Linked List]]
+			- [[Implement Stack using queue]]
+			- [[Next Greater Element]]
+			- [[Queue using LL]]
+			- [[Sort A Stack]]
+		- **Hard**
+			- [[Largest Rectangle in a Histogram]]
+			- [[LFU Cache]]
+			- [[LRU Cache]]
+			- [[Sliding Window Maximum]]
+		- **Medium**
+			- [[Implement Min Stack]]
+			- [[Valid Parantheses]]
+- **OOPS**
+	- **Intro**
+		- [[Introduction to Classes And Objects]]
+- **Projects**
+	- **Sabi**
+		- [[FFT]]
+- **System Design**
+	- **Basics**
+		- [[What is System Design]]
+
+%% End Waypoint %%

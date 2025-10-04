@@ -2,6 +2,7 @@
 - **7th Sem**
 	- **DIP - 2711**
 		- **1st Unit**
+			- [[Application of DIP]]
 			- [[Origins Of DIP]]
 		- [[End-sems]]
 		- [[Mid-Sems]]

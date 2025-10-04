@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Origins Of DIP",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/DIP - 2711/1st Unit/Origins Of DIP.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Origins Of DIP\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":35},\"to\":{\"line\":21,\"ch\":35}},\"scroll\":16.704889112903224}"
+                },
+                {
                   "title": "Main Notes",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/Main Notes.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Main Notes\"}",
@@ -46,12 +52,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/7th Sem/DIP - 2711/1st Unit/Origins Of DIP.md",
+                "file": "Main Notes/7th Sem/DIP - 2711/1st Unit/Application of DIP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Origins Of DIP"
+              "title": "Application of DIP"
             }
           }
         ]
@@ -323,8 +329,9 @@
   },
   "active": "c2ababe902bdeacd",
   "lastOpenFiles": [
-    "Main Notes/Main Notes.md",
     "Main Notes/7th Sem/DIP - 2711/1st Unit/Origins Of DIP.md",
+    "Main Notes/7th Sem/DIP - 2711/1st Unit/Application of DIP.md",
+    "Main Notes/Main Notes.md",
     "Main Notes/7th Sem/DIP - 2711/Mid-Sems.md",
     "Main Notes/7th Sem/DIP - 2711/1st Unit",
     "Main Notes/7th Sem/DIP - 2711/End-sems.md",
@@ -367,7 +374,6 @@
     "Main Notes/DSA/Stack And Queue/Easy/Sort A Stack.md",
     "Images/Pasted image 20250726191628.png",
     "Main Notes/DSA/Stack And Queue/Easy/Implement Stack using queue.md",
-    "Main Notes/DSA/Stack And Queue/Easy/Implement Stack Using Arrays And Linked List.md",
     "Images/Pasted image 20250726125135.png"
   ]
 }

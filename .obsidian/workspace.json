@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "4. Fundamental Steps in Digital Image Processing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/DIP - 2711/1st Unit/4. Fundamental Steps in Digital Image Processing.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"4. Fundamental Steps in Digital Image Processing\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":42},\"to\":{\"line\":58,\"ch\":42}},\"scroll\":47.8203125}"
+                },
+                {
                   "title": "3. Components Of DIP System",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/DIP - 2711/1st Unit/3. Components Of DIP System.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"3. Components Of DIP System\"}",
@@ -64,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/7th Sem/DIP - 2711/1st Unit/4. Fundamental Steps in Digital Image Processing.md",
+                "file": "Main Notes/7th Sem/DIP - 2711/1st Unit/5. Human Visual Perception.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Fundamental Steps in Digital Image Processing"
+              "title": "5. Human Visual Perception"
             }
           }
         ]
@@ -341,8 +347,9 @@
   },
   "active": "c2ababe902bdeacd",
   "lastOpenFiles": [
-    "Main Notes/7th Sem/DIP - 2711/1st Unit/3. Components Of DIP System.md",
     "Main Notes/7th Sem/DIP - 2711/1st Unit/4. Fundamental Steps in Digital Image Processing.md",
+    "Main Notes/7th Sem/DIP - 2711/1st Unit/5. Human Visual Perception.md",
+    "Main Notes/7th Sem/DIP - 2711/1st Unit/3. Components Of DIP System.md",
     "Main Notes/7th Sem/DIP - 2711/1st Unit/2. Application of DIP.md",
     "Main Notes/7th Sem/DIP - 2711/1st Unit/1. Origins Of DIP.md",
     "Main Notes/Main Notes.md",
@@ -384,7 +391,6 @@
     "Main Notes/DSA/Stack And Queue/Easy/Next Greater Element.md",
     "Main Notes/System Design/Basics/What is System Design.md",
     "Templates/sys design.md",
-    "Main Notes/DSA/Stack And Queue/Hard/LRU Cache.md",
     "Images/Pasted image 20250726191628.png",
     "Images/Pasted image 20250726125135.png"
   ]

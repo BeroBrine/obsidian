@@ -7,6 +7,7 @@
 			- [[3. Components Of DIP System]]
 			- [[4. Fundamental Steps in Digital Image Processing]]
 			- [[5. Human Visual Perception]]
+			- [[6. Image Sensing And Acquisition]]
 		- [[End-sems]]
 		- [[Mid-Sems]]
 	- **Microcontrollers - EC6035**

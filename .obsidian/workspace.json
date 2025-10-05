@@ -77,8 +77,30 @@
               "icon": "lucide-file",
               "title": "5. Human Visual Perception"
             }
+          },
+          {
+            "id": "8e61243d2bcb8d3e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -345,7 +367,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "c2ababe902bdeacd",
+  "active": "8e61243d2bcb8d3e",
   "lastOpenFiles": [
     "Main Notes/7th Sem/DIP - 2711/1st Unit/4. Fundamental Steps in Digital Image Processing.md",
     "Main Notes/7th Sem/DIP - 2711/1st Unit/5. Human Visual Perception.md",

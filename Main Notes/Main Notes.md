@@ -9,6 +9,7 @@
 			- [[5. Human Visual Perception]]
 			- [[6. Image Sensing And Acquisition]]
 			- [[7. Image sampling , quantization and representation]]
+			- [[8. Basic Realtionship between Pixels]]
 		- [[End-sems]]
 		- [[Mid-Sems]]
 	- **Microcontrollers - EC6035**

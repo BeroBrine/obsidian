@@ -1,7 +1,10 @@
 %% Begin Waypoint %%
 - **7th Sem**
 	- **DIP - 2711**
-		- **1st Unit**
+		- [[End-sems]]
+		- **Image Enhancement In The Spatial Domain & Frequency Domain**
+			- [[Basic Grey Level Transformation]]
+		- **Intro And Funda To DIP**
 			- [[1. Origins Of DIP]]
 			- [[2. Application of DIP]]
 			- [[3. Components Of DIP System]]
@@ -10,7 +13,6 @@
 			- [[6. Image Sensing And Acquisition]]
 			- [[7. Image sampling , quantization and representation]]
 			- [[8. Basic Realtionship between Pixels]]
-		- [[End-sems]]
 		- [[Mid-Sems]]
 	- **Microcontrollers - EC6035**
 		- **2nd Chapter**

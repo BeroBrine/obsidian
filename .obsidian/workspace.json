@@ -18,6 +18,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Mid-Sems",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/DIP - 2711/Mid-Sems.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mid-Sems\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.249371027542374}"
+                },
+                {
+                  "title": "End-sems",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/DIP - 2711/End-sems.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"End-sems\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":35},\"to\":{\"line\":3,\"ch\":35}},\"scroll\":2.0792185200053526}"
+                },
+                {
+                  "title": "Mid-Sems",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/DIP - 2711/Mid-Sems.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mid-Sems\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.209823004943503}"
+                },
+                {
+                  "title": "Basic Grey Level Transformation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/DIP - 2711/Image Enhancement In The Spatial Domain & Frequency Domain/Basic Grey Level Transformation.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Basic Grey Level Transformation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":65,\"ch\":49},\"to\":{\"line\":65,\"ch\":49}},\"scroll\":57.01435467479675}"
+                },
+                {
                   "title": "8. Basic Realtionship between Pixels",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/DIP - 2711/Intro And Funda To DIP/8. Basic Realtionship between Pixels.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"8. Basic Realtionship between Pixels\"}",
@@ -419,14 +443,15 @@
   },
   "active": "c2ababe902bdeacd",
   "lastOpenFiles": [
-    "Main Notes/7th Sem/DIP - 2711/Intro And Funda To DIP/8. Basic Realtionship between Pixels.md",
+    "Main Notes/7th Sem/DIP - 2711/Mid-Sems.md",
+    "Main Notes/7th Sem/DIP - 2711/End-sems.md",
     "Main Notes/7th Sem/DIP - 2711/Image Enhancement In The Spatial Domain & Frequency Domain/Basic Grey Level Transformation.md",
+    "Main Notes/7th Sem/DIP - 2711/Intro And Funda To DIP/8. Basic Realtionship between Pixels.md",
     "Main Notes/7th Sem/DIP - 2711/Image Enhancement In The Spatial Domain & Frequency Domain",
     "HandwrittenNotes/Dip questions dist.pdf",
     "Main Notes/7th Sem/DIP - 2711/Intro And Funda To DIP/7. Image sampling , quantization and representation.md",
     "HandwrittenNotes/FT_2025-10-06 03:23:28.676.png",
     "Pasted image 20251006031706.png",
-    "Main Notes/7th Sem/DIP - 2711/Mid-Sems.md",
     "HandwrittenNotes/FT_2025-10-06 03:10:47.254.png",
     "HandwrittenNotes/FT_2025-10-06 03:06:19.505.png",
     "HandwrittenNotes/FT_2025-10-05 22:23:02.702.png",
@@ -439,7 +464,6 @@
     "Main Notes/7th Sem/DIP - 2711/Intro And Funda To DIP/1. Origins Of DIP.md",
     "Main Notes/Main Notes.md",
     "Main Notes/7th Sem/DIP - 2711/Intro And Funda To DIP",
-    "Main Notes/7th Sem/DIP - 2711/End-sems.md",
     "Images/Pasted image 20251004202020.png",
     "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Pin Configuration.md",
     "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Architecture..md",

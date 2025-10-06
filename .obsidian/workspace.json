@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Basic Grey Level Transformation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/DIP - 2711/Image Enhancement In The Spatial Domain & Frequency Domain/Basic Grey Level Transformation.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Basic Grey Level Transformation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":67,\"ch\":0},\"to\":{\"line\":68,\"ch\":0}},\"scroll\":56.343622967479675}"
+                },
+                {
                   "title": "Mid-Sems",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/DIP - 2711/Mid-Sems.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mid-Sems\"}",
@@ -166,12 +172,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/7th Sem/DIP - 2711/Image Enhancement In The Spatial Domain & Frequency Domain/Basic Grey Level Transformation.md",
+                "file": "Main Notes/7th Sem/DIP - 2711/Mid-Sems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Grey Level Transformation"
+              "title": "Mid-Sems"
             }
           }
         ]
@@ -443,9 +449,9 @@
   },
   "active": "c2ababe902bdeacd",
   "lastOpenFiles": [
+    "Main Notes/7th Sem/DIP - 2711/Image Enhancement In The Spatial Domain & Frequency Domain/Basic Grey Level Transformation.md",
     "Main Notes/7th Sem/DIP - 2711/Mid-Sems.md",
     "Main Notes/7th Sem/DIP - 2711/End-sems.md",
-    "Main Notes/7th Sem/DIP - 2711/Image Enhancement In The Spatial Domain & Frequency Domain/Basic Grey Level Transformation.md",
     "Main Notes/7th Sem/DIP - 2711/Intro And Funda To DIP/8. Basic Realtionship between Pixels.md",
     "Main Notes/7th Sem/DIP - 2711/Image Enhancement In The Spatial Domain & Frequency Domain",
     "HandwrittenNotes/Dip questions dist.pdf",

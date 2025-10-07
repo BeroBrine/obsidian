@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Architecture.",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Architecture..md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Architecture.\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Pin Configuration",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Pin Configuration.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pin Configuration\"}",
@@ -184,12 +190,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Architecture..md",
+                "file": "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Special Function Registers (SFR).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Architecture."
+              "title": "Special Function Registers (SFR)"
             }
           }
         ]
@@ -461,6 +467,7 @@
   },
   "active": "c2ababe902bdeacd",
   "lastOpenFiles": [
+    "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Architecture..md",
     "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Pin Configuration.md",
     "Main Notes/7th Sem/DIP - 2711/Mid-Sems.md",
     "Main Notes/7th Sem/DIP - 2711/Image Enhancement In The Spatial Domain & Frequency Domain/Basic Grey Level Transformation.md",
@@ -484,7 +491,6 @@
     "Main Notes/Main Notes.md",
     "Main Notes/7th Sem/DIP - 2711/Intro And Funda To DIP",
     "Images/Pasted image 20251004202020.png",
-    "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Architecture..md",
     "Images/Pasted image 20251004201934.png",
     "Images/Pasted image 20251004201859.png",
     "Images/Pasted image 20251004200830.png",

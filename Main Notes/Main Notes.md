@@ -13,6 +13,7 @@
 			- [[6. Image Sensing And Acquisition]]
 			- [[7. Image sampling , quantization and representation]]
 			- [[8. Basic Realtionship between Pixels]]
+			- [[9. Bit Plane Slicing]]
 		- [[Mid-Sems]]
 	- **Microcontrollers - EC6035**
 		- **2nd Chapter**

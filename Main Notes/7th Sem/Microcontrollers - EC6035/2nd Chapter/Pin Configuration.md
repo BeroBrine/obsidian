@@ -47,7 +47,7 @@ Tags:
 			- The 8051 can interface with 64KB of external memory , thanks to it's 16-bit address bus. 
 				- A0-A7 bit are lower order bit (the least significant 8 bits.)
 				- A7-15 bit are higher order bit (the most significant 8 bits.)
-	- When RD'/WR' , EA' , VSEN' are active
+	- When RD'/WR' , EA' , PSEN' are active
 			- Port 0 sends the lower order bytes , and then data bytes.
 			- Port 2 sends the higher order bytes.
 - Pin 29 -> PSEN' 

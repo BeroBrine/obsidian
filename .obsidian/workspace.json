@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Pin Configuration",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Pin Configuration.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pin Configuration\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":23},\"to\":{\"line\":49,\"ch\":23}},\"scroll\":48.969122023809526}"
+                },
+                {
                   "title": "Mid-Sems",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/DIP - 2711/Mid-Sems.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mid-Sems\"}",
@@ -178,12 +184,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Pin Configuration.md",
+                "file": "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Architecture..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pin Configuration"
+              "title": "Architecture."
             }
           }
         ]
@@ -455,6 +461,7 @@
   },
   "active": "c2ababe902bdeacd",
   "lastOpenFiles": [
+    "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Pin Configuration.md",
     "Main Notes/7th Sem/DIP - 2711/Mid-Sems.md",
     "Main Notes/7th Sem/DIP - 2711/Image Enhancement In The Spatial Domain & Frequency Domain/Basic Grey Level Transformation.md",
     "Main Notes/7th Sem/DIP - 2711/End-sems.md",
@@ -477,7 +484,6 @@
     "Main Notes/Main Notes.md",
     "Main Notes/7th Sem/DIP - 2711/Intro And Funda To DIP",
     "Images/Pasted image 20251004202020.png",
-    "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Pin Configuration.md",
     "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Architecture..md",
     "Images/Pasted image 20251004201934.png",
     "Images/Pasted image 20251004201859.png",

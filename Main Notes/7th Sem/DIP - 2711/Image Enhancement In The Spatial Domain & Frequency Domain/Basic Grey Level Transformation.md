@@ -32,7 +32,7 @@ Tags:
 	- The log transform make the lower magnitude but important frequency components visible.
 
 **3. Gamma Transformations**
-- This is a versatile non linear used for constrant manipulation and display correction.
+- This is a versatile non linear used for contrast manipulation and display correction.
 	- The purpose is to selectively expand or compress intensity ranges.
 	- Formula being $$ s = c.r^\gamma$$
 	where c is a constant and gamma is the exponent.

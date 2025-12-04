@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Special Function Registers (SFR)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Special Function Registers (SFR).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Special Function Registers (SFR)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":35},\"to\":{\"line\":8,\"ch\":35}}}"
+                },
+                {
                   "title": "Architecture.",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Architecture..md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Architecture.\"}",
@@ -316,12 +322,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Special Function Registers (SFR).md",
+                "file": "Main Notes/Main Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Special Function Registers (SFR)"
+              "title": "Main Notes"
             }
           }
         ]
@@ -593,6 +599,7 @@
   },
   "active": "c2ababe902bdeacd",
   "lastOpenFiles": [
+    "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Special Function Registers (SFR).md",
     "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Architecture..md",
     "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Pin Configuration.md",
     "Main Notes/7th Sem/DIP - 2711/Intro And Funda To DIP/8. Basic Realtionship between Pixels.md",
@@ -604,7 +611,6 @@
     "Main Notes/7th Sem/DIP - 2711/Intro And Funda To DIP/3. Components Of DIP System.md",
     "Main Notes/7th Sem/DIP - 2711/Image Enhancement In The Spatial Domain & Frequency Domain/Basic Grey Level Transformation.md",
     "Main Notes/7th Sem/DIP - 2711/Intro And Funda To DIP/9. Bit Plane Slicing.md",
-    "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Special Function Registers (SFR).md",
     "Main Notes/7th Sem/DIP - 2711/End-sems.md",
     "Main Notes/7th Sem/DIP - 2711/Image Enhancement In The Spatial Domain & Frequency Domain",
     "HandwrittenNotes/Dip questions dist.pdf",

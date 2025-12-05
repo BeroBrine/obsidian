@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Main Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/Main Notes.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Main Notes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":12},\"to\":{\"line\":3,\"ch\":12}},\"scroll\":0.5213675213675214}"
+                },
+                {
                   "title": "Special Function Registers (SFR)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter/Special Function Registers (SFR).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Special Function Registers (SFR)\"}",
@@ -322,60 +328,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/Main Notes.md",
+                "file": "Main Notes/7th Sem/DIP - 2711/End-sems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Notes"
-            }
-          },
-          {
-            "id": "2f6307a01b043b56",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Notes/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "2d276e20ca2dc8a9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "title": "End-sems"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -642,7 +603,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "2d276e20ca2dc8a9",
+  "active": "c2ababe902bdeacd",
   "lastOpenFiles": [
     "Main Notes/Main Notes.md",
     "Main Notes/Untitled.md",

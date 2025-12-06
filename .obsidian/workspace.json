@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "End-sems",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/DIP - 2711/End-sems.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"End-sems\"}",
+                  "eState": "{\"scroll\":2.990034254513776}"
+                },
+                {
                   "title": "Mid-Sems",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/DIP - 2711/Mid-Sems.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mid-Sems\"}",
@@ -376,12 +382,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/7th Sem/DIP - 2711/End-sems.md",
+                "file": "Main Notes/7th Sem/DIP - 2711/Mid-Sems.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "End-sems"
+              "title": "Mid-Sems"
             }
           }
         ]
@@ -653,8 +659,8 @@
   },
   "active": "c2ababe902bdeacd",
   "lastOpenFiles": [
-    "Main Notes/7th Sem/DIP - 2711/Mid-Sems.md",
     "Main Notes/7th Sem/DIP - 2711/End-sems.md",
+    "Main Notes/7th Sem/DIP - 2711/Mid-Sems.md",
     "Main Notes/7th Sem/DIP - 2711/Intro And Funda To DIP/8. Basic Realtionship between Pixels.md",
     "Main Notes/Main Notes.md",
     "Main Notes/Untitled.md",

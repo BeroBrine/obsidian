@@ -203,6 +203,11 @@
 		- **Medium**
 			- [[Implement Min Stack]]
 			- [[Valid Parantheses]]
+	- **Strings**
+		- **Easy**
+			- [[Remove outermost paranthesis]]
+		- **Hard**
+		- **Medium**
 - **OOPS**
 	- **Intro**
 		- [[Introduction to Classes And Objects]]
@@ -212,6 +217,6 @@
 - **System Design**
 	- **Basics**
 		- [[What is System Design]]
-- [[Untitled]]
+- [[Main Notes/Untitled]]
 
 %% End Waypoint %%

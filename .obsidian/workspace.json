@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "strings",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tags/strings.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"strings\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Remove outermost paranthesis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Strings/Easy/Remove outermost paranthesis.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Remove outermost paranthesis\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Bridges In Graph",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Other Algorithms/Bridges In Graph.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bridges In Graph\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":116,\"ch\":61},\"to\":{\"line\":116,\"ch\":61}},\"scroll\":95.56153706130638}"
+                },
+                {
                   "title": "Articulation Point",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Other Algorithms/Articulation Point.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Articulation Point\"}",
@@ -394,12 +412,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Other Algorithms/Bridges In Graph.md",
+                "file": "Main Notes/DSA/Strings/Easy/Remove outermost paranthesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bridges In Graph"
+              "title": "Remove outermost paranthesis"
             }
           }
         ]
@@ -671,6 +689,14 @@
   },
   "active": "c2ababe902bdeacd",
   "lastOpenFiles": [
+    "Tags/strings.md",
+    "Main Notes/DSA/Strings/Easy/Remove outermost paranthesis.md",
+    "Main Notes/DSA/Graphs/Other Algorithms/Bridges In Graph.md",
+    "Main Notes/DSA/Strings/Easy",
+    "Main Notes/DSA/Strings/Medium",
+    "Main Notes/DSA/Strings/Hard/Untitled",
+    "Main Notes/DSA/Strings/Hard",
+    "Main Notes/DSA/Strings",
     "Main Notes/DSA/Graphs/Other Algorithms/Articulation Point.md",
     "Main Notes/7th Sem/DIP - 2711/Mid-Sems.md",
     "Main Notes/7th Sem/DIP - 2711/End-sems.md",
@@ -706,16 +732,8 @@
     "Main Notes/Projects/Sabi/FFT.md",
     "Main Notes/7th Sem/Microcontrollers - EC6035/2nd Chapter",
     "Main Notes/7th Sem/Microcontrollers - EC6035/Untitled.md",
-    "Main Notes/7th Sem/Microcontrollers - EC6035",
-    "Main Notes/7th Sem",
-    "HandwrittenNotes/fft 1.pdf",
-    "Main Notes/Projects/Sabi",
-    "Main Notes/Projects",
     "Main Notes/DSA/Stack And Queue/Hard/LFU Cache.md",
     "Main Notes/DSA/Stack And Queue/Medium/Implement Min Stack.md",
-    "Main Notes/DSA/Stack And Queue/Medium/Valid Parantheses.md",
-    "Main Notes/OOPS/Intro/Introduction to Classes And Objects.md",
-    "Templates/Note..md",
-    "Templates/generic note.md"
+    "Main Notes/DSA/Stack And Queue/Medium/Valid Parantheses.md"
   ]
 }

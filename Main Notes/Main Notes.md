@@ -217,6 +217,8 @@
 - **System Design**
 	- **Basics**
 		- [[What is System Design]]
-- [[Main Notes/Untitled]]
+- [[Untitled]]
+- **Web3**
+	- **[[Bitcoin White Paper]]**
 
 %% End Waypoint %%

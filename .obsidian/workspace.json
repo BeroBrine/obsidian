@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Articulation Point",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/DSA/Graphs/Other Algorithms/Articulation Point.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Articulation Point\"}",
+                  "eState": "{\"scroll\":11.944547818107667}"
+                },
+                {
                   "title": "Mid-Sems",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Main Notes/7th Sem/DIP - 2711/Mid-Sems.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mid-Sems\"}",
@@ -388,12 +394,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/DSA/Graphs/Other Algorithms/Articulation Point.md",
-                "mode": "preview",
+                "file": "Main Notes/DSA/Graphs/Other Algorithms/Bridges In Graph.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Articulation Point"
+              "title": "Bridges In Graph"
             }
           }
         ]
@@ -665,6 +671,7 @@
   },
   "active": "c2ababe902bdeacd",
   "lastOpenFiles": [
+    "Main Notes/DSA/Graphs/Other Algorithms/Articulation Point.md",
     "Main Notes/7th Sem/DIP - 2711/Mid-Sems.md",
     "Main Notes/7th Sem/DIP - 2711/End-sems.md",
     "Main Notes/7th Sem/DIP - 2711/Intro And Funda To DIP/8. Basic Realtionship between Pixels.md",
@@ -709,7 +716,6 @@
     "Main Notes/DSA/Stack And Queue/Medium/Valid Parantheses.md",
     "Main Notes/OOPS/Intro/Introduction to Classes And Objects.md",
     "Templates/Note..md",
-    "Templates/generic note.md",
-    "Main Notes/DSA/Graphs/Traversals/BFS.md"
+    "Templates/generic note.md"
   ]
 }

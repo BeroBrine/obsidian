@@ -38,6 +38,13 @@ Tags:
 - The proof of work is similar to hashcash. 
 - Involves scanning for a value that when hashed , for eg with SHA-256 , yields out certain number of zero bits , the avg time to find this value is exponential to the number of zero bits required.
 -  Verifying the proof of work is just taking one hash and verifying if it contains the numbers.
-- 
+- Also solves the problem of determining representation in majority decision making. 
+	- Proof-of-work is essentially one-CPU-one-vote.
+- Majority decision is represented by longest chain.
+	- As long as majority of the compute power is controlled by the honest nodes , the honest chain will grow and be the source of truth.
+	- Attacking this chain will require massive computational power as changing one block will require the attacker to re-mine all the next chained nodes.	
+- To compensate for increasing hardware speed and varying interest in running nodes over time.
+	- The proof of work difficulty is determined by a moving average targeting an average number of blocks per hour.
+	- If they're generated too fast , the difficulty is increased. 
 ## References
 - [Bitcoin white paper](https://bitcoin.org/bitcoin.pdf)

@@ -25,9 +25,19 @@ Tags:
 	- Transferring of coin is done by digitally signing the hash of the previous transaction and the public key of the next owner by adding these in the end of the coin.
 	![[Pasted image 20251219184333.png]]
 	- Hash of the previous transaction that gave us the coin + public key of the next owner , then sign it with it my own private key.
+ - But the issue of double spending still exists as owner 1 can sign many other owner's keys and say hey this is your coin.
+ - To battle this timestamp server is devised.
+	 - Where the first transaction only is valid. 
+	 - To accomplish this without a trusted party , transactions must be publically announced , and we need a system for the participants to agree on a single order of history.
+	 - The payee needs proof that at the time of each transaction , the majority of the node agreed it was first recieved.
+### Timestamp server
+- Basically the miner. Works by taking a hash of a block of items to be timestamped and widely publishing the hash. The timestamp proves the data must have existed at the time of hashing , and whatever the data was , it's considered the genesis.
+	![[Pasted image 20251220095649.png]]
 
-
-
-
+### Proof of Work
+- The proof of work is similar to hashcash. 
+- Involves scanning for a value that when hashed , for eg with SHA-256 , yields out certain number of zero bits , the avg time to find this value is exponential to the number of zero bits required.
+-  Verifying the proof of work is just taking one hash and verifying if it contains the numbers.
+- 
 ## References
 - [Bitcoin white paper](https://bitcoin.org/bitcoin.pdf)

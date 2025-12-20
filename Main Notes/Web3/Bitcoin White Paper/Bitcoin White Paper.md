@@ -46,5 +46,6 @@ Tags:
 - To compensate for increasing hardware speed and varying interest in running nodes over time.
 	- The proof of work difficulty is determined by a moving average targeting an average number of blocks per hour.
 	- If they're generated too fast , the difficulty is increased. 
+	
 ## References
 - [Bitcoin white paper](https://bitcoin.org/bitcoin.pdf)

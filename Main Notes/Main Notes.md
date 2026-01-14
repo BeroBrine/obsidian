@@ -20,6 +20,9 @@
 			- [[Architecture.]]
 			- [[Pin Configuration]]
 			- [[Special Function Registers (SFR)]]
+- **8th Semester**
+	- **Recommendation Systems**
+		- [[Handout]]
 - **DSA**
 	- **Binary Search Tree**
 		- **Problems**
@@ -212,6 +215,9 @@
 	- **Intro**
 		- [[Introduction to Classes And Objects]]
 - **Projects**
+	- **FerroDB**
+		- **Book**
+			- [[Untitled]]
 	- **Sabi**
 		- [[FFT]]
 - **System Design**
